@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-17 05:56:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Cara Londra...   
+**Che  [ Londra ](http://www.thisislondon.com/news/londonnews/articles/5327811?source=Evening%20Standard)sia meno a buon mercato degli Stati Uniti se ne sono accorti anche in Inghilterra   .
+This is London

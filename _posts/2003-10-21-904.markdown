@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-21 08:01:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Che tempo che fa   
+**   Se passate per Londra alla Tate Modern c'e una bella  [ mostra ](http://www.thisislondon.com/entertainment/art/articles/7270049?source=Metro)d'arte contemporanea dedicata al tempo, nel senso di clima.   
+  This is London

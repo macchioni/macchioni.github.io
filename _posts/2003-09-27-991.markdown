@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-27 06:35:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Segway, abbiamo un problema   
+**  ![](http://www.miwats.org/newsletter/images/segway.gif) Pare che il mezzo di locomozione urbana del futuro, o l'«aspirapolvere con le ruote» - come l'hanno ribattezzato - abbia  [ qualche difettuccio](http://www.nytimes.com/2003/09/26/national/26CND-SCOO.html?hp)   . Cosi adesso la casa produttrice deve ritirarne 6 mila esemplari per fare un piccolo upgrade.   
+  NY Times - Miwats

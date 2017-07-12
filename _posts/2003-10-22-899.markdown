@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-22 07:33:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Corsi d'aggiornamento da Max Factor   
+** Sembra che gli studenti valutino meglio un professore di  [ bell'aspetto ](http://chronicle.com/jobs/2003/10/2003101501c.htm)che uno brutto.   
+Chronicle of Higher education

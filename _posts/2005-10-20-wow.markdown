@@ -1,0 +1,24 @@
+---
+author: leibniz
+comments: true
+date: 2005-10-20 22:05:09+00:00
+layout: post
+slug: wow
+title: Wow
+wordpress_id: 679
+categories:
+- web
+---
+
+Questo e' un post via [Flock](http://www.flock.com), composto con i [Beatallica](http://www.beatallica.org/) in sottofondo durante il primo quarto d'ora di utilizzo. Prime impressioni:   
+
+
+  * Uno, e' impossibile resistere alla tentazione di fare un post di prova. Lo hanno fatto tutti ed e' troppo facile: l'interfaccia provvede anche a sistemare in basso a destra i tag di Technorati, cha vanno compilati in una comoda finestrella a parte (neanche Wordpress da solo fa tanto)
+  * No, i post non si possono editare in html. O forse <b>si'</b>?  
+
+  * l'ultilizzo dei tag per ordinare i siti preferiti va e non va: sembra crei qualche passaggio in piu rispetto ai soliti menu a tendina.
+  * l'integrazione per scrivere post dal proprio blog, utilizzando anche i tag, e accedere a Flickr e' rapidissima (ma funziona per username, non per tag). Piu' difficoltoso il drag-and-drop di immagini nei casi di pop-up (almeno su Mac, nel solito primo quarto d'ora).
+  * carina l'idea di uno scaffale (=shelf) per appoggiarci immagini, link e altre cose del genere.
+  * anche l'aggregatore di feed: interfaccia leggibilissima, ma e' un po' troppo "Safari style". Disorienta chi e' abituato a leggere i blog secondo autore. Non chi invece legge sempre gli ultimi post
+
+Technorati Tags: [flock](http://technorati.com/tag/flock), [internet](http://technorati.com/tag/internet), [browsers](http://technorati.com/tag/browsers), [web2.0](http://technorati.com/tag/web2.0)

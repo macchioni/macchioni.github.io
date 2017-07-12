@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-29 06:04:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   La tecnologia e una cosa meravigliosa   
+**Allora, c'e un artista che ha sovrapposto digitalmente tutti i poster pieghevoli che si trovano al centro di Playboy   e li ha divisi per decadi. Il risultato e  [ questo](http://www.salavon.com/PlayboyDecades/PlayboyDecades.shtml).   
+  Salavon - (via  [ Dave Barry](http://davebarry.blogspot.com/))

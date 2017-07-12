@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-27 06:30:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Dead or alive   
+**   Bruce Willis fa il duro, va in Iraq a cantare per le truppe e promette  [ 1 milione ](http://story.news.yahoo.com/news?tmpl=story&u=/ap/20030926/ap_en_ot/iraq_bruce_willis_4)di dollari al soldato che catturera il rais fuggiasco.   
+  Yahoo! News

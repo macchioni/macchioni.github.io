@@ -1,0 +1,15 @@
+---
+author: leibniz
+comments: true
+date: 2009-05-02 08:47:28+00:00
+layout: post
+slug: come-fonzie-e-mork
+title: Come Fonzie e Mork
+wordpress_id: 4023
+categories:
+- tv
+---
+
+Chuck Bass è [finito](http://www.tvguide.com/News/Ed-Westwick-Californication-1005660.aspx) in Californication. [TVGuide.com]
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAUCAYAAACJfM0wAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAK8AAACvABQqw0mAAAAB90RVh0U29mdHdhcmUATWFjcm9tZWRpYSBGaXJld29ya3MgOLVo0ngAAAAWdEVYdENyZWF0aW9uIFRpbWUAMDQvMDQvMDhrK9wWAAACMElEQVQ4ja3SP2gTcRQH8O8vvUtIGmkqTY3SaMVFz6KDW2ywg4s4dGgXp3SyVLIIthCKQxCCuoZaXaSO/ilKd4sSdXRL0EWtIRYaSkXsJTH33utwSZM01xo0D353v+N+97l33/upQCAwFgwGfehiFYtFUxsYGPCmUqmv3YQTicSwBgCapnXTBQBoSinout5VVCnVDr/44B/OZH0xs6KMThCfR3LRs+aTycjvbwfCmawvduZkn7EwN4TBfheY90fXN6uYuffdyGQRu3apkmyDmzM2K8pYmBvC6kcLK+/KMEsWLCIQMSyLULUIFhH0HsGNycNYnDuO6PRno9lQSsFVh+tDQSEY6MHymzJKFQILgxkgYhALmBnMDLNsIf1sA8cG3VDYYzhFAWWfRBjCAiIbIxYQE1ga17+2GSICKLQYznCtiATEDK6BIrU5MUhgd0+NH+AIt+5jshdqgkpVwEwNkBgs9lyE4XY3nnLMWNf13QEAG1uE2JVe9PUC5JCvCMPrVpifOor1YnW34/pw7NjvVbmZ+3ljcTaMq5EjbRFJ07Gw8QfTd9fg96rc3o7bMh4f9SytvDenLl7/ZADAl5cjWF7dwmy60PaSeiPjo56lv2Ycnzi0Fp9AEgAu39x8+urtT9x5/GP74a2++LlTuumo76kDd4W9ALj9qIDIiOfBhdO+jtB9O279TFcuet77fD7Wn+sU7ajj1+kTSccb/wv/aymloEKh0Fg4HPZ2E87n86Udvs4FoWqwSHUAAAAASUVORK5CYII=)

@@ -1,0 +1,14 @@
+---
+author: leibniz
+comments: true
+date: 2004-09-10 20:51:51+00:00
+layout: post
+slug: the-eye
+title: The Eye
+wordpress_id: 3343
+categories:
+- web
+---
+
+![](http://craphound.com/images/eyetracknews.jpg)Questo qui a destra non è un ritaglio della Settimana Enigmistica, ma dovrebbe rappresentare il diagramma che sintetizza il [percorso del nostro sguardo](http://www.boingboing.net/2004/09/08/how_your_eyes_read_n.html) di fronte a un sito web di news. Per arrivare a tanto le telecamere dei ricercatori hanno seguito lo sguardo umano.
+Boing Boing

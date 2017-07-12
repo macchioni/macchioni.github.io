@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-17 07:54:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Quando   il vento soffia dal monte Rokko...   
+**   L'ultima volta che le  [   Tigri di Hanshin](http://www.corriere.it/edicola/index.jsp?path=ESTERI&doc=GIAP) , la squadra di baseball di Osaka, avevano vinto un campionato nazionale l'economia giapponese aveva preso a volare. Ora che e accaduto di nuovo i nipponici guardano al baseball e sperano per l'economia.
+Il Corriere della Sera

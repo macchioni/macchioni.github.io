@@ -1,0 +1,15 @@
+---
+author: leibniz
+published: true
+date: 2003-02-15 06:22:00+00:00
+layout: post
+title: My name is Mr. Jones
+categories:
+- web
+---
+
+L' [Economist][1] dedica un'articolo (solo per abbonati) al libro che racconterebbe il lato scuro dell'Italia, cioe l'Italia stessa, e nell'impaginazione c'e anche una foto a due colonne delle 'letterine' di Passaparola.Solite prese in giro: gli inglesi sono bravi a combattere guerre e scrivere commedie, gli italiani a cucinare, dipingere, giocare a calcio e vivere con stile. Gli inglesi si stupiscono dell'ascesa politica di Berlusconi e gli italiani non ci fanno caso perche sono gia passati per gli Asburgo e i Borbone: in fondo si tratta di un paese unificato solo nel 1861! Poi la tv che fa schifo, nessuno che paga le tasse, il gusto per la dietrologia e la Mafia. Manca solo il mandolino. In Inghilterra  [   libro ][2]e vostro per 17 sterline, ma Amazon lo liquida al 50 per cento.  
+  Amazon - Economist
+
+[1]:	http://www.economist.com/books/displayStory.cfm?story_id=1576535
+[2]:	http://www.amazon.co.uk/exec/obidos/ASIN/0571205828/ref=ed_soc__3_1/026-9617575-0021242

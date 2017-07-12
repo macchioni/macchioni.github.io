@@ -1,0 +1,18 @@
+---
+author: leibniz
+published: true
+date: 2003-03-02 07:56:00+00:00
+layout: post
+title: Il libro della domenica 
+categories:
+- web
+---
+
+	   ** Il libro della domenica   
+ E' uscito il nuovo saggio di Sergio Romano. Si chiama[   «Il rischio americano»][1] e parla piu che altro della fragilita politica dell'Europa all'indomani dell'11 settembre. Chi fosse interessato a questo tema puo leggere in rete il  [   breve saggio ][2]di Robert Kagan uscito su Foreign Policy a giugno, oppure - come gia segnalato - ordinare il suo nuovo libro,  [   qui ][3]recensito dal NY Observer.   Upd: [   Christian Rocca ][4]segnala che il saggio di Kagan uscira riveduto e corretto per Mondadori tra circa 2 settimane.  
+Longanesi - Foreign Policy - NY Observer - Camillo
+
+[1]:	http://www.longanesi.it/scheda.asp?idlibro=769&titolo=IL+RISCHIO+AMERICANO
+[2]:	http://www.policyreview.org/JUN02/kagan.html
+[3]:	http://www.observer.com/pages/story.asp?ID=6944
+[4]:	http://www.ilfoglio.it/camillo/

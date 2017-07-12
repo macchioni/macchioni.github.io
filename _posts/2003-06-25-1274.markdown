@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-25 07:24:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Altro che toga party   
+**   C'e addirittura chi propone di organizzare una  [ serata ](http://www.emmebi.blogspot.com/)di bloggers vestiti come i propri template. Il caldo fa nascere idee folli e geniali allo stesso tempo.   
+EmmeBi (idea di Max Ffwd)

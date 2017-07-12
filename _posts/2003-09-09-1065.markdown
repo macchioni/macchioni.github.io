@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-09 06:52:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Con l'aroma di montagna...   
+** Adesso pare che il Viagra possa avere anche altre applicazioni: tipo combattere il  [ mal d'altitudine](http://www.ilnuovo.it/nuovo/foglia/0,1007,187568,00.html).   
+Il Nuovo

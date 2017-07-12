@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-06 06:55:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Strani assortimenti   
+** Ci sono quindicenni ed un[   ottantenne ](http://www.corriere.it/edicola/index.jsp?path=ESTERI&doc=BUC) tra i venti prigionieri di Guantanamo che saranno liberati prossimamente dagli Usa.   
+Corriere della Sera

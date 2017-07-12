@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-10 07:13:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** "Tu stai male"   
+** Il Time svela la  [ malattia ](http://www.time.com/time/world/article/0,8599,516827,00.html)di Arafat (cancro allo stomaco) e il New York [ Post ](http://www.nypost.com/commentary/7787.htm)rincara la dose: "Anche la sua politica non e in buona salute".   
+  Time - NY Post

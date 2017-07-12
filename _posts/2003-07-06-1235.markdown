@@ -1,0 +1,14 @@
+---
+author: leibniz
+published: true
+date: 2003-07-06 07:38:00+00:00
+layout: post
+title: Viterbo val bene una messa
+categories:
+- web
+---
+
+
+ ![](http://www.restauronline.com/it/contenuti/restauro/concorsi/img/tuscia.jpg) Sul blog messo su da Gino Roncaglia si possono trovare alcuni  [ interventi ](http://roncaglia.homeip.net/uniblog/)del convegno tenutosi il 26 giugno a Viterbo. C'e l'analisi di  [ Giuseppe Granieri ](http://roncaglia.homeip.net/uniblog/2003/06/30#a20)("Cos'e e cosa non e un blog"), le risposte di [ Cristiano Siri ](http://roncaglia.homeip.net/uniblog/2003/06/30#a21)("A cosa serve un blog?"), le chiare slides di  [ Cesare Lamanna ](http://roncaglia.homeip.net/uniblog/2003/07/03#a24)e un commento di [ Massimo Mantellini](http://roncaglia.homeip.net/uniblog/2003/07/02#a23). Inoltre c'e il contributo di  [ Paolo Valdemarin](http://roncaglia.homeip.net/uniblog/2003/06/30#a17), che ha rilanciato in questa settimana una importante  [ questione ](http://paolo.evectors.it/italian/2003/07/02.html)(leggere anche post dei giorni successivi) che affligge blogger e programmatori. Leibniz suggerisce una lettura a chi vuole capirne di piu sulla Blogosfera.
+
+roncaglia.homeip.net/uniblog

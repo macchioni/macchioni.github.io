@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-26 04:19:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Etan Hawke ha scritto un libro   
+**Il  [ protagonista ](http://us.imdb.com/Name?Hawke,+Ethan)di Explorers, L'Attimo fuggente e Gattaca ha messo alle stampe " [ Il Mercoledi delle ceneri](http://www.minimumfax.com/libro.asp?libroID=196)". 
+minimum fax - Imdb

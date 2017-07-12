@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-05 08:22:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Questo si che e un Survivor   
+** Onore al coraggio di  [   questo ragazzo ](http://story.news.yahoo.com/news?tmpl=story&cid=573&ncid=757&e=2&u=/nm/20030502/od_nm/odd_amputation_dc)che rischiava di morire in montagna. (Avvertenza: la storia e tanto seria quanto cruenta)
+Yahoo! News

@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-12 06:32:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Dentro, la notizia   
+** Chi usa l'iPod con Windows puo scaricare  [ un'applicazione](http://www.ipoding.com/modules.php?op=modload&name=News&file=article&sid=1425&mode=thread&order=0) che permette di trasferire le ultime notizie di Google News sul lettore mp3 della Apple.
+iPoding: GoogleGet

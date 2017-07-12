@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-04-16 06:42:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Ma abbiamo visto la stessa guerra?**   
+  Se lo e chiesto ieri  [   Dorothy Rabinowitz](http://www.opinionjournal.com/medialog/?id=110003342) sul Wall Street Journal. Si riferiva al New York Times.
+WSJ

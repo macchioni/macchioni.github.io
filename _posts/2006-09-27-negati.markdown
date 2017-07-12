@@ -1,0 +1,19 @@
+---
+author: leibniz
+comments: true
+date: 2006-09-27 12:20:29+00:00
+layout: post
+slug: negati
+title: Negati
+wordpress_id: 2300
+categories:
+- generatori
+---
+
+Ogni anni escono [200 titoli della serie "for dummies"](http://www.nytimes.com/2006/09/24/books/review/Donadio.t.html?_r=2&oref=slogin&ref=books&pagewanted=all&oref=slogin). Tanto vale che uno cominci a farsene [qualcuno in proprio](http://www.signgenerator.org/books/dummies/).
+
+### NY Times - Sign generator
+
+  
+  
+

@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-15 06:31:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** E poi dicono male della televisione italiana   
+**   Channel 4, in Gran Bretagna, trasmettera lo spettacolo di un  [   illusionista ](http://www.ananova.com/news/story/sm_780221.html?menu=news.quirkies)che partecipera ad una roulette russa cercando di non sparars un colpo in testa. Se non altro la cosa non sara in diretta (nel caso qualcosa vada storto).
+Aranova

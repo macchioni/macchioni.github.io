@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-12 06:52:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Troppa violenza, troppi riferimenti alla Creazione**   
+  Per questo la commissione di censura egiziana ha  [ bloccato ](http://www.corriere.it/edicola/index.jsp?path=SPETTACOLI&doc=BIOG)la distribuzione di  _ Matrix-Reloaded_, come gia aveva fatto con  _ Matrix_. C'e un critico cinematografico, Wael Abdel Fatah, che invece sostiene sia colpa della campagna stampa fatta contro il film, che rispecchierebbe « _ idee sioniste e propaganda credi ebraici e sionisti_».   
+Il Corriere della Sera

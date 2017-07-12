@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-10 09:13:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Un quarto di miglio alla volta   
+**  [ Delusione ](http://ae.miami.com/entertainment/ui/miami/movie.html?id=100971&reviewId=12288)del critico cinematografico di Miami che ha visto "2Fast 2Furious", il seguito di " [ The Fast and the Furious](http://us.imdb.com/Title?0232500)". Genere: auto veloci, scommesse pesanti, donne vistose, polizia in giro.
+  Miami Herald - Imdb

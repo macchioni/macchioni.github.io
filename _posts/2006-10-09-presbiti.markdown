@@ -1,0 +1,13 @@
+---
+author: leibniz
+comments: true
+date: 2006-10-09 05:45:02+00:00
+layout: post
+slug: presbiti
+title: Presbiti
+wordpress_id: 2308
+categories:
+- 'null'
+---
+
+![](http://www.decodeunicode.org/data/glyph/196x196/0027.gif)![](http://www.decodeunicode.org/data/glyph/196x196/02BC.gif)Nei quotidiani va avanti da tempo un'abitudine piuttosto fastidiosa che riguarda gli apostrofi. Premessa: nove volte su dieci, quando arriva un pezzo di un collaboratore o di un editorialista, questo viene incollato in pagina così com'è e passato. Però capita sempre più spesso che i redattori non vedano la differenza tra l'apostrofo "dritto", solitamete ereditato nel copia&incolla;, e quello "tondo". Risultato: anche i più illuminati editoriali sembrano scritti come fossero sms. Accade ogni giorno anche sul Corriere della Sera (quasi sempre nella pagina Opinioni).

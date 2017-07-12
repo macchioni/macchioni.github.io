@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-25 07:51:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** «Le 35 ore hanno fallito, la flessibilita funziona»**  **
+** Tutto sommato il  [ trend ](http://www.ilriformista.it/documenti/editoriale.asp?id_doc=11856)occupazionale italiano piace anche al Riformista.   
+Il Riformista

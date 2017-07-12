@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-23 06:42:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** Un buco nell'acqua   
+** L' [ Eurotunnel](http://www.eurotunnel.com/), che collega Francia e Gran Breatagna,  [ non rende](http://www.ilnuovo.it/nuovo/foglia/0,1007,184666,00.html). Lo ammettono anche i suoi vertici, che ora abbassano i prezzi.
+Eurotunnel - Il Nuovo

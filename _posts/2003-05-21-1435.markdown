@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-21 10:41:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Non ti vedo e non ti sento   
+** I  [   problemi ](http://news.independent.co.uk/digital/news/story.jsp?story=407456)con i telefonini di terza generazione ci sono anche nella perfida Albione e la H3G (da noi 3) vede un po' nero.
+The Indipendent

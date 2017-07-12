@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-18 06:36:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Grosso e verde   
+** [ Recensione ](http://www.newyorkmetro.com/nymetro/movies/reviews/n_8805/)del film "Hulk" tratta dal NY Magazine.
+NY Magazine

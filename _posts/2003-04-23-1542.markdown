@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-04-23 05:36:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** L'ispettore e le pantere rosa   
+**[   Hans Blix ](http://www.lastampa.it/edicola/sitoweb/Esteri/art9.asp)si lamenta alla BBC di come vanno le cose nel mondo dei servizi segreti: « _ Col tempo si e visto che molti degli elementi di intelligence citati da Usa e Gran Bretagna contro l'Iraq erano piuttosto traballanti. E in alcuni casi le prove presentate dai britannici e dagli americani si sono rivelate false, costruite a tavolino. Puo darsi che abbiano ottenuto questo falso contratto da qualche parte, ma non sto dicendo che la CIA... Infatti la CIA ha detto che ha ottenuto una copia del documento dal Regno Unito. Certamente non insinuo che i servizi segreti britannici lo abbiano fabbricato, non mi sognerei mai di farlo. Ma puo darsi che ce ne siano altri in giro_».   
+  La Stampa

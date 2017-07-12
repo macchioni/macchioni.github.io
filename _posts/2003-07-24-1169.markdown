@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-24 08:27:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Quello che non siamo, quello che non vogliamo (pt.6)   
+** Ecco  [ un altro ](http://www.leibniz.it/)Leibniz della Rete che non c'entra nulla con questo blog. E il brutto e che possiede anche il suo bel domain.   
+  Leibniz.it

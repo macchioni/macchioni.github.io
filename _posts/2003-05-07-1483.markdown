@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-07 07:20:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** Ci ha preso gusto   
+** Stavolta Berlusconi  [   scrive ](http://www.corriere.it/edicola/index.jsp?path=COMMENTI&doc=BERLUS)al Corriere.Sempre in tema di giustizia (e anche d'immunita).
+Il Corriere della Sera

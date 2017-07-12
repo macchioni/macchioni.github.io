@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-01 23:52:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Under Construction   
+** Leibniz* cambia un po' aspetto. Se lo trovate orribile o se ci sono problemi di viasualizzazione fateglielo sapere.
+L*

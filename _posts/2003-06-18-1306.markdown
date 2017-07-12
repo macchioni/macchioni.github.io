@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-18 06:25:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Calate l'otto di picche   
+** Anche nel glorioso Parlamento italiano si raccolgono  [ firme ](http://www.corriere.it/edicola/index.jsp?path=ESTERI&doc=DIPLO)per la liberazione di Tarek Aziz. 
+Il Corriere della Sera

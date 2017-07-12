@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-11-07 08:22:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   "Macchine potenti, vite complicate e la testa altrove"
+**   E' finalmente online lo  [ spot ](http://www.governo.it/GovernoInforma/Campagne/)governativo piu bello: quello sulla sicurezza stradale. 
+Governo Italiano

@@ -1,0 +1,19 @@
+---
+author: leibniz
+published: true
+date: 2003-02-28 12:52:00+00:00
+layout: post
+title: Il pennone dell'illusione  
+categories:
+- web
+---
+
+Il pennone dell'illusione  
+   Molti i pollici versi al progetto di Libeskind, l'architetto che ricostruira sul Wtc. Sul popolare NY Post l'editoriale parla chiaro: 'e un  [   mausoleo ][1]con un minareto nel mezzo'. Steve Cuozzo parla invece di un memoriale con un[   banale ][2]parco suburbano.  [   Edward Wyatt][3], sul NY Times, cita un po' tutto quello che si e detto dopo la scelta di  [   Libeskind][4]. Questa e la  [   cronaca ][5]del Guardian.  
+The NY Post - The NY Times - The Guardian
+
+[1]:	http://www.nypost.com/postopinion/editorial/55216.htm
+[2]:	http://www.nypost.com/postopinion/opedcolumnists/55212.htm
+[3]:	http://www.nytimes.com/2003/02/28/nyregion/28REBU.html
+[4]:	http://www.guardian.co.uk/september11/story/0,11209,904578,00.html
+[5]:	http://www.guardian.co.uk/september11/story/0,11209,904651,00.html

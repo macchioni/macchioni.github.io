@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-09 07:01:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Piu famoso di Selvaggia   
+**  [ Salam Pax](http://www.guardian.co.uk/Iraq/Story/0,2763,1038253,00.html), il blogger iracheno reso celebre dalla guerra, racconta la sua esperienza al Guardian. E pensare che tutto era cominciato come un gioco.
+The Guardian

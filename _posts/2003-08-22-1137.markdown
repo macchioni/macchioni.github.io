@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-08-22 06:38:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** I'm the sexiest in the Big Apple   
+**   Ecco stavolta i  [ 50 newyorchesi piu sexy](http://www.newyorkmetro.com/news/articles/03/08/sexiest/): compresi il miglior rabbino, il miglior ex ragazzo di Courtney Love, il miglior calvo e il miglior fumatore.   
+  NY Magazine

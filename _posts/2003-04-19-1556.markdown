@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-04-19 08:28:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Vita di uno scrittore   
+** Sveglia alle 6, lettura, ginnastica e passeggiata alle 7, ritorno a casa  . Dalle 10,30 alle 14,00 scrittura (ma solo con la stilografica), biblioteca fino alle 19,00. Ecco il programma quotidiano di  [   Mario Vargas Llosa ](http://www.ita-bol.com/bol/main.jsp?action=bollibri&tipoContrib=AU&codPers=0000479)intervistato da  [   Le Point](http://www.lepoint.fr/litterature/document.html?did=129190).
+Le Point - Bol

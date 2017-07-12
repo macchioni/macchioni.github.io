@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-12 06:30:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Questi si che sono post   
+** I fanatici dei Post-it, i foglietti di carta gialla parzialmente adesivi, che si lamentavano perche si scollavano troppo facilmente dal superfici come il monitor del computer ora possono stare tranquilli: e arrivata la versione  [ Super Sticky](http://www.newyorkmetro.com/content/03/wk37/bestbets_030912.htm), super appiccicosa. Altrimenti, per i fanatici ma non solo, c'e  [ questo blog](http://3m.splinder.it/).   
+NY Magazine - Post-it blog

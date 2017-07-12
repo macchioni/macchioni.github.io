@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-04-07 13:50:00+00:00
+layout: post
+title: Guarda chi si rivede
+categories:
+- web
+---
+Navigando capita anche di trovarsi davanti ad una finestra pop-up dalla quale esce un educato: «Sono Mario Segni, ho una domanda da farti.. ti ritrovi in questa Italia?», seguito anche da un «se SI lascia perdere, se NO clicca qui». Cliccare per curiosita porta ad un paginone intitolato " [   Le domande di Mario Segni][1]" e quindi alla fatidica domanda: cosa ti preoccupa o ti delude di piu? Tolto che le domande a questo punto sono gia due (e non una come promesso), le risposte preconfezionate sono splendide.  
+Le domande di Mario Segni
+
+[1]:	http://ime.winwin.com/appsegni2/sondaggi/show_poll.php?pollid=1&templateid=1&QU_C_WEBSITE_99743325_33=STA_O_WEBSITE_99743325_33_39

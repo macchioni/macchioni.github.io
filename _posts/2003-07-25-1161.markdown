@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-25 07:01:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Per chi ha fegato   
+** Si parla molto del fatto che gli Usa hanno distribuito le foto dei figli di Saddam uccisi. Un'immagine e  [ qui](http://image.guardian.co.uk/sys-images/Guardian/Pix/pictures/2003/07/24/split128.jpg).   
+  The Guardian

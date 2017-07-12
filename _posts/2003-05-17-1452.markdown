@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-17 06:39:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** God and I (reprise)   
+** Bill Keller non si fida delle interpretazioni sul ruolo della religione nella vita di George W. Bush e prova a ragionare in modo diverso dalla vulgata. Se interessa e  [   qui](http://www.nytimes.com/2003/05/17/opinion/17KELL.html).   
+The New York Time

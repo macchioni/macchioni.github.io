@@ -1,0 +1,18 @@
+---
+author: leibniz
+published: true
+date: 2003-07-03 07:20:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Ce l'avete sempre con chi non vi da ragione   
+**   Lo storico  [ Eric Hobsbawm ](http://chronicle.com/free/v49/i43/43b00701.htm)sull'atteggiamento degli Usa in politica estera:
+
+>  
+> 
+> Yet, unlike other nations, in its national ideology the U.S.A. does not simply exist. It only achieves. It has no collective identity except as the best, the greatest country, superior to all others and the acknowledged model for the world. As the football coach said: Winning is not just the most important thing, it is all there is.
+
+The Chronicle

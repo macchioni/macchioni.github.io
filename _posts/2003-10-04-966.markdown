@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-04 05:57:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Qualcosa di personale   
+**   Apri due giornali e scopri che hai frequentato non solo il liceo di Elsa Morante, ma anche quello di Adriano Sofri ed Emilio Fede.
+L*

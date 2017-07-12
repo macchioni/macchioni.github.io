@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-10 07:11:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** Sempre piu in alto   
+** La Lower Manhattan Development Corp. ha deciso che il grattacielo piu alto che sorgera su Ground Zero - la Freedom Tower - non sara alto 1776 piedi (numero simbolico che ricordava la Dichiarazione d'Indipendenza) ma  [ 2000](http://www.nypost.com/news/regionalnews/7783.htm). 
+NY Post

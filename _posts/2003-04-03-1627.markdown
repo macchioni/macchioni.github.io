@@ -1,0 +1,15 @@
+---
+author: leibniz
+published: true
+date: 2003-04-03 08:34:00+00:00
+layout: post
+title: A tutta birra
+categories:
+- web
+---
+
+Quando si tratta di bere birra l'Italia e  [   all'ultimo posto ][1]in Europa. Poco male, ma come ci sono rimasti gli irlandesi quando hanno scoperto di essere stati superati dai cechi?
+
+L'Express
+
+[1]:	http://www.lexpress.fr/Express/Info/Europe/Dossier/europeens/dossier.asp

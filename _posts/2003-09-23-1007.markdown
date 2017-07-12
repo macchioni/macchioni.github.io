@@ -1,0 +1,14 @@
+---
+author: leibniz
+published: true
+date: 2003-09-23 05:38:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Vox populi   
+** L'Espresso raccoglie ancora preferenze per formare il  [   fantagoverno ](http://www.speciali.espressonline.it/cgi-bin/risultati.pl) preferito dai suoi lettori online. Ecco i risultati dei primissimi:Sergio Cofferati (   Presidente del Consiglio),Marco Pannella ( VicePresidente),Massimo D'Alema (Esteri),Luciano Violante (Interni), Oliviero Diliberto (Difesa), Francesco Saverio Borrelli (Giustizia), Vincenzo Visco (Eonomia), Pierluigi Bersani (Attivita Produttive), Gianni Vattimo (Istruzione), Fausto Bertinotti (Welfare), Niki Vendola (Politiche Agricole), Alfonso Pecoraro Scanio (Ambiente), Antonio Di Pietro (Infrastrutture), Franco Grillini (Salute), Dario Fo (Beni Culturali), Michele Santoro (Comunicazioni).   
+  Da notare che: Carlo De Benedetti si piazza sesto come Presidente, Giulio Andreotti terzo per gli Esteri, Ilda Boccassini quinta per gli Interni (e quarta per la Giustizia), Luca di Montezemolo secondo per le Attivita Produttive, Piero Angela terzo per la Cultura, ecc... ecc...   
+L'Espresso (grazie a  [ Sem*](http://semerssuaq.splinder.it/))

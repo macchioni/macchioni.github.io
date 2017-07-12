@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-28 06:53:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** Sanzioni   
+**   "They saved the world from Saddam Hussein. Or they killed 500,000 innocent children. Or they did both".  [ Inchiesta ](http://www.nytimes.com/2003/07/27/magazine/27SANCTIONS.html)del NY Times.   
+NY Times Magazine

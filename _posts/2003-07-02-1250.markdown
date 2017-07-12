@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-02 05:55:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Niente piu Bordeaux nei tombini   
+**[ Gianni Riotta ](http://www.corriere.it/edicola/index.jsp?path=PRIMA_PAGINA&doc=RIOT)sulla necessita per l'Europa di recuperare un rapporto con gli Stati Uniti. E viceversa.   
+Il Corriere della Sera

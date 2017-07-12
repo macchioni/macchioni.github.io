@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-27 07:15:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Apri la bocca   
+**In Germania una madre e stata  [   multata ](http://story.news.yahoo.com/news?tmpl=story&cid=573&ncid=757&e=2&u=/nm/20030525/od_nm/odd_germany_dentist_dc)perche la figlia eveva paura del dentista e si rifiutava di "collaborare" .
+Yahoo! News

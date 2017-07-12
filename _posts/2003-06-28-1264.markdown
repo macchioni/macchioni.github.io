@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-28 07:14:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   C'e un giudice a Washington   
+**Ritrattino di  [ Sandra Day O'Connor](http://www.corriere.it/edicola/index.jsp?path=ESTERI&doc=CORTE), giudice della Corte Suprema, nata conservatrice e diventata famosa per le sue aperture liberal.   
+  Il Corriere della Sera

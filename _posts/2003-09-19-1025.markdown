@@ -1,0 +1,18 @@
+---
+author: leibniz
+published: true
+date: 2003-09-19 08:35:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Il tempo gioca contro Schwarzy   
+**   La  [ situazione ](http://www.washingtonpost.com/wp-dyn/articles/A31786-2003Sep18.html)in California ad oggi e questa: 
+
+>  
+> 
+> Public polls recently have shown that if voters decide to recall Davis, Bustamante is likely to be elected governor. Schwarzenegger, apparently running a close second, is splitting the GOP vote with McClintock, who has resisted pressure from some GOP leaders to quit the race. A federal court has put the Oct. 7 recall vote on hold, but may reconsider the issue
+
+Washington Post

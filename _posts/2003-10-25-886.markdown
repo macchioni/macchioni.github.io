@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-25 06:29:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Un'altra lista di 100 cose (stavolta sono inventori)   
+** Dall'insulina a spruzzo ai trattori automatici, le  [ cento invenzioni ](http://www.internazionale.it/cartoline/cartolina.php?id=4322&issue_id=93&oid=65)che rivoluzioneranno la nostra vita. Ne accenna Internazionale.  
+Internazionale

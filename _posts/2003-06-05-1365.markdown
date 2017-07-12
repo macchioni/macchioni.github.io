@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-05 07:20:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Sono 1.943   
+** Chi ha visto Matrix-Reloaded si sara chiesto, dopo circa 20 minuti di titoli di coda, quante persone abbiano partecipato al film. La spiegazione e nella sezione " [   trivia](http://us.imdb.com/Trivia?0234215) " di Internet Movie Database (ci sono anche cose incredibili tipo: la spiegazione della targa dell'auto dell'agente Smith). Qui invece ci sono le " [ memorable quotes](http://us.imdb.com/Quotes?0234215)".   
+  Imdb

@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-03 06:05:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   La pillola rossa   
+**Secondo  [ qualcuno ](http://www.golemblog.rai.it/golem/archives/000128.php), mirabilmente adocchiato da  [ Klamm ](http://klamm.splinder.it/1065096297), i blackout altro non sono che la dimostrazione che gli autori di Matrix avevano ragione: viviamo in un mondo simulato, ma le macchine ogni tanto fanno cilecca. 
+  Golem Blog - Klamm

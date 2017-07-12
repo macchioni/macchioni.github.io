@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-04-28 05:48:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** MacSurprise   
+** Niente panini e clown, ma iPod e musica su internet. Oggi e il giorno dell' [   annuncio](http://www.nytimes.com/2003/04/28/technology/28APPL.html) della Apple.   
+  NY Times Magazine

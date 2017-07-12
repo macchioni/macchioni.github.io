@@ -1,0 +1,14 @@
+---
+author: leibniz
+published: true
+date: 2003-08-20 08:10:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** I maghi svedesi che vinsero Harry Potter**
+
+Creato in 46 versioni, distribuito in 36 paesi, tradotto in 28 lingue. Non e il bestseller della Rowling, ma il catalogo Ikea: 130 milioni di esemplari ogni stagione (e il numero cresce sempre piu). La ditta di Almhult spende alla voce cataloghi il 50 per cento del proprio budget e si scontra con notevoli problemi: in Grecia ci sono case che non hanno la buca delle lettere, in Cina c'e ma e troppo piccola, in Malaysia c'e troppa umidita. Da un articolo del Financial Times del 14 agosto (a  [ pagamento](http://search.ft.com/search/article.html?id=030814000910&query=ikea&vsc_appId=totalSearch&state=Form)).
+  Financial Times

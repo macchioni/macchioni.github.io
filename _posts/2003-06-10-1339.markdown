@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-10 09:25:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Il presidente fa quello che dico io   
+**   E' un duro, ma lo chiamano "Boy Genius". Ritratto di  [ Karl Rove](http://www.courrierinternational.com/mag/ERsoc.htm), influente consigliere di Bush che ripeterebbe sempre: "Attaccare, attaccare, attaccare".
+Courrier International

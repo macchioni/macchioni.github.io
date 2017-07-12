@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-02 08:12:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Metti il centro storico in vetrina**   
+Nelle grandi citta si fugge verso l'hinterland e i centri diventano  [ borghi chic ](http://www.corriere.it/edicola/index.jsp?path=INTERNI&doc=CONTI)a caro prezzo. Ne scrive Paolo Conti.   
+Corriere della Sera

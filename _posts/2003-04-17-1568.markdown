@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-04-17 05:28:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Ma qui sembra di stare a Cuba   
+** Tradizioni e costumi degli  [   ebrei latino-americani ](http://www.miami.com/mld/miamiherald/5641229.htm)emigrati nella Florida del Sud.   
+Miami Herald

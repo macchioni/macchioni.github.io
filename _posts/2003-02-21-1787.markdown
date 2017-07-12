@@ -1,0 +1,15 @@
+---
+author: leibniz
+published: true
+date: 2003-02-21 19:25:00+00:00
+layout: post
+title: Le Monde, non si è fermato mai un momento
+categories:
+- web
+---
+
+   Le Monde, non si è fermato mai un momento  
+ L'Express dedica una pagina ad un libro che racconta  [   il piu noto quotidiano francese][1], un'istituzione al di sopra di ogni sospetto. Ci sono anche molti estratti.  
+L'Express
+
+[1]:	http://www.lexpress.fr/Express/Info/Societe/Dossier/lemonde/dossier.asp

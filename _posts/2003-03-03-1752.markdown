@@ -1,0 +1,16 @@
+---
+author: leibniz
+published: true
+date: 2003-03-03 07:09:00+00:00
+layout: post
+title: Vela via 
+categories:
+- web
+---
+
+	   ** Vela via   
+ La Stampa si scatena e dedica piu pagine al team che ha vinto l'America's Cup. Cosi ecco un ritratto dell'armatore  [   Bertarelli ][1]e l'inevitabile anticipazione che nel 2007 le regate non saranno ospitate dall'Italia, ma probabilmente da  [   Lisbona][2] . L'annuncio ufficiale dovrebbe esserci martedi.  
+La Stampa
+
+[1]:	http://www.lastampa.it/edicola/sitoweb/Cronache_italiane/art4.asp
+[2]:	http://www.lastampa.it/edicola/sitoweb/Cronache_italiane/art1.asp

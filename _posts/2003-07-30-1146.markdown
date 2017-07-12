@@ -1,0 +1,14 @@
+---
+author: leibniz
+published: true
+date: 2003-07-30 07:54:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Have a break   
+**   Leibniz se ne va in vacanza nel Rosental a riflettere su forme sostanziali e metafisica dei tubi. Riapparira il 20 agosto.
+
+   ![](http://www.atl.ualberta.ca/project/images/loading.gif)

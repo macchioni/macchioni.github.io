@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-28 07:24:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Si, come no   
+** Francia e Germania sono il motore dell'Europa, non un direttorio.  [ Parola ](http://www.lefigaro.fr/debats/20031028.FIG0165.html)di francese.
+Le Figaro

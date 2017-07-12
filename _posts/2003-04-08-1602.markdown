@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-04-08 15:46:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+Per il  [   direttore ](http://www.ilmanifesto.it/oggi/art3.html)   del Manifesto non e molto importante la traduzione di «shock and awe» (lui scrive ancora «Sconvolgi e terrorizza», mentre ad andare per la maggiore e «colpisci e sorprendi»), contano piuttosto le immagini: i soldati americani spaparanzati all'interno del palazzo di Saddam o quelle di buon giornalismo riprese dal team Botteri per le strade di Baghdad.
+E' la guerra vera, cioe sporca, che ti entra in casa e te la distrugge, ti guarda in faccia e ti elimina per sempre.
+
+il manifesto

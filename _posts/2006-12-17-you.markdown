@@ -1,0 +1,16 @@
+---
+author: leibniz
+comments: true
+date: 2006-12-17 16:13:13+00:00
+layout: post
+slug: you
+title: You.
+wordpress_id: 2350
+categories:
+- blogging
+- web
+---
+
+[![](http://www.leibniz-blogs.it/gallery/time2006.jpg)](http://www.time.com/time/magazine/article/0,9171,1569514,00.html)
+
+### Time

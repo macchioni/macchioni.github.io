@@ -1,0 +1,19 @@
+---
+author: leibniz
+comments: true
+date: 2008-11-18 13:37:39+00:00
+layout: post
+slug: mr-1500-miliardi
+title: Mr. 1500 miliardi
+wordpress_id: 3620
+categories:
+- politica
+---
+
+Il Nobel Joseph E. Stiglitz, volendo infierire e facendo molto il furbo, ha calcolato [quanto sarebbe costata](http://www.motherjones.com/news/feature/2008/11/the-seven-deadly-deficits.html) l'amministrazione Bush all'America.
+
+
+> Put it all together—the money squandered on the war, the money wasted on a housing pyramid scheme that impoverished the nation and enriched a few, and the money lost because of the recession—and the gap between what we could have produced and what we did produce will easily exceed $1.5 trillion.
+
+
+[Mother Jones]

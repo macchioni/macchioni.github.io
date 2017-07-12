@@ -1,0 +1,12 @@
+---
+author: leibniz
+published: true
+date: 2003-06-30 06:06:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+Alcuni dei migliori  [ bar all'aperto ](http://www.newyorkmetro.com/urban/guides/summerfun/outdoorbars.htm)di New York. Da quello per bere un buon Margarita a quello adatto a rifocillarsi dopo una partita di softball.  
+NY Magazine

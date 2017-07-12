@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-04 06:48:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Terra e liberta   
+** Tra Hong Kong e la Cina il problema non e  [ Hong Kong](http://www.commentarymagazine.com/waldron.html), ma Pechino. Arthur Waldron su Commentary a proposito del "One country, two systems".   
+Commentary

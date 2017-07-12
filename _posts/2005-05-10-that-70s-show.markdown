@@ -1,0 +1,22 @@
+---
+author: leibniz
+comments: true
+date: 2005-05-10 08:00:02+00:00
+layout: post
+slug: that-70s-show
+title: That '70s show
+wordpress_id: 302
+categories:
+- old-blog
+---
+
+Siccome in questi anni il benessere delle famiglie europee comunque e
+cresciuto, ma queste si comportano come se cosi non fosse, i
+pubblicitari francesi [riportano tutti negli anni '70](http://www.lemonde.fr/web/article/0,1-0@2-3236,36-647588,0.html):  
+
+
+> Nous vivons une situation paradoxale. L'economie va mieux, mais meme
+s'il y a une embellie, cela ne se traduit pas par une amelioration du
+taux de bonheur des gens
+
+### Le Monde

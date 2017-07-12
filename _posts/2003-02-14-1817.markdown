@@ -1,0 +1,15 @@
+---
+author: leibniz
+published: true
+date: 2003-02-14 07:32:00+00:00
+layout: post
+title: Mi fate giocare con voi?
+categories:
+- web
+---
+
+Il Nuovo racconta la  [storia ][1]di un adolescente venezuelano che vorrebbe giocare a pallacanestro in Italia, ma e bloccato dalle norme federali per almeno un anno.
+
+Il Nuovo
+
+[1]:	http://www.ilnuovo.it/nuovo/foglia/0,1007,170086,00.html

@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-14 08:44:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   I'm workin' on it   
+** Paul Bremer III, l'amministratore civile Usa in Iraq, ha scritto sul NY Times per spiegare  [ intenzioni ](http://www.nytimes.com/2003/07/13/opinion/13BREM.html)e risultati del suo lavoro. La ricompensa finale sara un Iraq "free, democratic and independent".   
+NY Times

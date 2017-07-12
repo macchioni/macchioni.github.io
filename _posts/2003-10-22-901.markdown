@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-22 07:27:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Coffee and tv   
+** L'attacco di tachicardia di Tony Blair sarebbe stato causato dai  [ troppi espresso ](http://www.corriere.it/edicola/index.jsp?path=ESTERI&doc=BIOGaa)bevuti al vertice di Bruxelles. 
+  Corriere della Sera

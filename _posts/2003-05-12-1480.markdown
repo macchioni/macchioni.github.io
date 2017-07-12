@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-12 06:53:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** Sembra «Fish-Eye», ma e Repubblica   
+**   Era venerdi 9 maggio quando aprendo il giornale di piazza Indipendenza si pote leggere: "Il boom dei  [   gamberetti ](http://217.169.101.123/servlet/ricerche?tipo=shownews&id=2062)una minaccia per la natura" (pag. 21), ma anche "Fuga dal Mediterraneo i tonni sono scomparsi. I branchi che passavano da migliaia di anni non si sono visti. Forse colpa delll'inquinamento dei pescatori giapponesi" (pag. 34).
+La Repubblica - Vivere il mare

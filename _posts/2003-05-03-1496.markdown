@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-03 12:31:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Voto elettronico: troppo presto?   
+** L'esperimento e stato fatto in Gan Bretagna il  [   primo maggio](http://news.bbc.co.uk/1/hi/technology/2995493.stm), ma non sembra aver dato i successi sperati.   
+BBC

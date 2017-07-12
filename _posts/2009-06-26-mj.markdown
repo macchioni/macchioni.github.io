@@ -1,0 +1,13 @@
+---
+author: leibniz
+comments: true
+date: 2009-06-26 08:34:54+00:00
+layout: post
+slug: mj
+title: MJ
+wordpress_id: 4109
+categories:
+- video
+---
+
+[Michael Jackson - Jam](http://www.youtube.com/watch?gl=IT&hl=it&v=XvNJE4FFPP8)

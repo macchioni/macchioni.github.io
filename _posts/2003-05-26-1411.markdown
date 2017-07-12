@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-26 06:10:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Per fortuna c'e l'elefante   
+**   Il film di  [   Van Sant ](http://www.liberation.fr/page.php?Article=113212)avrebbe salvato il festival di Cannes, dice Libe. Mah.   
+Liberation

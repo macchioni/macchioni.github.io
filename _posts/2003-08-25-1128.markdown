@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-08-25 06:20:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** Vota come mangi   
+**   Questa e di un po' di giorni fa. Taco Bell (catena di cibo messicano), in onore del voto californiano per la procedura di recall, ha aperto un  [   grandioso sondaggio](http://news.ninemsn.com.au/World/story_51219.asp) : se ordini Crunchy Beef Tacos vuol dire che sei con Arnold Schwarzenegger, se scegli il Chicken Soft Taco sei con il governatore uscente Gray Davis, se invece l'opzione e Grilled Beef Stuft Burrito sara come votare per uno degli altri 134 candidati (ad esempio Larry Flynt). Nel caso qualcuno credesse sia una balla c'e anche una  [ pagina web ](http://www.tacobell.com/2003recall/)destinata ad ospitare i risultati.   
+  msn - Taco Bell

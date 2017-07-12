@@ -1,0 +1,14 @@
+---
+author: leibniz
+published: true
+date: 2003-05-05 08:15:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Entrare allo Yankee Stadium   
+ e ricevere una standing ovation   
+** E' accaduto al primo ministro australiano, John Howard: cosi i tifosi hanno voluto  [   ringraziare ](http://www.smh.com.au/articles/2003/05/05/1051987647219.html)il suo paese per l'appoggio dato alla guerra in Iraq.
+Sydney Morning Herald

@@ -1,0 +1,26 @@
+---
+author: leibniz
+comments: true
+date: 2010-10-07 13:24:29+00:00
+layout: post
+slug: coartare
+title: Coartare
+wordpress_id: 4583
+categories:
+- la parola del giorno
+tags:
+- feltri
+- il giornale
+- marcegaglia
+- perquisizione
+- piscitelli
+- porro
+- sallusti
+- woodcock
+---
+
+co•ar•tà•re
+(coàrto) _v. tr_.
+1 raro, lett. Restringere, comprimere. _Il giornalista (e nessun altro) non ha diritto di utilizzare i propri scritti e le proprie pubblicazioni, o meglio la prospettazione di propri scritti e proprie pubblicazioni, allo scopo di coartare la volontà altrui_*. (Seguono grosse risate, suppongo).
+
+*[Vincenzo Piscitelli e Henry John Woodcock](http://www.corriere.it/cronache/10_ottobre_07/marcegaglia-perquisito-il-giornale_87a757fa-d1ee-11df-93c4-00144f02aabc.shtml), decreto di perquisizione della redazione del _Giornale_, 7.10.2010.

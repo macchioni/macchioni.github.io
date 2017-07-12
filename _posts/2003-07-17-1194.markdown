@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-17 07:00:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Il primo giorno di scuola   
+** Bill Keller, il nuovo direttore del New York Times,  [ raccontato ](http://www2.observer.com/observer/pages/frontpage1.asp) da Sridhar Pappu.   
+NY Observer

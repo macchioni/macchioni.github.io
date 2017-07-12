@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-22 07:43:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** The Blair rich project   
+**  [ Jayson Blair](http://www.opinionjournal.com/extra/?id=110004039), il giornalista "imbroglione" del NY Times alle prese con il suo libro biografico "Burning Down My Master's House".   
+Wall Street Journal

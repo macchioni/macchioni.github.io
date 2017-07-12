@@ -1,0 +1,19 @@
+---
+author: leibniz
+comments: true
+date: 2004-07-21 19:49:10+00:00
+layout: post
+slug: club-med
+title: Club Med
+wordpress_id: 3256
+categories:
+- web
+---
+
+Stavolta Emporion si dedica al [Mediterraneo, «un mare in crisi»](http://www.enel.it/magazine/emporion/sezioni_dett.asp?iddoc=938096&dataemporion=30/06/2004) allontanato dalle prospettive di sviluppo della Stessa Europa.
+
+
+> Per l?Italia la dimensione mediterranea dell?Europa è un interesse fondamentale. Lo sviluppo del Nord-Africa, la crescita dell?area balcanica, la rinascita del Levante, il consolidamento della Spagna contribuirebbero a rendere questo vecchio mare interno un?area stabile e positiva. Non tutto però si muove in questa direzione. Anzi, negli ultimi decenni, alla retorica mediterranea si è sostituita quella della Mitteleuropa, del Baltico, dell?Artico. Bruxelles guarda altrove, le politiche mediterranee segnano il passo ed è urgente correre ai ripari. 
+
+
+Emporion

@@ -1,0 +1,22 @@
+---
+author: leibniz
+comments: true
+date: 2005-01-14 18:15:21+00:00
+layout: post
+slug: mah
+title: Mah...
+wordpress_id: 535
+categories:
+- old-blog
+---
+
+Limando il foglio di stile ora questo blog pare avere qualche
+problemino con gli utenti che usano Internet Explorer (e il
+blockquote). Il che non e poi una cosa saggia: 2 visitatori su 3
+vengono da IE, 1 su 4 da Mozilla e anche 1 su 20 da Safari. Portate
+pazienza, se potete, e magari segnalatemi cosa non va. 
+
+
+
+
+### L*

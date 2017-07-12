@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-10 07:05:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Rumore bianco   
+** Tra qualche ora verra assegnato il  [ Nobel per la Pace](http://www.reuters.com/locales/newsArticle.jsp?type=topNews&locale=it_IT&storyID=3590876). In lizza tra i superfavoriti Giovanni Paolo II, Vaclav Havel e un'avvocatessa iraniana esperta in diritti umani. Dare il Nobel a Bono degli U2 o a Lula sarebbe... fuori luogo.  _ Aggiornamento_: ha vinto  [ l'iraniana](http://www.repubblica.it/2003/j/sezioni/esteri/nobelpace/vincitore/vincitore.html).   
+  Reuters - Repubblica

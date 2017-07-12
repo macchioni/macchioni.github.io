@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-04 05:55:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Lo diceva Socrate...   
+**   ...che bisognava "sapere di non sapere". Quelli del  [ Disinformation Gateway ](http://www.disinfo.com/site/)lo hanno preso in parola e hanno raccolto in un libro le loro scoperte. Il libro si chiama " [ Tutto quello che sai e falso](http://www.ita-bol.com/bol/main.jsp;jsessionid=e88d%3A3f7c5e29%3A722cd221a24fb81a?action=bolscheda&ean=978889006308)".   
+Disinformation - Bol

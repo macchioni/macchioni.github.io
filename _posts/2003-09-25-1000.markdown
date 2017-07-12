@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-25 07:43:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** Insegua quel libro!   
+** L'editore di Hillary Clinton ha scoperto che nella versione cinese dell'autobiografia dell'ex first lady  [ mancano ](http://story.news.yahoo.com/news?tmpl=story&cid=573&ncid=757&e=1&u=/nm/20030924/od_nm/media_clinton_dc)alcuni passaggi riguardanti la tutela dei diritti umani in Cina. I passaggi sbianchettati sono contenuti in una decina di pagine gia disponibili su internet, e il libro ha venduto gia 200 mila copie. La casa editrice ha chiesto il ritiro.   
+Yahoo! News

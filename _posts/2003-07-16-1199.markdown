@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-16 06:32:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Qui prodest?   
+**  [ Niall Ferguson](http://www.macleans.ca/topstories/qanda/article.jsp?content=20030721_62715_62715), uno storico inglese, si fa intervistare sulla paradossale potenza dell'America e le possibilita che una politica imperialista venga in aiuto del mondo.   
+MacLean's

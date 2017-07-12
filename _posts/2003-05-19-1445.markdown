@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-19 06:13:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Critico con la citazione facile guarda grande film di massa   
+** Lunghissima analisi del fenomeno Matrix sul New Yorker. Si parla del film ( [   the unreal thing](http://www.newyorker.com/critics/atlarge/?030519crat_atlarge)) e delle varie cose che non vanno partendo dalla domanda: what's wron with the Matrix?   
+The New Yorker

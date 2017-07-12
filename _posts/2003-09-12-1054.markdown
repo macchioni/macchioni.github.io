@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-12 06:36:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Blogs of the pops   
+** Settembre ha segnato il ritorno dei blog nel mondo della comunicazione. Prima quelli di  [ Repubblica](http://www.repubblica.it/speciale/2003/blog/index.html), ieri sera " [ Radioblog](http://www.radio.rai.it/radio3/radio3_suite/archivio_2003/eventi/2003_09_11_radioblog/index.cfm)" su Radio3: una trasmissione piu letteraria che informatica (ma almeno non c'era un  [ Cotroneo ](http://blog.espressonline.it/weblog/stories.php?topic=03/04/09/3032124)a battagliare con i partecipanti ai suoi forum).   
+Repubblica Blog - Radioblog - Cotron Club

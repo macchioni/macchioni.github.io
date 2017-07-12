@@ -1,0 +1,14 @@
+---
+author: leibniz
+published: true
+date: 2003-02-18 08:15:00+00:00
+layout: post
+title: Fine del mondo? Meglio non sapere
+categories:
+- web
+---
+
+Insomma, non potremo prendere una mazza da baseball e prepararci a colpire un asteroide come accadeva in una vecchia pubblicita di gomme da masticare. Se la Terra sara distrutta da un grosso corpo celeste non ci verra detto:  [inutile panico][1], dice un esperto. Bastava guardare film come 'Deep Impact' o 'Armageddon' per saperlo.  
+  La Stampa 
+
+[1]:	http://www.lastampa.it/redazione/editoriali/ngeditoriale2.asp

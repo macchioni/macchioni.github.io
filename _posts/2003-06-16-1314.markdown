@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-16 05:33:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Azzaman e Bazazz   
+**Il primo e un nuovo  [ giornale ](http://media.guardian.co.uk/mediaguardian/story/0,7558,978059,00.html)iracheno con grandi ambizioni, il secondo e il suo editore.
+The Guardian

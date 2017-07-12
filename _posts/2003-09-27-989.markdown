@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-27 06:43:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Lavorare di piu e fare piu figli   
+** Ecco la  [ ricetta ](http://www.economist.com/opinion/displayStory.cfm?story_id=2085219)dell'Economist per risolvere il problema delle pensioni in Europa . Le riforme che si stanno abbozzando - scrive il giornale, riferendosi anche all'Italia - sono troppo deboli e rimandano il problema agli anni avvenire.   
+The Economist

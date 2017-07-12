@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-17 05:55:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   The show must go on   
+**Mentre da noi Costanzo vara il  [ Totti-show](http://www.ilnuovo.it/nuovo/foglia/0,1007,181818,00.html), in America si sta organizzando uno  [ spettacolo ](http://www.cbsnews.com/stories/2003/06/16/entertainment/main558929.shtml)con Jessica Lynch, la soldatessa fatta prigioniera in Iraq.
+  Il Nuovo - CBS

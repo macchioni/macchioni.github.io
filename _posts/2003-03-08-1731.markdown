@@ -1,0 +1,14 @@
+---
+author: leibniz
+published: true
+date: 2003-03-08 09:31:00+00:00
+layout: post
+title: New York 2003, the rebuilding  
+categories:
+- web
+---
+
+Va bene. Le polemiche vanno spegnendosi, il progetto di Libeskind e passato, ora a Manhattan si ricostruisce su Ground Zero. Ma quanto si riuscira a costruire? Ne scrive  [Time][1].  
+Time
+
+[1]:	http://www.time.com/time/magazine/article/0,9171,1101030310-428061,00.html

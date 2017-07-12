@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-22 07:31:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Baseball e politica   
+**   Alle World Series in gara uno, quindi a New York, per la squadra della Florida in tribuna non c'era il   sindaco di Miami Gardens (cioe la localita dove si trova lo stadio dei Fl. Marlins) ma c'era il sindaco di Miami, Manny Diaz. [ Qualcuno ](http://www.miami.com/mld/miamiherald/news/columnists/jim_defede/7062937.htm)vede manovre politiche per spostare lo stadio.   
+Miami Herald

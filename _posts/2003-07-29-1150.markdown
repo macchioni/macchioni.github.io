@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-29 08:12:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** C'e ancora qualcosa che non si trova su internet   
+** Qualche giorno fa Leibniz, in onore dell'anniversario del glorioso e   utilissimo Esperanto, voleva postare un'opera d'arte di cui aveva letto  [   qui](http://www.panorama.it/cultura/eventi/articolo/ix1-A020001020134) : "L'importanza di chiamarsi Ernesto in esperanto" di Mark Wallinger (pare raffiguri una serie di sedie) conservata in  [ Svizzera](http://www.schaulager.org/). La Rete pero e stata avara di immagini.
+Panorama - Schaulager

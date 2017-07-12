@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-16 06:16:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   L'elettronica di cui ci dimentichiamo   
+**   Secondo il Times spendiamo troppi soldi in  [ troppe ](http://www.nytimes.com/2003/10/15/technology/15GADG.html)diavolerie elettroniche che poi non usiamo.   
+NY Times

@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-04-26 13:31:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Quattro macchie sulla camicia della festa   
+** Ieri, 25 aprile 2003,  [   qualcosa ](http://www.lastampa.it/edicola/sitoweb/Interni/art2.asp)non e andato. Eppure si festeggiava la Liberazione. (L'articolo e di Pierluigi Battista)   
+  La Stampa

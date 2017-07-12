@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-31 07:48:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   I russi, i russi, gli americani   
+** Il terzo centenario di San Pietrobugo appassiona non poco Leibniz, che ha cosi trovato un articolo sul  [   festone politico ](http://www.themoscowtimes.com/stories/2003/05/30/001.html)e un altro sui  [   giochi di parole ](http://www.themoscowtimes.com/stories/2003/05/30/007.html)attorno a quello che viene chiamato (tradotto) lo "zoo-jubilee".
+Moscow Times

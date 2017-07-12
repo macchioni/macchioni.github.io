@@ -1,0 +1,17 @@
+---
+author: leibniz
+comments: true
+date: 2005-06-07 09:04:57+00:00
+layout: post
+slug: pac-matti
+title: Pac-matti
+wordpress_id: 257
+categories:
+- quirkies
+---
+
+Il [Pac-man virtuale](http://news.bbc.co.uk/2/hi/technology/4607449.stm) e realta.   
+
+
+
+### BBC

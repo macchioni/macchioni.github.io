@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-24 08:42:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Fallimenti   
+**   Secondo l'Atlantic George W. Bush verra rieletto solo se gli elettori decideranno di ignorare i suoi  [ troppi errori](http://www.theatlantic.com/unbound/polipro/pp2003-09-24.htm).
+Atlantic 

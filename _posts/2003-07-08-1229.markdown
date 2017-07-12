@@ -1,0 +1,15 @@
+---
+author: leibniz
+published: true
+date: 2003-07-08 06:38:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   _________________________________________   
+   
+Addio Massimo**   
+Ci hai fatto vedere Roma attraverso i tuoi occhi.   
+_________________________________________

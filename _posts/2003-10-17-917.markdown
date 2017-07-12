@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-17 06:36:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Altro che borsello del 2003!   
+**   Secondo l'esperto tecnologico del NY Times il blog non e altro che  [ il baracchino del 21° secolo](http://www.poynter.org/column.asp?id=45&aid=51548). (L'intervista completa e  [ qui](http://www.ojr.org/ojr/technology/1066258791.php)).
+  Romanesko - Online Journalism Review

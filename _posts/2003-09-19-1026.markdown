@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-19 08:32:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Tutto cambi perche tutto resti com'era   
+**   La BBC deve  [ cambiare ](http://media.guardian.co.uk/bbc/story/0,7521,1045339,00.html)e naturalmente deve esser "forte e indipendente".   
+The Guardian

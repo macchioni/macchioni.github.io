@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-21 07:08:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Spie come noi   
+** [ Sembra ](http://books.guardian.co.uk/news/articles/0,6109,982198,00.html)che nel '49 George Orwell fece al governo inglese i nomi di 38 uomini sospettati di essere simpatizzanti comunisti. Tra  [ questi ](http://books.guardian.co.uk/news/articles/0,6109,982206,00.html)Charlie Chaplin. Ad ogni modo, anche in questo caso, pare ci sia di mezzo una donna.   
+  The Guardian

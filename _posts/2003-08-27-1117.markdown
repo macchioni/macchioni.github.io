@@ -1,0 +1,19 @@
+---
+author: leibniz
+published: true
+date: 2003-08-27 06:28:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Per uno stato grande ci vuole un dominio grande**
+
+Al grido di "Leading California's new leaders" il vice governatore della California -  [ Cruz Bustamante ](http://slate.msn.com/id/2087442/)- si appresta a raccogliere la sfida di Schwarzy, facendo finta di non conoscere il governatore uscente Davis. Il suo sito  [ noonrecallyesonbustamante.com ](http://www.noonrecallyesonbustamante.com/)e una chiara strategia.
+
+>  
+> 
+> The most damaging moment to Bustamante's campaign came not when Schwarzenegger declared that he would be back, but when Davis said Sunday on CNN's  _ Late Edition_, "Cruz is my friend." Bustamante's political reputation is as a nice guy, but he doesn't want to be friends. Being friends with Davis is an obstacle to getting a shorter URL: governor.ca.gov.
+
+Slate - noonrecallyesonbustamante.com

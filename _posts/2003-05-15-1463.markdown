@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-15 06:34:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Donne e golf   
+** Qualche golfista ha  [   storto il naso ](http://www.corriere.it/edicola/index.jsp?path=INTERNI&doc=GOLF)sapendo che la giocatrice Annika Sorenstam, sara invitata al Colonial Trophy di Forth Worth in Texas. Motivo: e una donna tra tanti uomini.   
+Il Corriere della Sera

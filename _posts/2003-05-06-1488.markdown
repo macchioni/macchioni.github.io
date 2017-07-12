@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-06 06:56:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Chi l'avrebbe mai detto   
+** In Francia va in scena una  [   piece contro Bush ](http://www.lastampa.it/edicola/sitoweb/Esteri/art3.asp)e il direttore del teatro viene picchiato .
+La Stampa

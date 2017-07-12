@@ -1,0 +1,18 @@
+---
+author: leibniz
+comments: true
+date: 2005-08-30 08:42:58+00:00
+layout: post
+slug: embedded
+title: Embedded
+wordpress_id: 116
+categories:
+- old-blog
+---
+
+Per l'uragano Katrina anche [la Cnn ha aperto un simil-blog](http://edition.cnn.com/2005/WEATHER/08/28/hurricane.blog/index.html). Poi ci sono[ le foto su Flickr](http://www.flickr.com/photos/tags/katrina/clusters/).  
+
+
+
+### Cnn - Flickr | tag: [news](http://www.technorati.com/tags/news), [katrina](http://www.technorati.com/tags/katrina), [hurricane](http://www.technorati.com/tags/hurricane)
+

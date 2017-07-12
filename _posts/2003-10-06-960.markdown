@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-06 05:23:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Piccolo spazio pubblicita   
+** La piu bella campagna stampa del momento secondo questo blog e quella della  [ Reuters](http://about.reuters.com/knownow/knownow.html). In tv invece Leibniz guarda ammirato lo spot dell'angelo custode alle prese con le cinture di sicurezza ("...avete macchine veloci, vite complicate e la testa altrove..."), eppure non riesce a trovarne traccia in rete.   
+  Reuters

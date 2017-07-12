@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-04-28 05:58:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Occidente, alla guerra, alla gloria, alla storia   
+** Un lungo [   saggio ](http://www.nytimes.com/2003/04/27/magazine/27WWLN.html)di  [   Timothy Garton Ash ](http://www-hoover.stanford.edu/bios/ash.html)su come rimettere insieme Usa ed Europa per le sfide comuni che le attendono.
+  NY Times Magazine - Hoover Inst.

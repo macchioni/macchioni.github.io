@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-30 06:06:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** Il clown McDonald e vegetariano (ed e pentito)   
+** Mettere  [   un costume ](http://online.wsj.com/article_email/0,,SB105417428331974100,00.html)non fa cambiare il modo di vedere le cose.
+The Wall Street Journal

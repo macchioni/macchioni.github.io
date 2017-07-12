@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-04 06:34:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Ho finito lo zucchero di canna!   
+** Questa e la generazione di chi torna a casa, accende il computer e controlla le e-mail? Se si, allora tra qualche anno sara la generazione di chi fara la  [ spesa via internet ](http://www.nytimes.com/2003/09/04/technology/circuits/04shop.html)come gia racconta il NY Times facendo pubblicita a  [ FreshDirect](http://www.freshdirect.com/site_access/site_access.jsp;jsessionid=1Wc1rv3RTpX38FO24POYVjJlb1nxrG9ZHntO5TEp2NKfj0Sj6kfN!-2101525911!171246092!8220!8443!285037027!171246093!8220!8443?successPage=/index.jsp). Divertente da leggere invece questo vecchio post di Leonardo su  [ spesa hi-tech ](http://radiogame.blogspot.com/archives/2001_02_01_leonardo_archive.html#2281190)e tempo libero.   
+NY Times - FreshDirect - Leonardo

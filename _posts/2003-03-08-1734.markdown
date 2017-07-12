@@ -1,0 +1,23 @@
+---
+author: leibniz
+published: true
+date: 2003-03-08 08:40:00+00:00
+layout: post
+title: Rai con riserva 
+categories:
+- web
+---
+
+Rai con riserva  
+   Ai nuovi consiglieri designati per il cda della Rai tutto si puo dire meno che non sappano scrivere. Ecco allora i link ad alcuni libri piu recenti di  [   Mieli][1],  [   Rumi][2],  [   Alberoni][3],  [   Veneziani ][4]e  [   Petroni][5]. Con la scelta di Mieli, se lui sciogliera la riserva, Enzo Biagi tornera in Rai ma non si pensa possa ambire anche alla tanto agognata pagina delle lettere del Corriere della Sera. Tornera pure Santoro, che dovra vedersela con Giovanni Floris. Chiude la trasmissione appena nata di Veneziani, 'Oblo', che cosi va in soffitta a fare compagnia al 'Batti e ribatti' di Pierluigi Battista, mai andata in onda. Sulla vicenda Rai oggi buoni i servizi de  [   La Stampa, ][6]l'articolo di  [   Francesco Merlo ][7]sul Corriere e, sullo stesso giornale, l'occhio sul futuro gettato da  [   Aldo Grasso][8]. Su  [   giapponesi a casa e cinesi sconfitti ][9]ragiona Il Riformista, per il quale il cda e ok.  
+  Bol - La Stampa - Il Corriere della Sera - Il Riformista
+
+[1]:	http://www.ita-bol.com/bol/main.jsp?action=hplibri&tipoContrib=AU&codPers=0016977
+[2]:	http://www.ita-bol.com/bol/main.jsp?action=hplibri&tipoContrib=AU&codPers=0020436
+[3]:	http://www.ita-bol.com/bol/main.jsp?action=hplibri&tipoContrib=AU&codPers=0008733
+[4]:	http://www.ita-bol.com/bol/main.jsp?action=bollibri&tipoContrib=AU&codPers=0002379
+[5]:	http://www.ita-bol.com/bol/main.jsp?action=hplibri&tipoContrib=AU&codPers=0065388
+[6]:	http://www.lastampa.it/redazione/default.asp
+[7]:	http://www.corriere.it/edicola/index.jsp?path=PRIMA_PAGINA&doc=MERLO
+[8]:	http://www.corriere.it/edicola/index.jsp?path=COMMENTI&doc=GRASSO
+[9]:	http://www.ilriformista.it/documenti/editoriale.asp?id_doc=4702

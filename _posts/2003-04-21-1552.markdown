@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-04-21 08:12:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** American Zeitgeist**   
+Ovvero: l'album di Madonna come elemento non trascurabile dello spirito del tempo americano. Su[   Time](http://www.time.com/time/magazine/article/0,9171,1101030428-445000,00.html).
+Time

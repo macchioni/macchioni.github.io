@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-17 06:53:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Assuefatto dai croccantini al pollo   
+** David Beckham acquista 20 pacchetti alla volta di " [ Super Noodles](http://www.thesun.co.uk/article/0,,4-2003322323,00.html)".   
+The Sun

@@ -1,0 +1,18 @@
+---
+author: leibniz
+published: true
+date: 2003-05-19 06:08:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   I puntini sulle i   
+** Jonah Goldberg parte con una storia a puntate dei "neocon" (ecco la  [   prima parte](http://www.nationalreview.com/goldberg/goldberg051603.asp)):
+
+>  
+> 
+> My aim here is destroy, or at least pare back, the increasingly ludicrous use of the word "neoconservative" and maybe even a few other silly labels. If none of this is your cup of tea, that's fine.
+
+NationalReview

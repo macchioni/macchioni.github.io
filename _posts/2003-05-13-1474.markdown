@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-13 08:10:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** Eye in the Sky   
+**   Presentata ieri la  [   Sky Italia](http://www.ilte.net/mercati/editoria_e_stampa/news_estesa.asp?ID=1936&DAT=NO) , la piattaforma digitale di Murdoch che ha unito Stream e Telepiu e che punta a 10 milioni di abbonati. Sui giornali, non si trova molto.   
+Ilte.net

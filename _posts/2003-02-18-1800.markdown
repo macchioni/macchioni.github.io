@@ -1,0 +1,17 @@
+---
+author: leibniz
+published: true
+date: 2003-02-18 07:53:00+00:00
+layout: post
+title: Londra citta fantasma
+categories:
+- web
+---
+
+Londra citta fantasma  
+ Giornata  [   strana ][1]nella city, dove da ieri si pagano 5 sterline per entrare in centro con l'auto. Roma dice  [   no][2], Genova  [   ni][3], e Milano - che era partita in quarta - strizza l'occhio.  
+  The Guardian - Il Tempo
+
+[1]:	http://www.guardian.co.uk/congestion/story/0,12768,897619,00.html
+[2]:	http://62.110.253.162/approfondimenti/index.aspx?id=215205&Sectionid=4&Editionid=5
+[3]:	http://62.110.253.162/approfondimenti/index.aspx?id=215203&Sectionid=4&Editionid=5

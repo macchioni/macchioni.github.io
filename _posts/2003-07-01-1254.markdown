@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-01 06:10:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   In the land of freedom   
+** Una legge "anti-sovversione" approvata in Cina fa temere per l'indipendenza di Hong Kong. La business community locale e un po'  [ preoccupata](http://www.washingtonpost.com/wp-dyn/articles/A48974-2003Jun29.html).   
+Washington Post

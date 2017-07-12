@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-11-06 07:00:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Canciones de la Revolucion
+**   Panorama se ne e andato a passeggio nei  [ luoghi della rivoluzione ](http://www.panorama.it/mondo/americhe/articolo/ix1-A020001021423/idpag1-2)cubana, che quest'anno compie i suoi 50 anni. Un viaggio sentimentale nei luoghi che fecero la storia e la leggenda di Cuba.   
+Panorama

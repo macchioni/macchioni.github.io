@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-26 05:56:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   L'allievo che supera il maestro   
+**   In realta non e proprio cosi, ma una  [   quindicenne ](http://www.observer.co.uk/international/story/0,6903,963102,00.html)chiamata Ming Kipa ha scalato l'Everest fino ad arrivare ad 8.848 metri. Naturalmente e record, tanto che Sir Edmund Hillary, che per primo raggiunse quell'altezza nel 1953 preferisce farsi intervistare dal magazine del Times e pensare a  [   nuove sfide](http://www.nytimes.com/2003/05/25/magazine/25LIVES.html): una montagna di ghiaccio in Antartide mai scalata da nessuno.
+The NY Times Magazine - The Guardian

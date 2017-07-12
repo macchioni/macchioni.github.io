@@ -1,0 +1,14 @@
+---
+author: leibniz
+published: true
+date: 2003-03-25 08:26:00+00:00
+layout: post
+title: L'etica hacker non basta più
+categories:
+- web
+---
+
+	 ** L'etica hacker non basta piu**
+	
+	Deve essere per questo che a Leeds nascera un  [   undergraduate module](http://www.vnunet.com/News/1139713) per professionisti della sicurezza su internet. Una specie di cacciatori di hackers, capaci di individuare - come loro - le debolezze di un sistema .  
+  vnunet.com

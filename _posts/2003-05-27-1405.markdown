@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-27 07:20:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Il Times comincia a fare acqua   
+**Si parla di "quello" di New York e del  [   falso scoop ](http://www.corriere.it/edicola/index.jsp?path=ESTERI&doc=ARMI)sulle armi di distruzione. La giornalista fu imbeccata (male) da Ahmed Chalabi, il leader iracheno di cui la Cia non si fida.   
+Il Corriere della Sera

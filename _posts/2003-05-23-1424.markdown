@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-23 07:56:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   A X-Files e tutto vero   
+** La Sars sarebbe arrivata  [   dallo spazio](http://www.corriere.it/edicola/index.jsp?path=INTERNI&doc=BIOG), dice il giornale  [   The Lancet ](http://www.thelancet.com/)(a pagamento) . In fondo ogni giorno cadono sulla terra milioni di batteri.   
+The Lancet - Il Corriere della Sera

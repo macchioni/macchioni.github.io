@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-08-22 06:52:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** Kagan, non c'e due senza tre   
+** Stavolta c'e Frederick W. Kagan, storico militare, fratello di Robert e figlio di Donald. In un suo  [ saggio ](http://www.policyreview.org/aug03/kagan_print.html)uscito per Policy Review c'e una critica alla strategia militare in Iraq per vincere la pace e conquistare la fiducia degli iracheni.
+  Policy Review

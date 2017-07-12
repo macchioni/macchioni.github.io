@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-09 06:59:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Cosa diciamo quando parliamo dell'11 settembre   
+** A New York gia esiste la classifica dei primi  [ 5 eventi commemorativi ](http://www.newyorkmetro.com/nymetro/arts/columns/topfive/n_9185/)in programma giovedi. Sempre il NY Magazine racconta alcune storie di newyorchesi  [ sopravvissuti](http://www.newyorkmetro.com/nymetro/news/sept11/2003/n_9196/): chi ha deciso di fare figli, chi ha cambiato vita, chi ha perso un parente e non ha ancora colmato quel vuoto.
+NY Magazine

@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-18 06:34:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Un monumento all'ispanico   
+** Scrittore, cubano ed esiliato. A  [ Jose Marti ](http://www.fiu.edu/~fcf/jmarti.html)Miami dedichera un  [ memoriale](http://www.miami.com/mld/miamiherald/6103189.htm). 
+Miami Herald

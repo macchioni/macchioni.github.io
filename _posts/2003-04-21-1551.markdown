@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-04-21 08:15:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** The neverending story**   
+C'e ancora qualcuno che parla e scrive di[   guerra infinita](http://www.newyorker.com/talk/content/?030421ta_talk_remnick). Solo che stavolta, e il caso del New Yorker, mette almeno un punto interrogativo.
+The New Yorker

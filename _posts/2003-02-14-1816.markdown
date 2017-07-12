@@ -1,0 +1,16 @@
+---
+author: leibniz
+published: true
+date: 2003-02-14 07:37:00+00:00
+layout: post
+title: La lucidatrice col turbo
+categories:
+- web
+---
+
+Si chiama  [Segway][1], chi naviga per internet l'ha sicuramente visto spuntare in qualche banner o in qualche noiosissimo pop-up.  [   Beppe Severgnini ][2]ha vestito i panni dell'imbranato e ci e montato su.  
+
+Amazon - Il Corriere della Sera
+
+[1]:	http://www.amazon.com/exec/obidos/tg/detail/-/B00007EPJ6/102-0699927-9344112?vi=glance
+[2]:	http://www.corriere.it/edicola/index.jsp?path=PRIMA_PAGINA&doc=SEVE

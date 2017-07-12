@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-16 08:39:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Dio ti guarda, Stalin no, la Nokia forse   
+** Vietati i [   videofonini ](http://www.corriere.it/edicola/index.jsp?path=POLITICA&doc=TEL)ai seggi il giorno del voto. Parola di ministero dell'Interno.   
+Corriere della Sera

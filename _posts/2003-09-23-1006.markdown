@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-23 05:41:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Un teatro per Ground Zero   
+**   E' una delle proposte piu ardite al vaglio: un  [ grande teatro ](http://www.observer.com/pages/editorials.asp)con tre sale.
+NY Observer

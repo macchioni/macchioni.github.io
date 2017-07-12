@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-08 07:22:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Cosa sono i weblog?   
+**[ Gino Roncaglia ](http://roncaglia.homeip.net/merzlog/)ha appena messo in rete il capitolo provvisorio dedicato ai  [ weblog ](http://www.merzweb.com/testi/saggi/weblog.htm)del libro "Internet 2004 - Manuale per l'uso della rete" (Laterza). Leibniz, che come altri bloggers ha potuto leggerlo gia a giugno, raccomanda la lettura.
+Merzlog

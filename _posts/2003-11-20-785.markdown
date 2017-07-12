@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-11-20 07:21:00+00:00
+layout: post
+title: Un fiore
+categories:
+- web
+---
+
+ **   Un fiore**   
+   ![](http://www.main.org/garden/flower.gif) Per chi in questi giorni strani ha preferito chiudersi in casa e non condividere cio che vedeva in tv, preferendo alle lacrime il disappunto. Che possa sempre bastarvi chiudere una porta e lasciare tutto fuori. 
+

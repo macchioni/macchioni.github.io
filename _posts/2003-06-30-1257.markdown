@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-30 06:25:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   E se ci dimenticassimo del resto del mondo?   
+** Jackson Diehl analizza la politica estera americana e l'interventismo dell'amministrazione Bush.  [ L'errore](http://www.washingtonpost.com/wp-dyn/articles/A49298-2003Jun29.html), scrive, e concentrarsi solo sulla lotta al terrorismo disinteressandosi dell'Africa, dell'America Latina, dell'Estremo Oriente e persino dell'Europa non Nato.   
+Washington Post

@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-03 06:15:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Here comes the story of the hurricane   
+**Se Fazio avesse un programma in Florida forse si occuperebbe di uragani.  [ L'Herald](http://storm.herald.com/) lo fa da un pezzo. Invece sul sito di Rai3  [ ci si chiede](http://www.chetempochefa.rai.it/hptempo/0,9076,,00.html): "Per bagnarsi di meno sotto la pioggia e meglio camminare o correre?". 
+  Miami Herald - Che tempo che fa

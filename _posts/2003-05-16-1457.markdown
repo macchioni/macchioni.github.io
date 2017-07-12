@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-16 08:42:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** Testimonial involontari   
+** E' toccato a Massimo D'Alema e Gianfranco Fini. Il primo appare nella  [ campagna pubblicitaria ](http://www.ilnuovo.it/nuovo/foglia/0,1007,179032,00.html) di Liberazione ("Per leggere Liberazione non c'e bisogno di essere comunisti"), il secondo appare sui manifesti di Forza Nuova in una vecchia foto in cui esegue il saluto romano ("Non fare come lui, non tradire", sembra sia il messaggio scritto sui manifesti).
+Il Nuovo

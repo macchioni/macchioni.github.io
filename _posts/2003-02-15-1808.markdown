@@ -1,0 +1,16 @@
+---
+author: leibniz
+published: true
+date: 2003-02-15 07:04:00+00:00
+layout: post
+title: Chi ben comincia...
+categories:
+- web
+---
+
+In America's Cup  [   esordio ][1]terribile per Team New Zealand, che imbarca acqua rompe le vele e deve ritirarsi. Ora la barca del paese senza mare (Svizzera) conduce 1-0 contro quella del paese-arciplago (Nuova Zelanda), che si dice comunque  [   ottimista][2]. La stampa locale parla pero di finale  [   catastrofico][3].  
+  America's Cup - N. Zealand Herald
+
+[1]:	http://americascup.yahoo.com/story1954.html
+[2]:	http://www.nzherald.co.nz/americascup/acstorydisplay.cfm?storyID=3101373&thesection=sport&thesubsection=americascup&thesecondsubsection=general
+[3]:	http://www.nzherald.co.nz/americascup/acstorydisplay.cfm?storyID=3101371&thesection=sport&thesubsection=americascup

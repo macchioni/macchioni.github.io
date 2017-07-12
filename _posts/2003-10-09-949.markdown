@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-09 07:41:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** Il bello ai tempi dell'hi-tech   
+** Chi ama Sony, Bang & Olufsen ed Apple potrebbe gradire  [ questo articolo ](http://www.lexpress.fr/express/info/culture/dossier/design/dossier.asp?nom=)dell'Express.
+  L'Express

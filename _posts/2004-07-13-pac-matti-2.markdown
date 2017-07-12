@@ -1,0 +1,14 @@
+---
+author: leibniz
+comments: true
+date: 2004-07-13 19:33:29+00:00
+layout: post
+slug: pac-matti-2
+title: Pac-matti
+wordpress_id: 3210
+categories:
+- web
+---
+
+Dimostrazione che chi ha un Mac ha (o crede di avere) un che di artistico in più: invece di Pac-man, [Pac-Mondrian](http://pbfbca.prizebudgetforboys.com/rhizome_commission/).
+Pbfbca

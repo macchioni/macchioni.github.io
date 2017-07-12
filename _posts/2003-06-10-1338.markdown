@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-10 09:29:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Il pusher e il petrolio-dipendente   
+**   Questa e di qualche giorno fa. L'Atlantic  [ intervista ](http://www.theatlantic.com/unbound/interviews/int2003-05-29.htm)l'ex agente della Cia, Robert Baer, per dare un'idea dei pericoli che corrono gli Usa a dipendere dal petrolio saudita.   
+Atlantic Monthly

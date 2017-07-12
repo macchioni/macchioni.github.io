@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-19 08:37:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Iraqi freedom   
+**   Sono circa 300 i militari alleati morti in Iraq. Oggi  [ Colin Powell ](http://www.opinionjournal.com/editorial/?id=110004035)scrive sul Wall Street Journal che il loro sacrificio non e stato vano: l'Iraq si avvia verso un autogoverno.   
+WSJ

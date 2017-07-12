@@ -1,0 +1,14 @@
+---
+author: leibniz
+published: true
+date: 2003-02-15 15:13:00+00:00
+layout: post
+title:  Il cucchiaio di legno prendetevelo voi 
+categories:
+- web
+---
+
+La nazionale italiana di rugby ha appena battuto il Galles[   (30-22)][1] nella prima giornata del 6 nazioni.  
+  6nations.net
+
+[1]:	http://www.6nations.net/news_428.html

@@ -1,0 +1,14 @@
+---
+author: leibniz
+published: true
+date: 2003-11-27 22:25:00+00:00
+layout: post
+title: Istruzioni
+categories:
+- web
+---
+
+ **   Istruzioni   
+**  _ Oggi Leibniz ha fatto qualche cambiamento_  _ . Il blog conserva il suo solito solito impianto, c'e solo qualche abbellimento (o almeno si spera).
+Qualche consiglio a chi fosse nuovo di qui. La maggior parte delle fonti citate in questo weblog resta online a lungo, eccezion fatta per alcuni quotidiani. Il Corriere della Sera lascia i suoi articoli per un solo giorno (che quindi andrebbero letti subito), mentre New York Times e Washington Post sono accessibili tramite registrazione (che comunque e gratuita ed e piuttosto consigliata). Note dolenti: p_  _ er adesso Leibniz rinuncia all'idea di propri feed Rss, generati da chicchessia: sembra che l'aggiornamento vada comunque a singhiozzo.
+Se ci dovesse essere qualcosa di particolarmente malfunzionante o di manifestamente brutto nel nuovo layout si accettera ogni segnalazione._

@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-21 07:23:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Reliquie troppo costose   
+** E'  [ saltata ](http://www.smh.com.au/articles/2003/07/20/1058639665160.html)su eBay l'asta per uno dei denti di Elvis Presley. Nessuno ha offerto la somma minima di 100 mila dollari.   
+Sidney Morning Herald

@@ -1,0 +1,15 @@
+---
+author: leibniz
+comments: true
+date: 2006-07-24 07:37:39+00:00
+layout: post
+slug: getto-tax
+title: Getto Tax
+wordpress_id: 2262
+categories:
+- lavoro
+---
+
+[Giorni fa](http://www.nytimes.com/2006/07/19/us/19poor.html?ex=1310961600&en=b2cfde0060d81ec5&ei=5090&partner=rssuserland&emc=rss) girava [questo studio](http://www.brookings.edu/metro/pubs/20060718_PovOp.htm) secondo il quale, in fondo è opinione di molti, nelle nostre società la povertà è una vera e propria tassa, che spinge le persone a dover pagare più degli altri beni e servizi. L'esempio classico è il credito al consumo: pagare a rate (e dunque di più) un televisore. Oppure l'assicurazione dell'auto: vivere da una parte piuttosto che da un'altra fa aumentare i costi. 
+
+### NY Times - Brookings Institute (via [Rebecca Blood](http://feeds.feedburner.com/~r/RebeccasPocket/~3/http%3A%2F%2Fwww.rebeccablood.net%2Farchive%2F2006%2F07%2Fstudy_the_ghetto_tax_is_real.html))

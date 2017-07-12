@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-04-21 08:19:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** A chunk of glory   
+** Comperare il  [   Sun](http://www.thesun.co.uk/), non vergognarsene, e rischiare di vincere  [   un pezzo della statua di Saddam ](http://story.news.yahoo.com/news?tmpl=story2&cid=573&ncid=757&e=1&u=/nm/20030420/od_nm/iraq_britain_statue_dc)abbattuta in quel di piazza Paradiso a Baghdad.
+The Sun - Yahoo! News

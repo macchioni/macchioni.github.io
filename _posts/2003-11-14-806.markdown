@@ -1,0 +1,11 @@
+---
+author: leibniz
+published: true
+date: 2003-11-14 15:41:00+00:00
+layout: post
+title: Nuovi RSS? 
+categories:
+- web
+---
+[ Sembra ](http://paolo.evectors.it/italian/2003/11/13.html#a1965) [ ci siano ](http://mappamondo.splinder.it/1068819540#904317)nuovi ed affidabili  [ generatori ](http://feedster.com/builder.php)di feed per chi e hosted da chi non li vuol mettere. Per quanto riguarda Leibniz, tentar non nuoce.   
+Valdemarin - Mappamondo - Feedster

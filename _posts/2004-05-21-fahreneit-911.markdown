@@ -1,0 +1,14 @@
+---
+author: leibniz
+comments: true
+date: 2004-05-21 21:06:47+00:00
+layout: post
+slug: fahreneit-911
+title: Fahreneit 9/11
+wordpress_id: 3718
+categories:
+- web
+---
+
+Il NY Magazine fa una [rapida carrellata](http://www.newyorkmetro.com/nymetro/news/people/columns/intelligencer/n_10412/) di come il cinema mainstream ha digerito o cancellato l'11 settembre. Dalle torri cancellate in Friends o Spiderman fino alla città coperta di cenere in The Day after Tomorrow.
+NY Mag

@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-02 05:38:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Dove i ninja fanno gli hamburger   
+** Perche andare a visitare il  [   sito ](http://www.ninjaburger.com/) di una falsa catena di fast food chiamata "Ninja Burger"? Un po' per vedere gli ingredienti del Samurai Chiken Sandwich (" _ It_  _ does not contain real samurai_"), un po' per giocare con il  [   generatore di nomi ninja](http://www.ninjaburger.com/fun/games/ninjaname/) ,   un po' per ricevere preziosi avvertimenti: " _ Finally, no, we do NOT serve fortune cookie with food. Fortune cookie is Chinese. Ninja Burger is Japanese_".
+Ninja Burger

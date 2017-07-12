@@ -1,0 +1,14 @@
+---
+author: leibniz
+published: true
+date: 2003-02-15 07:50:00+00:00
+layout: post
+title: Goodbye Dolly 
+categories:
+- web
+---
+
+Le pecore clonate sono piu famose delle altre, ma  [   vivono di meno][1].  
+  Il Corriere della Sera
+
+[1]:	http://www.corriere.it/edicola/index.jsp?path=PRIMA_PAGINA&doc=DOLLY

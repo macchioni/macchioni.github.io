@@ -1,0 +1,21 @@
+---
+author: leibniz
+comments: true
+date: 2009-07-03 05:47:05+00:00
+layout: post
+slug: rettifica-2-0
+title: Rettifica 2.0
+wordpress_id: 4126
+categories:
+- blogging
+- politica
+- web
+---
+
+Si sta cominciando a parlare del disegno di legge "Norme in materia di intercettazioni telefoniche, telematiche e  ambientali" (qui il [pdf](http://www.camera.it/_dati/leg16/lavori/stampati/pdf/16PDL0005770.pdf)). Che ha degli effetti non solo sui criminali veri e/o presunti, e i metodi di indagine, ma anche su chi scrive sul web (testate giornalistiche incluse). Siccome, larga adesione o meno, tra qualche giorno leggeremo comunque sui giornali che i blog stanno scioperando contro queste norme (la proposta di un gesto forte è di [Alessandro Gilioli](http://gilioli.blogautore.espresso.repubblica.it/2009/07/01/il-bavaglio-i-giornalisti-i-blogger/), il logo è di [Ptwg](http://www.paulthewineguy.com/post/134213823/il-cerotto-blu)) tanto vale ragionarci su. Io ho cominciato da [Gaspar](http://www.gaspartorriero.it/2009/07/te-la-faccio-vedere-io-la-rettifica.html):
+
+
+> Allora, se passa una roba simile, io comincio a mandare richieste di rettifica a raffica a tutti i siti web che mi capitano sott'occhio, con particolare accanimento nei confronti dei siti delle società telefoniche e delle maggiori aziende italiane, ogni volta che trovo una tariffa mal presentata, un prodotto ingannevolmente decantato, ma anche una data sbagliata e una virgola fuori posto.
+
+
+[Camera.it - Piovono Rane - Paul the wine guy - Gaspar Torriero]

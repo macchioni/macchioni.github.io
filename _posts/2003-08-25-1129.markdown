@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-08-25 06:14:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** Ti piacciono i fiori? Faresti il fioraio?   
+** Mentre l'esercito italiano testava cosi le sue leve, l'esercito di cervelli della Microsoft ai  [ colloqui di lavoro ](http://www.techsoc.com/fuji.htm)punta su questioni piu importanti:  _ se potessi togliere di mezzo uno dei 50 stati americani quale cancelleresti? Come vengono prodotte le M&M's? Come disegneresti il bagno di Bill Gates? Come sposteresti il monte Fuji?_ Leibniz ha sfogliato " [ How Would You Move Mount Fuji? Microsoft's Cult of the Puzzle](http://www.amazon.com/exec/obidos/tg/detail/-/0316919160/ref=lib_dp_TBCV/002-1186225-5112051?v=glance&s=books&vi=reader&img=39#reader-link)" di William Poundstone.   
+  Techsoc - Amazon

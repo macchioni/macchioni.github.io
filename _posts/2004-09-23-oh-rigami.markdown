@@ -1,0 +1,14 @@
+---
+author: leibniz
+comments: true
+date: 2004-09-23 21:04:48+00:00
+layout: post
+slug: oh-rigami
+title: Oh-rigami
+wordpress_id: 3385
+categories:
+- web
+---
+
+[Questi](http://www.langorigami.com/index.htm) sì che sono origami. Altro che [le barchette](http://www.confronti.net/archivio/nov02_03.htm) di D'Alema.
+R. J. Lang - Confronti

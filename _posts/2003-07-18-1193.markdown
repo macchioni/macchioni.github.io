@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-18 06:12:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   C'e sempre qualcuno che sta peggio...   
+** A chi rimprovera a Leibniz di essere diventato un po' leggero durante l'estate, si consiglia un  [ pezzo ](http://www.ilriformista.it/documenti/articolo.asp?id_doc=9578)uscito oggi su una testata vera (e di poche pagine).
+Il Riformista

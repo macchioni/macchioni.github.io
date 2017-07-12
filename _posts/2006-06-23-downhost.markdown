@@ -1,0 +1,27 @@
+---
+author: leibniz
+comments: true
+date: 2006-06-23 11:39:07+00:00
+layout: post
+slug: downhost
+title: Downhost
+wordpress_id: 2239
+categories:
+- web
+---
+
+I padroni di casa qui di [Tophost](http://www.tophost.it/) hanno avuto qualche problema, di qui il recente blackout del blog. Siccome non è il primo, tanto vale ricapitolare gli ultimi mesi di hosting:
+
+> 21.6.06 Guasto tecnico  
+04.05.06 Disservizio sul nodo w03  
+08.03.06 Problema al nodo w02  
+02.02.06 Attacco DDos  
+13.01.06 Guasto CPU  
+29.12.05 Problemi raggiungibilità  
+13.12.05 Avviso di fermo MySql  
+24.11.05 Guasto tecnico  
+21.11.05 Siti non raggiungibili per problemi di connettivita'  
+31.10.05 Guasto MySql  
+28.10.05 Problema MySql
+
+### Tophost

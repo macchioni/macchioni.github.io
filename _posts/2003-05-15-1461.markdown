@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-15 06:40:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Indovinate chi fa i titoli sul Wall Street Journal   
+** Leibniz ha un'idea. Guardate[   qui](http://www.opinionjournal.com/columnists/cRosett/?id=110003489): « _ The Red Plague. How communism gave us Sars_». Il pezzo, di ieri, puo essere interessante.
+WSJ

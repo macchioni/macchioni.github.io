@@ -1,0 +1,16 @@
+---
+author: leibniz
+comments: true
+date: 2006-02-09 14:06:45+00:00
+layout: post
+slug: leibnix
+title: Leibnix
+wordpress_id: 2025
+categories:
+- web
+---
+
+![](http://www.galileocomputing.de/download/buch/769/cover.gif)Oggi altro giorno incasinato. Se non altro, nel frattempo - anzi, in meno di due ore - un vecchio pc è stato rianimato, ha lasciato Windows 98 e ora ospita [Ubuntu](http://www.ubuntuitalia.org/).
+
+
+### Ubuntu Italia

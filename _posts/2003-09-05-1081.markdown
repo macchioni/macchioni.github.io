@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-05 06:40:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Uno sconosciuto alla porta   
+** Ieri alle 16:21 e 8 secondi questo blog e stato visitato da un computer con sistema operativo Mac collegato alla rete del National Post, il giornale canadese per il quale scrive Rebecca Eckler. A Leibniz piace pensare che sia stata lei in persona (ma no, probabilmente no).
+L*

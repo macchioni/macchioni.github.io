@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-15 06:21:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Mai senza sushi   
+**  ![](http://www.ita-bol.com/bol/includes/tornaImmagine.jsp?cdSoc=BL&ean=978882003561&tipoOggetto=PIB&cdSito=BL) Siccome la chick-lit sforna centinaia di libri ormai (e siccome in rete c'e un certo interesse trasversale per le nuove riviste femminili) forse e giusto parlare anche di [ Marian Keyes ](http://www.mariankeyesbooks.com/books.html#sushi)e del suo " [ Sushi per principianti](http://www.ita-bol.com/bol/main.jsp?action=bolscheda&ean=978882003561)". Il libro racconta di una giornalista che invece di una promozione a New York ottiene l'incarico di far nascere un magazine rosa nella verde Irlanda.  [ Qui ](http://www.mariankeyesbooks.com/excerpt_sushi.html)un estratto in inglese, mentre  [ qui ](http://sushi.brain-work.com/)c'e addirittura un tool per inserire dei sushi sul vostro blog.
+Bol - Marian Keys - Sushi Brain Work

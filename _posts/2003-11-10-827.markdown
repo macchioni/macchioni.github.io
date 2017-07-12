@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-11-10 07:45:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   How to be a winner   
+** In Canada ci sono manager che pagano 20 mila dollari per  [ ascoltare ](http://www.nationalpost.com/commentary/story.html?id=1dd31812-6147-4adb-8c77-6609605de8d2)Lance Armstrong, il ciclista "superhuman" che da anni stravince il Tour de France.   
+  National Post

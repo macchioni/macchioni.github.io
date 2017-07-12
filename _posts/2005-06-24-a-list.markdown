@@ -1,0 +1,17 @@
+---
+author: leibniz
+comments: true
+date: 2005-06-24 08:38:05+00:00
+layout: post
+slug: a-list
+title: A-List
+wordpress_id: 233
+categories:
+- blogging
+---
+
+Qui ormai non si fa altro che segnalare liste. Ecco i [50 siti «coolest» secondo Time](http://www.time.com/time/2005/websites/?promoid=rss_top). E [qui](http://www.time.com/time/business/article/0,8599,1072872,00.html#postsecret) ci sono i blog.  
+
+
+
+### Time

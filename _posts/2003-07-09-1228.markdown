@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-09 07:38:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Il mondo come blog e rappresentazione**   
+Tempo fa ci si stupiva per il " [ World as a blog](http://www.brainoff.com/geoblog/)", oggi siamo arrivati alle " [ Metroblogmaps](http://slate.msn.com/id/2085046/)", ovvero mappe di blogger divisi per prossimita a questa o a quella fermata della metropolitana. Qui l'esempio di  [ Washington DC](http://www.reenhead.com/map/metroblogmap.html).   
+Brainoff - Slate - reenhead.com

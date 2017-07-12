@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-04-29 05:51:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Quello che gli italiani non dicono   
+**  [   L'82 per cento ](http://www.spectator.co.uk/article.php3?table=old&section=current&issue=2003-04-26&id=3028)dei britannici, che sempre isolani sono, vuole pronunciarsi sulla nuova Costituzione Europea. Lo Spectator riserva alla questione molto spazio e un  [   editoriale](http://www.spectator.co.uk/article.php3?table=old&section=current&issue=2003-04-26&id=3026) ispirato al classico   "unusquisque faber est fortunae suae".   
+The Spectator

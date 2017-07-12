@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-08 07:55:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Quello che non siamo, quello che non vogliamo (pt. 8)   
+**   Leibniz adesso sarebbe anche un  [ programma per i calcoli algebrici](http://www.leibnizsoftware.com/).   
+Leibnizsoftware

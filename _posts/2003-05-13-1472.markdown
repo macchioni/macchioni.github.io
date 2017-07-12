@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-13 08:15:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** BBC, gettare il telecomando?   
+**   La  [   televisione ](http://www.spectator.co.uk/article.php3?table=old&section=current&issue=2003-05-10&id=3070)che ignora o fa finta di non vedere le cose che c'interessano .   
+The Spectator

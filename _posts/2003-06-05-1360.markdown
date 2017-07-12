@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-05 07:44:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** Quel sinistro logo "Iraq"   
+**  [   Aldo Grasso ](http://www.corriere.it/edicola/index.jsp?path=PRIMA_PAGINA&doc=GRASSO)analizza le sconfitte della Rai nel prime-time: in fondo ha proposto solo guerra, funerali e messaggi a reti unificate.
+  Il Corriere della Sera

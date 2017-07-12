@@ -1,0 +1,15 @@
+---
+author: leibniz
+comments: true
+date: 2005-12-19 10:01:22+00:00
+layout: post
+slug: bang
+title: BANG!
+wordpress_id: 1937
+categories:
+- web
+---
+
+La Marvel, forse per invogliare la gente a leggere, ha messo online [alcuni suoi fumetti](http://www.marvel.com/digitalcomics/catalog/catalog.htm) in una versione flash (almeno credo). Magari è il primo passo verso i comics-cast... Comunque pare che il 72% dei fumetti della casa editrice [siano reperibili in rete col p2p](http://www.lexpress.fr/info/multimedia/infojour/infos.asp?id=298722).
+
+### Digital Comics - L'Express

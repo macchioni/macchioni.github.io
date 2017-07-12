@@ -1,0 +1,20 @@
+---
+author: leibniz
+published: true
+date: 2003-05-29 12:12:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** Il clima a Roma   
+** Memorabile satira oggi firmata da  [   Andrea Marcenaro](http://www.ilfoglio.it/):
+
+>  
+> 
+>   Ieri, a Roma, sono ricomparse le lucciole. Cinque vecchi pregiudicati della Garbatella si sono recati in una gioielleria e hanno restituito gli ori sottratti anni addietro, il proprietario, sbalordito, ha pianto. Un tunisino a piedi, che transitava a piazzale Marconi, ha investito un bus in corsa, ferendolo gravemente. Lui, niente. Una ragazza del Quadraro, vittima di una "fabbrica della bellezza" per aver cercato di dimagrire tutto di un colpo alle soglie dell'estate, e risorta davanti al circolo Arci. Non sapete l'emozione.   
+Intanto si pescava di nuovo sui lungotevere. Trote, sopra tutto trote. Un ciuffo di ragazzini ha fatto perfino un tuffo. Il vigile anziano che li metteva in guardia: "Attenzio', a regazzi', ce stanno li topi!" ha ricevuto indietro un'argentina risata: "No, li topi so' scomparsi!". Giovani ragazze dell'Est, sulla strada fino al giorno prima, a Villa Borghese inseguivano spensierate li mejo grilli pe' ffa cri-cri. Tutto un clima diverso, a Roma, un cambiamento, una fiducia nuova. Un miraggio? "Un miraggio 'sti cazzi - ha precisato Fassino - primi effetti delle provinciali".
+
+(Pero a Roma piazzale Marconi non esiste: c'e piazza Marconi e c'e viale Marconi)   
+Il Foglio

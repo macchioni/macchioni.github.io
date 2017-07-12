@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-21 07:40:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Sono in una boy band... ci deve essere un errore   
+** Continua in Iraq la costruzione della prima boy-band locale, gli  [ Unknown to No One](http://www.nytimes.com/2003/07/20/magazine/20ENCOUNTER.html). Il loro singolo si chiamera "Hey girl".   
+NY Times Magazine

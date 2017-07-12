@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-01 13:47:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Persone che se ne vanno...   
+**  _ «In questa vita pratica ed economica non c'e spazio per l'uomo che ha la convinzione morale di dover lottare contro potenze molto piu forti di lui, ne rispetto per la sua consapevolezza che l'insuccesso e l'esito piu probabile dello scontro, che la morte e un destino necessario, ma che tuttavia c'e verita e nobilta anche nella sconfitta. Pensare ed agire con questa convinzione morale, con questa consapevolezza razionale, e da eroi...».   
+_ Tratto da  [   questo ](http://www.ita-bol.com/bol/main.jsp?action=bolscheda&ean=978880440718)libro

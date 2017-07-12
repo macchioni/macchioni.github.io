@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-09 07:41:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Un americano a Roma   
+** Sul New Yorker c'e un  [ racconto ](http://www.newyorker.com/fiction/content/?030714fi_fiction)di Tobias Wolff ambientato a Roma che tratta di un viaggio sul bus 64, poi di nomadi borseggiatori e tassisti timorosi di denunce. Wolff, nella sua vita, ha scritto  [ questo](http://www.ita-bol.com/bol/main.jsp?action=bollibri&tipoContrib=AU&codPers=0007313).
+The New Yorker - Bol

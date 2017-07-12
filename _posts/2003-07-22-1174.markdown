@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-22 08:17:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** La grande storia in prima serata   
+**   E' un saggio interessante quello uscito su American Heritage a firma di [ Richard Brookhiser](http://www.amazon.com/exec/obidos/search-handle-url/index%3Dbooks%26field-author%3DBrookhiser%2C%20Richard/103-9444638-4359816). Si  [ racconta ](http://www.americanheritage.com/AMHER/2003/04/france.shtml)il rapporto di odio e amore tra francesi e americani nei secoli.   
+  Amazon - America Heritage

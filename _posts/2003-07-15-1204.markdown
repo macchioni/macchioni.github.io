@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-15 07:26:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** Le vere differenze tra uomini e donne   
+** Ce ne sono  [ molte](http://www.psychologytoday.com/htdocs/prod/PTOArticle/PTO-20030624-000003.asp): ad esempio gli uomini secernono molta piu saliva, le donne imparano a parlare prima. 
+Psychology Today

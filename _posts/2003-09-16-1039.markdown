@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-16 07:03:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Recall later (Richiamate piu tardi)   
+**   Una corte federale della California ha deliberato che le elezioni della procedura di recall previste per ottobre sono state fissate con  [ troppa fretta ](http://www.washtimes.com/national/20030916-125201-8259r.htm)per permettere ai vari municipi coinvolti di mettere a punto il sistema elettorale. Meglio marzo, sostengono i giudici.
+Washington Times

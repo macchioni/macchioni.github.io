@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-29 08:05:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** Europae   
+** Ancora sulla Gran Bretagna in Europa (Blair ne [   ha parlato ](http://politics.guardian.co.uk/eu/story/0,9061,965988,00.html)in Kuwait) e su Prodi che non ama i lavori della Convenzione guidata da Giscard.   
+The Guardian

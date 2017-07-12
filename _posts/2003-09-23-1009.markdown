@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-23 05:22:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Dolce Capodanno   
+**   Per il Rosh Ha-Shana che cade questo sabato il NY Magazine ha stilato la solita lista: stavolta tocca alle  [ migliori pasticcerie ebraiche ](http://www.newyorkmetro.com/nymetro/shopping/columns/testdrive/n_9239//index.html)della Grande Mela.
+NY Magazine

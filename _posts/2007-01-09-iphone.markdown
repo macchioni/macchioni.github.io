@@ -1,0 +1,18 @@
+---
+author: leibniz
+comments: true
+date: 2007-01-09 17:59:41+00:00
+layout: post
+slug: iphone
+title: iPhone!
+wordpress_id: 2370
+categories:
+- web
+---
+
+[![iPhone](http://www.blogsmithmedia.com/www.engadget.com/media/2007/01/dsc_0182.jpg)](http://www.apple.com/iphone/)
+
+[Eccolo](http://www.engadget.com/2007/01/09/the-apple-iphone/).
+
+
+### Engadget - Apple

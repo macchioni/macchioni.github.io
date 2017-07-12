@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-28 07:11:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   50 e piu   
+**Panorama si traveste da NY Magazine e propone le " [ 50 vacanze piu](http://www.panorama.it/viaggiare/citta/articolo/ix1-A020001019712)". Dalla piu costosa (13 mila euro per un weekend) alla piu berretti verdi dove "si marcia nella giungla a colpi di machete, tra scimmie, varani e insettoni".
+Panorama

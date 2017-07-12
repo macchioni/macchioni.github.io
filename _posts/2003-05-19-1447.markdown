@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-19 06:04:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Stupid white man   
+**  [   Critica ](http://www.dissentmagazine.org/menutest/articles/sp03/mattson.htm)lunga e attenta a Michael Moore da parte della rivista Dissent che analizza la critica politica all'interno della societa dell'intrattenimento .   
+  Disssent

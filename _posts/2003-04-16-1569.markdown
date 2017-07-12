@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-04-16 06:59:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Li chiamano Wham (ma George Michael non c'entra)   
+** Sono i  [   mille uomini ](http://www.lastampa.it/edicola/sitoweb/Esteri/art6.asp)Usa che amministreranno l'Iraq. Dovranno vedersela con  [   tre monete ](http://www.corriere.it/edicola/index.jsp?path=ESTERI&doc=T20T3)e[   tremila soldati italiani](http://www.lastampa.it/edicola/sitoweb/Interni/art2.asp).   
+La Stampa - Corriere della Sera

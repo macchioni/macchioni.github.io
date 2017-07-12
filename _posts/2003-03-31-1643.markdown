@@ -1,0 +1,20 @@
+---
+author: leibniz
+published: true
+date: 2003-03-31
+layout: post
+title: Libé e belletto 
+categories:
+- web
+---
+
+	 ** Libe e belletto   
+ [   Liberation ][1] sembra attraversare una  [   crisi][2] . Anche per questo pare che si rifara il trucco grazie allo studio di  [   Mario Garcia][3] , quello che ha curato la grafica del Wall Street Journal, ma anche di: Hamburger Morgenpost, San Francisco Examiner,  [   Handelsblatt ][4] e  [   Vecernji List][5] . 
+
+	Liberation - Ilte.net - Handelsblatt - Vecernji List
+
+[1]:	http://www.liberation.com/
+[2]:	http://www.ilte.net/mercati/editoria_e_stampa/primopiano.asp?DOS=151
+[3]:	http://www.garcia-media.de/
+[4]:	http://www.handelsblatt.com/hbiwwwangebot/fn/relhbi/sfn/buildhbi/SH/0/depot/0/index.html
+[5]:	http://www.vecernji-list.hr/2003/03/30/index.html

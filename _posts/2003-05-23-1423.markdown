@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-23 08:06:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Il pensionato   
+** E' il generale  [   Tommy Franks](http://www.washtimes.com/national/20030523-123032-2662r.htm), bellico signore di Afghanistan e Iraq . Rifiutato un incarico prestigioso tornera a farsi chiamare "Pooh" dai nipotini.   
+The Washington Times (che ha cambiato layout)

@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-01 06:07:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Il cacciatore
+**  [ Duane "Dog" Chapman,](http://www.diario.it/?page=wl03063003#) che ha scelto di fare il cacciatore di taglie: 6.000 uomini catturati, 4 mogli da mantenere. Non c'e da meravigliarsi che il suo  [ sito ](http://dogthebountyhunter.com/)sia visitatissimo.
+Diario.it - dogthebountyhunter [post pluricorretto]

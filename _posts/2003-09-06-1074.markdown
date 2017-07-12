@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-06 08:04:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Cose che bisognerebbe sapere   
+** E' questo il titolo del  [ nuovo libro ](http://www.minimumfax.com/libro.asp?libroID=203)di racconti di A.M. Homes, l'autrice di un altro libro con un altro bel titolo ("La sicurezza degli oggetti"). Qui un  [ pdf ](http://www.minimumfax.com/video/2003/9/59_homescose.pdf)di uno dei racconti nuovi, intitolato "L'ex first lady e l'eroe del football".   
+minimum fax

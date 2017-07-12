@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-04-28 06:06:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Todos colorados   
+** L'emozionante avventura del voto democratico in Argentina e in Paraguay: da una parte la prima volta di un  [   ballottaggio ](http://www.clarin.com/diario/hoy/index_diario.html)(tra Menem e Kirchner), dall'altra il  [   successo ](http://www.corriere.it/edicola/index.jsp?path=ESTERI&doc=BIOGaa)di Nicanor Duarte Frutos, esponente del Partido Colorado (questo si che e un PC!) che governa da una cinquantina d'anni.   
+  Clarin - Il Corriere della Sera

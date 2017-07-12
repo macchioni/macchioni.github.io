@@ -1,0 +1,29 @@
+---
+author: leibniz
+published: true
+date: 2003-03-26 08:27:00+00:00
+layout: post
+title: Blog Aggregator personal report
+categories:
+- web
+---
+
+ 
+
+	 ** Blog Aggregator personal report**   
+Leibniz si e chiesto quali siano i post preferiti da chi giunge qui tramite il  [   blog aggregator ][1]di Giuseppe Granieri. In queste settimane gli argomenti piu cliccati sono risultati essere:
+
+>  
+> 
+>   1. Guerra e Pace in progress - diario della crisi del 21 febbraio
+> 2. Garry Kasparov che racconta la sua partita contro il computer Deep Fritz
+> 3. Alcuni commenti della stampa sul nuovo World Trade Center
+> 4. I possessori di iPod invitano a fare una lista di canzoni come Hornby
+> 5. Le schiave del sesso dall'Europa dell'Est al Regno Unito
+> 6. L'anteprima di Matrix-reloaded
+> 7. La sfera usata da Peter Gabriel a Sanremo
+
+  Insomma, sembrano piacere soprattutto gli argomenti che hanno a che fare con la tecnologia, l'hi-tech, la creativita. Il post giunto primo dovrebbe essere l'eccezione che conferma la regola: a quei tempo l'aggregtor era ancora in fasce.  
+  Blog Aggregator
+
+[1]:	http://www.bookcafe.net/blog/aggregator/

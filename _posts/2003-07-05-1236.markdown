@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-05 06:43:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Divisa kaki e tarbusc   
+**![](http://www.amv-lilliput.org/mostre/MOSTRA2002/arg/Epsn0137.jpg) Gli ascari, combattenti coloniali dell'esercito italiano, sono alle prese con la pensione. Ne restano ancora 173, tutti eritrei. Ecco la loro  [ storia](http://www.corriere.it/edicola/index.jsp?path=INTERNI&doc=ASCAR).   
+Corriere della Sera

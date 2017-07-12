@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-29 07:06:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Life is short, drink it   
+** Anche quest'anno torna la rassegna dei  [ 50 migliori cocktail bar di New York](http://www.newyorkmetro.com/nymetro/nightlife/barsclubs/features/n_8317/): il migliore per quando fa brutto tempo, il migliore per dimenticarsi del lavoro, il migliore per incontrare fotografi di moda, il migliore per giocare a biliardo senza essere interrotti, e il migliore bar gay dove portare amici etero.
+NY Magazine

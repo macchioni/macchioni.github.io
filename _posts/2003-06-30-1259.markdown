@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-30 06:09:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Size doesn't matter   
+**A Toronto, nel  [ Centro di Design](http://www.dx.org/), sono in mostra le miniature delle  [ 100 sedie ](http://www.nationalpost.com/artslife/story.html?id=65776BDD-3629-43AB-A06B-BE34AA36D2A1)piu importanti nella storia del design.   
+  National Post - dx.org

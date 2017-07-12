@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-25 07:18:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Scelte di comunicazione   
+**Apre il negozio monomarca Brooks Brothers a Milano e  [ se ne escono ](http://www.ilnuovo.it/nuovo/foglia/0,1007,182414,00.html) con: "anche il presidente Abraham Lincoln indossava un capo con questo marchio quando fu ucciso".   
+  Il Nuovo

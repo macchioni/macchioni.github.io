@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-29 07:14:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Ghostbuster per tutta la vita   
+**  [ Dan Aykroyd](http://observer.guardian.co.uk/review/story/0,6903,1050961,00.html) non solo crede ai fantasmi, ma pensa spessissimo al suo blues brother Belushi .   
+The Observer

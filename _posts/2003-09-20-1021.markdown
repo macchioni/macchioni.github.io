@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-20 07:41:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Sweet home Chicago   
+**   La citta dell'Illinois - capitale degli omicidi, patria dei Blues Brothers e dei successi di Michael Jordan - [ sta cambiando](http://www.panorama.it/mondo/americhe/articolo/ix1-A020001020759): si costruiscono parchi al posto di vecchi aeroporti e il Chicago River, una volta inquinato, ora e solcato da kayak. Bell'articolo di Marco De Martino.   
+Panorama

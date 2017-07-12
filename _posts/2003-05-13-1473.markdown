@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-13 08:13:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** The italian maestro   
+**   A Cannes si elogia l'opera di Federico Fellini . Ne scrivono  [   Express](http://www.lexpress.fr/Express/Info/Culture/Dossier/cannes/dossier.asp?ida=392223),  [   New Republic ](http://www.tnr.com/doc.mhtml?i=FWS&s=fws050803)e  [   La Stampa](http://www.lastampa.it/edicola/sitoweb/Spettacoli/art5.asp).   
+L'Express - The New Republic - La Stampa

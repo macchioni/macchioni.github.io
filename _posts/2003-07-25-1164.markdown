@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-25 06:55:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** All that glitters is gold   
+** Jimmi Page, chitarra dei Led Zeppelin, si  [ racconta ](http://www.thesun.co.uk/article/0,,5-2003341017,00.html)al Sun mentre beve 40 shot di vodka mangiando 3 pizze e un curry.   
+  The Sun

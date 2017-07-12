@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-07 05:43:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Un hot-dog ogni 16 secondi   
+** Takeru 'Tsunami' Kobayashi si e confermato campione assoluto della categoria " [ divoratori di hot-dog](http://www.ananova.com/news/story/sm_797113.html?menu=news.quirkies)". Col suo metodo "salomonico" (spezza in due il panino prima di inghiottirlo) ne ha mangiati 44 in 12 minuti. Grande il suo disappunto per non aver battuto il record di 55 hot-dog e mezzo.   
+  Ananova

@@ -1,0 +1,20 @@
+---
+author: leibniz
+comments: true
+date: 2005-08-10 07:36:09+00:00
+layout: post
+slug: blogstar
+title: Blogstar
+wordpress_id: 137
+categories:
+- old-blog
+---
+
+Per quelli che a suo tempo si erano scaricati il [rapporto sui weblog](http://www.casaleggio.it/rapporto.asp?articleID=245&titolo=Focus:%20Il%20%22Social%20Network%22%20dei%20blog%20italiani)
+compilato da Casaleggio & Associati, adesso e arrivato uno studio a
+livello mondiale della comScore, sponsorizzata da Gawker e SixApart
+(cioe Typepad). Nel pdf (![](http://blogs.it/0100694/images/arrow.gif)[136kb](http://www.comscore.com/blogreport/comScoreBlogReport.pdf)) la cosa che ha fatto piu chiacchierare e la classifica dei blog piu visitati: [Drudge Report](http://www.drudgereport.com) resta quasi imbattibile dal punto di vista delle visite (4 volte piu di [Fark](http://www.fark.com/)), ma stupisce anche il rapporto tra blog-cloni. Ad esempio [Gizmodo](http://www.gizmodo.com) batte [Engadget](http://www.engadget.com) e [Defamer](http://www.defamer.com) batte [Gawker](http://www.gawker.com).  
+
+
+
+### Casaleggio - Comscore - Drudge Report - Fark - Gizmodo - Engadget - Defamer - Gawker | tag: [blogging](http://www.technorati.com/tags/blogging), [reports](http://www.technorati.com/tags/reports)

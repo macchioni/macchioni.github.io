@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-04-28 14:32:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Imparare divertendosi   
+** Leibniz, che in fondo era quello che cercava di creare una scrittura basata su di una simbologia universale, ha trovato[   questo sito ](http://www.funnyfans.it/imparare.html)pieno di spunti strani ed e stato indirizzato ad una  [   calcolatrice ](http://www.funnyfans.it/educ/comp_r/ita.html)Java con le cifre romane (Ma a che serve?). Il post e dedicato a chi si diverte mentre gli altri imparano.   
+Funnyfans

@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-04-18 05:55:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Si potrebbe tutti andare allo zoo comunale   
+** Niente zoo, basta il palazzo di Saddam dove gli americani hanno trovato le "bestie feroci",  [   leoni e orsi ](http://www.washtimes.com/national/20030418-25436380.htm)compresi. Ma hanno fame (gli animali, non i soldati).  
+  Washington Post

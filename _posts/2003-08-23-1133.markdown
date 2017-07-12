@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-08-23 06:47:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** Quod me nutrit me destruit   
+** In un mondo popolato da  [ 300 milioni di obesi](http://www.time.com/time/magazine/article/0,9171,1101030825-476417,00.html),  sembra  avanzare un problema: « _ nell'ultimo anno gli americani hanno mangiato 900 mila porzioni di patatine fritte in meno, pari a una contrazione del 10 per cento sui consumi_». La  [ snack-mania ](http://www.panorama.it/mondo/americhe/articolo/ix1-A020001020435)comunque impazza anche se ci si sta dando una regolata: la soluzione non e smetterla con le porcherie, ma trovare porcherie dietetiche come la Z-Carb, una barretta al cioccolato a zero carboidrati. E' l'era degli  _ smart-snacks_.   
+  Time - Panorama

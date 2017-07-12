@@ -1,0 +1,15 @@
+---
+author: leibniz
+published: true
+date: 2003-02-20 13:55:00+00:00
+layout: post
+title: Questo film ha titolo
+categories:
+- web
+---
+
+Questo film ha titolo  
+ Sembra che tutti quelli che hanno visto 'Prova a prendermi' di Spielberg siano rimasti affascinati dalla sigla che accompagna i titoli. Bravo  [   Emmebi ][1]a scriverne.  
+EmmeBi 
+
+[1]:	http://www.emmebi.blogspot.com/2003_02_01_emmebi_archive.html#89421662

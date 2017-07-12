@@ -1,0 +1,13 @@
+---
+author: leibniz
+comments: true
+date: 2005-09-19 18:31:51+00:00
+layout: post
+slug: hire
+title: hire
+wordpress_id: 62
+categories:
+- web
+---
+
+We're happy to announce that a new version of WordPress is now available for download. This set of improvements and security fixes is in line with our commitment to maintaining an extremely stable 1.5 series. In addition to fixing a number of bugs and adding requested enhancements for plugin authors, this release also addresses all

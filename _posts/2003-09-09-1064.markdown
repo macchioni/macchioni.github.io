@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-09 06:55:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Tu voi fa l'(anti)americano   
+** Lunga analisi di  [ Fouad Ajami ](http://www.foreignpolicy.com/story/story.php?storyID=13852)sui tic dell'antiamericanismo e le sue due tappe: l'11 settembre e l'unilateralismo Usa.   
+Foreign Policy

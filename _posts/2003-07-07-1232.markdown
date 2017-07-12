@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-07 05:49:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   L'isola liberal che mette in difficolta gli Usa
+** Su quanto sia "avanti" il Canada:  [ Naomi Klein](http://www.nytimes.com/2003/07/06/magazine/06QUESTIONS.html) e la sua entusiasta intervistatrice, Deborah Solomon.
+  NY Times Magazine

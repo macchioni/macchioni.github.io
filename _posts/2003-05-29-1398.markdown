@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-29 07:31:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Mi faccia causa   
+** La Coca Cola usa l'immagine del campione cinese di basket Yao Ming (uomo Pepsi) e lui la cita per  [   danni](http://www.cnnitalia.it/2003/SPORT/05/28/1307yao_cita_cocacola/index.html). Il risarcimento e simbolico 12 cents, ma forse quelli di Atalanta non hanno tutti i torti.
+CnnItalia

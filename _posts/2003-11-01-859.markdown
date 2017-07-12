@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-11-01 22:19:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Noi non ci saremo   
+**![](http://gnueconomy.clarence.com/images/misc/ico-gnuaward.gif) Leibniz  [ non e stato nominato](http://gnueconomy.clarence.com/cgi-bin/weblogsaward/vote.cgi).   
+GNUeconomy

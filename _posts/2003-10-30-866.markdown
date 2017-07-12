@@ -1,0 +1,14 @@
+---
+author: leibniz
+published: true
+date: 2003-10-30 06:40:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** "La scarduffata e romantica e patetica
+lotta contro il tempo che passa"   
+** Il Corriere mette in mano a  [ Giorgio Faletti ](http://www.corriere.it/edicola/index.jsp?path=PRIMA_PAGINA&doc=FAL)il nuovo Harry Potter. 
+Il Corriere della Sera

@@ -1,0 +1,309 @@
+body {
+	font-family: Ubuntu;
+	font-size: 20px;
+	line-height: 145%;
+	background-color: whitesmoke;
+	}
+h4 {
+	font-size: inherit;
+	}
+.divPageBody {
+	width: 60%;
+	margin-top: 90px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 400px;
+	}
+.divByline {
+	font-family: "Oswald";
+	font-size: 24px;
+	color: #ff6600;
+	margin-top: 10px;
+	line-height: 140%;
+	}
+.divMessageTitle {
+	font-family: "Rancho";
+	font-size: 52px;
+	min-height: 26px;
+	font-weight: bold;
+	line-height: 110%;
+	margin-top: 125px;
+	margin-bottom: 15px;
+	}
+.divSiteName {
+	font-family: Rancho;
+	font-size: 32px;
+	margin-top: 16px;
+	margin-bottom: 16px;
+	}
+.divSiteName a {
+	color: #777777;
+	cursor: pointer;
+	}
+.divMessageBodyText {
+	font-family: "Georgia";
+	font-size: 20px;
+	line-height: 140%;
+	margin-top: 2em;
+	}
+.divMessageBodyText li {
+	font-family: "Georgia";
+	font-size: 20px;
+	line-height: 140%;
+	margin-bottom: .6em;
+	}
+.spPersonName {
+	margin-right: 5px;
+	}
+.spWhenPosted {
+	}
+.divChatLog {
+	width: 100%;
+	margin-left: -73px; /* The icon appears in the margin */
+	}
+.divStaticChatLogItems {  /* 3/31/16 by DW */
+	margin-left: 73px; 
+	}
+.divSlogan {
+	font-style: italic;
+	}
+.spPostTitle {
+	display: none;
+	}
+.divMenubar .brand {
+	margin-top: 1px;
+	}
+.divMsgText {
+	margin-top: 12px;
+	font-family: "Georgia";
+	font-size: 20px;
+	}
+
+/* 11/10/15 by DW */
+	.divReplyLevel0 { 
+		margin-top: 10px;
+		margin-bottom: 30px;
+		}
+	.divReplies {
+		}
+/* 11/18/15 by DW */
+	.divFooter {
+		margin-top: 100px;
+		font-size: .80em;
+		line-height: 180%;
+		border-top: 1px solid silver;
+		text-align: center;
+		padding-top: 15px;
+		height: 400px;
+		}
+	.divSocialMediaLinks {
+		letter-spacing: 12px; 
+		margin-top: 5px;
+		}
+/* 11/22/15 by DW */
+	.divReplyLevel0 {
+		margin-top: 20px;
+		padding-top: 10px;
+		background-color: gainsboro;
+		border: 1px solid silver;
+		margin-left: 75px;
+		padding-bottom: 10px;
+		}
+	.divReplies {
+		}
+	.divReplies .divChatIcon {
+		width: 0;
+		}
+	.divReplies .divChatText,  .divReplies .divMsgText {
+		font-family: "Ubuntu";
+		font-size: 16px;
+		}
+/* 11/25/15 by DW */
+	.editReplyTextArea {
+		font-family: "Ubuntu";
+		font-size: 16px;
+		margin-left: 20px;
+		}
+/* 12/30/15 by DW */
+	.divMsgText {
+		line-height: 150%;
+		}
+	.divMsgText p {
+		margin-bottom: .9em;
+		}
+/* 1/2/16 by DW */
+	.divPrevNextNavigation {
+		float: right;
+		}
+	.divPrevNextNavigation i {
+		font-size: 18px;
+		margin-right: 10px;
+		}
+	.divPrevNextNavigation a {
+		color: black;
+		}
+/* 1/14/16 by DW */
+	.divNavArrow {
+		height: 40px;
+		position: fixed;
+		top: 15%;
+		cursor: pointer;
+		}
+	.divRightArrow {
+		right: 0;
+		}
+	.divLeftArrow {
+		left: 0;
+		}
+	.divNavArrow i {
+		font-size: 50px;
+		margin-top: 10px;
+		}
+	.divLeftArrow i {
+		margin-left: 10px;
+		}
+	.navArrowEnabled {
+		color: grey;
+		}
+	.navArrowDisabled {
+		color: silver;
+		}
+/* 3/3/16 by DW */
+	.divBlogPostList {
+		width: 600px;
+		margin-left: auto; 
+		margin-right: auto; 
+		background-color: white;
+		padding: 20px;
+		border: 1px solid gainsboro;
+		padding-top: 10px;
+		}
+	.divBlogPost {
+		margin-bottom: 35px;
+		}
+	.divBlogPostTitle {
+		font-family: "Oswald";
+		font-size: 24px;
+		font-weight: bold;
+		line-height: 145%;
+		}
+	.divBlogPostTitle a {
+		cursor: pointer;
+		color: #666666;
+		}
+	.divBlogPostBody {
+		font-family: "Georgia";
+		font-size: 18px;
+		margin-top: 5px;
+		line-height: 145%;
+		}
+	.divBlogPostBody li {
+		line-height: 145%;
+		}
+	.divBlogPostWhen {
+		font-family: "Ubuntu";
+		font-size: 13px;
+		font-weight: bold;
+		}
+	.divBlogPostWhen a {
+		cursor: pointer;
+		color: #666666;
+		}
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+	.divPageBody {
+		width: 90%;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 30px;
+		font-size: 16px;
+		}
+	.divChatLog {
+		width: 100%;
+		margin-left: 0; 
+		}
+	.divChatIcon {
+		display: none;
+		}
+	.divMessageTitle {
+		font-size: 40px;
+		margin-bottom: 15px;
+		}
+	.divChatText {
+		padding-right: 0;
+		}
+	.divReplies {
+		margin-left: 20px;
+		}
+	
+	/* 1/14/16 by DW */
+		.divNavArrow {
+			height: 40px;
+			top: 10%;
+			display: none;
+			}
+		.divNavArrow i {
+			font-size: 30px;
+			}
+		.navArrowEnabled {
+			color: black;
+			}
+		.navArrowDisabled {
+			color: silver;
+			}
+		.divPageBody {
+			margin-top: -50px;
+			}
+	/* 4/11/16 by DW */
+		.divBlogPostList {
+			width: 85%;
+			margin-top: 120px;
+			}
+	
+	}
+
+
+@media only screen 
+and (min-device-width : 481px) 
+and (max-device-width : 768px) {
+	.divPageBody {
+		width: 80%;
+		margin-left: 15%;
+		margin-right: 5%;
+		margin-top: 50px;
+		}
+	}
+
+.share-button {
+    margin: 0px;
+    border: 1px solid #D3D6D2;
+    padding: 5px 10px 5px 10px;
+    opacity: 0.9;
+}
+.share-button:hover {
+    opacity: 1;
+}
+
+.fa-facebook-official {
+    color: #3b5998;
+}
+.fa-google-plus {
+    color: #d34836;
+}
+
+.fa-linkedin {
+    color: #0077b5;
+}
+.fa-envelop {
+    color: #444444;
+}
+.fa-reddit {
+    color: #ff5700;
+}
+
+.fa-twitter {
+    color: #4099FF;
+}
+

@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-19 08:30:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Cuba libre   
+**   Mentre in Francia si  [ critica ](http://www.lefigaro.fr/international/20030619.FIG0434.html#)Castro per i soliti motivi umanitari e per le manifestazioni da lui organizzate contro l'Europa (che in fondo lo ha sanzionato), a Roma si  [ sfilera ](http://www.siporcuba.it/difendiamocuba.htm)per solidarizzare con Cuba. In fondo, spiegano gli organizzatori,   «si sta manifestando concretamente il pericolo che l'Italia si renda complice del blocco economico e del progetto di destabilizzazione contro Cuba».   
+Le Figaro - Si por Cuba 

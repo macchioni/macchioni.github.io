@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-22 07:49:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** La sconfitta annunciata diventa una disfatta   
+** Risorge Stoiber nelle elezioni in Baviera: i socialisti non arrivano neanche al 20 per cento mentre la Csu, con i  [ due terzi dei seggi](http://www.corriere.it/edicola/index.jsp?path=ESTERI&doc=BAV), ottiene la piu grande maggioranza mai registrata in un land.   
+Il Corriere della sera

@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-26 06:22:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Piu serio e piu giusto   
+**Questo il  paese che sogna  [   Nestor Carlos Kirchner](http://www.clarin.com/diario/hoy/p-00201.htm) , la nuova guida argentina.
+Clarin

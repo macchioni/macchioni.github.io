@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-16 06:28:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** L'una per te   
+** Un fisico americano ha preso un quadro di Van Gogh, ha osservato la posizione della luna ivi ritratta e ha  [ ricostruito ](http://www.ananova.com/news/story/sm_800181.html)il cielo del 1889, individuando il punto dove il pittore piazzo il cavalletto.   
+Ananova

@@ -1,0 +1,12 @@
+---
+author: leibniz
+published: true
+date: 2003-02-16 14:57:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+
+Oggi Leibniz va a riflettere nel Rosenthal. A domani.  

@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-22 07:36:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   GD & RD   
+**   I candidati democratici devono fare presa sul Generic Democrat (GD) e sul Real Democrat (RD). Un articolo di  [ Thomas Oliphant ](http://www.boston.com/news/globe/editorial_opinion/oped/articles/2003/10/21/candidates_vie_over_two_kinds_of_democrats/)spiega le differenze tra queste due tipologie di elettore.
+Boston Globe

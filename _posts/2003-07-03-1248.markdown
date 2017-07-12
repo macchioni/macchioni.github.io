@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-03 07:13:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Esta-the   
+** Poteva mancare la classifica dei  [ 5 te freddi ](http://www.newyorkmetro.com/nymetro/food/topfive/n_8840/)piu buoni di New York? Vince quello al mandarino, ma ce ne sono anche al bianco d'uovo e con lo champagne.
+NY Magazine

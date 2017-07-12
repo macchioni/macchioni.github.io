@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-27 07:21:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Rinascimento iracheno   
+**Le cose agli  [   sciti ](http://www.lefigaro.fr/international/20030527.FIG0133.html)cominciano ad andare meglio. Forse anche piu del previsto.   
+Le Figaro

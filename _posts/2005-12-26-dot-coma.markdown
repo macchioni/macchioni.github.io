@@ -1,0 +1,16 @@
+---
+author: leibniz
+comments: true
+date: 2005-12-26 23:28:15+00:00
+layout: post
+slug: dot-coma
+title: Dot coma
+wordpress_id: 1951
+categories:
+- generatori
+- web
+---
+
+Dopo le previsioni tecnologiche di [Calcanis](http://www.calacanis.com/2005/12/23/my-predictions-for-2006/) e di [Winer](http://scripting.wordpress.com/2005/12/23/2006-predictions/), [create le vostre con questo utile generatore](http://www.mcalisterdesigns.com/blog/dotcom_predictions.php).
+
+### McAlster | tag: [generators](http://www.technorati.com/tags/generators)

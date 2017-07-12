@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-29 06:17:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   gnafa'?   
+** [ Oggi ](http://www.corriere.it/edicola/index.jsp?path=ESTERI&doc=DUCAN)in Inghilterra vogliono  [ fare ](http://www.ilriformista.it/documenti/editoriale.asp?id_doc=13102)la testa al leader  [ Iain Duncan Smith](http://politics.guardian.co.uk/conservatives/story/0,9061,1073086,00.html), che la settimana scorsa era finito anche nel mirino dell'Economist   .
+Corriere della Sera . Il Riformista . The Guardian

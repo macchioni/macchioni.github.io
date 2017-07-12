@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-25 07:37:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** Attaccare bottone   
+**  [ Splinder ](http://www.splinder.it/)ha attivato l'opzione "aggiungi a preferiti", un modo per rendere l'interfaccia di Splinder una specie di feed-reader.
+Splinder

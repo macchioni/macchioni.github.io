@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-20 07:57:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Giovani e beati   
+** Il solito studio stavolta ci dice che un teenager su cinque fa sesso  [   prima dei 15 ](http://www.nytimes.com/2003/05/20/national/20TEEN.html)anni.
+The New York Times

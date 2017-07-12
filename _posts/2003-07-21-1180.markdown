@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-21 07:46:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+**   Ich bin ein Berliner   
+**  ![](http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/europe/magazine/2003/0721/flap.jpg) Berlusconi risponde a  [ 10 domande ](http://www.time.com/time/world/article/0,8599,465796,00.html)di Time, ma all'ultima (Cosa pensa dei turisti tedeschi?) non resiste e ci infila "la battuta che fara parlare". Insomma, cita Kennedy.   
+Time

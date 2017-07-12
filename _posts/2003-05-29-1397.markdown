@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-29 07:35:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Piu che un party, una "festa mobile"   
+** Si parla di Playboy, la rivista che compie  [   cinquant'anni](http://www.washingtonpost.com/wp-dyn/articles/A51454-2003May28.html).   
+Washington Post

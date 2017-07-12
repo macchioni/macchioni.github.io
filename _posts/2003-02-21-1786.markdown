@@ -1,0 +1,15 @@
+---
+author: leibniz
+published: true
+date: 2003-02-21 19:27:00+00:00
+layout: post
+title: Blog aggregato
+categories:
+- web
+---
+
+Blog aggregato  
+ Leibniz e stato precettato assieme ad altri 40 bloggers da Giuseppe Granieri per il progetto  [   Blog Aggregator 1.0][1] e vede che in rete c'e un bel dibattito. Promette che provera ad 'aggregarsi' appena avra letto tutto.  
+L\*
+
+[1]:	http://www.bookcafe.net/blog/blog.cfm?id=60

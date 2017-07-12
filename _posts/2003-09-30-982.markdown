@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-30 06:59:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Elogio dell'architetto e dei suoi occhialini   
+**   Al Monde  [ piacciono ](http://www.lemonde.fr/article/0,5987,3246--335896-,00.html)Daniel Libeskind e il suo progetto per Ground Zero.   
+  Le Monde

@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-22 04:49:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Chick-lit   
+** La letteratura per ragazze trentenni single si arricchisce di una nuova figura:  [   Louise Canova](http://www.corriere.it/edicola/index.jsp?path=CULTURA&doc=TEP), moglie delusa che lavora in un teatro, improvvisamente rinvigorita dalla scoperta di un vecchio manuale sull'eleganza. Di qui il nome del romanzo: " [   Elegance](http://www.salani.it/scheda.asp?idlibro=873&titolo=ELEGANCE)".
+Il Corriere della Sera - Salani

@@ -1,0 +1,14 @@
+---
+author: leibniz
+published: true
+date: 2003-09-22 07:32:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** New York... ha bisogno di piu canadesi   
+(e leggere i tabloid e un must)   
+** La rivista MacLean's fa un gioco simpatico: il giornalista inizia una frase e un personaggio famoso la termina. Ecco  [ Candace Bushnell](http://www.macleans.ca/culture/people/article.jsp?content=20030922_65811_65811), inventrice di Sex & The City.   
+MacLean's

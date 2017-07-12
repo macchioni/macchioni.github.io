@@ -1,0 +1,90 @@
+baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
+url: "http://leibniz.me" # the base hostname & protocol for your site
+title: "leibniz*"
+name: "leibniz*"
+description: "il blog di Piero Macchioni"
+
+# This is used by feed.xml. Uncomment if you want to use it.
+# description: "..."
+github:
+    repo: macchioni/macchioni.github.io
+    branch: master
+
+gems:
+  - jemoji
+  - jekyll-last-modified-at
+  - jekyll-seo-tag
+  - jekyll-sitemap
+exclude:
+  - "README.md"
+  - "CHANGELOG.md"
+  - "CNAME"
+  - "Gemfile"
+  - "Gemfile.lock"
+permalink: pretty
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: "post"
+      title: ""
+twitter:
+  username: leibniz
+
+social:
+  name: Piero Macchioni
+  links:
+    - https://twitter.com/leibniz
+    - https://www.facebook.com/pierom
+    - https://it.linkedin.com/in/macchioni
+    - https://github.com/macchioni
+    - https://instagram.com/leibniz
+
+prose:
+  rooturl: '_posts'
+  siteurl: "http://macchioni.github.io"
+  media: "images/vault/"
+  metadata:
+    _posts:
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: "true"
+      - name: "author"
+        field:
+          label: "author"
+          element: "text"
+          value: "leibniz"      
+      - name: "layout"
+        field:
+          label: "Layout"
+          element: "text"
+          value: "post"
+      - name: "title"
+        field:
+          label: "Title"
+          element: "text"
+          value: "Titolo, 70 chr, descrittivo, 3 wds"
+      - name: "description"
+        field:
+          label: "description"
+          element: "text"
+          placeholder: "Descrizione, 172 chr, keyword"    
+      - name: "categories"
+        field:
+          label: "categories"
+          element: "text"
+          placeholder: "Enter categories"
+      - name: "meta"
+        field:
+          label: "meta"
+          element: "text"
+          placeholder: "Enter tags & metadata"

@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-28 06:55:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** Contrabbandieri (piu o meno)   
+** [ Reportage fotografico ](http://www.nytimes.com/slideshow/2003/07/25/magazine/27lives.slideshow_1.html)   di chi fa la spola fra il Marocco e Ceuta, l'enclave di Spagna in Africa.
+NY Times Magazine

@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-11-04 07:41:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Dopo «l'opzione Mieli»...   
+**   ...ecco il « [ Friedman Principle](http://www.theatlantic.com/unbound/polipro/pp2003-10-29.htm)». L'Atlantic racconta le idee sul Medioriente di Thomas Friedman, editorialista del NY Times che vorrebbe veder trasformato il mondo arabo da un'autocrazia ad una democrazia.
+The Atlantic

@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-04-16 06:23:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Cuore di calcio   
+**   Leibniz adora gli studi che mettono in relazione due variabili completamente slegate tra loro. Per questo segnala che secondo un  [   medico francese ](http://story.news.yahoo.com/news?tmpl=story2&cid=573&ncid=757&e=1&u=/nm/20030415/od_nm/heart_dc)la vittoria dei campionati del mondo di calcio del '98 ha limitato le cause scatenanti degli attacchi al cuore, facendo abbassare il normale tasso di mortalita degli infarti. (Ma da noi, dopo Italia-Corea sono aumentate forse le vittime d'infarto?)   
+  Yahoo! News

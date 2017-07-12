@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-14 07:52:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Come in ufficio, ma con un caffe migliore   
+**In Usa le coffee houses ormai sono diventate  [ l'ufficio ](http://www.economist.com/world/na/displayStory.cfm?story_id=1846165)dei colletti bianchi disoccupati e anche di qualche lavoratore provvisto di laptop   . L'affitto, 4 dollari per un cappuccino, e sicuramente basso rispetto alle medie immobiliari.   
+  The Economist (a pagamento)

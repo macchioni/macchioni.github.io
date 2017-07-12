@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-20 07:53:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Ieri Bush mi ha baciato in testa   
+** Si  [   dimette ](http://www.corriere.it/edicola/index.jsp?path=ESTERI&doc=CASA)Ari Fleischer, giovane e calvo portavoce della Casa Bianca che vedevamo da un po' dietro il seal della presidenza.
+Il Corriere della Sera

@@ -1,0 +1,14 @@
+---
+author: leibniz
+comments: true
+date: 2004-09-23 21:02:51+00:00
+layout: post
+slug: inglesi-2
+title: Inglesi
+wordpress_id: 3383
+categories:
+- web
+---
+
+Un [sosia di Pierluigi Collina](http://news.bbc.co.uk/1/hi/england/london/3678274.stm) è andato per le strade di Londra ed ha estratto cartellini rossi alla volta di chi ha gettato a terra una gomma da masticare. A Londra il problema delle gomme costa alla cittadinanza 90 mila sterline l'anno.
+BBC

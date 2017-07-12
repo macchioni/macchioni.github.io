@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-11-04 07:37:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Sei per sei   
+**   In Francia sono appena 36 i  [ reduci ](http://www.lexpress.fr/express/info/france/dossier/guerre1418/dossier.asp)della Prima Guerra Mondiale. L'Express li e andati a cercare e ha raccontato le loro storie (con tanto di foto).   
+L'Express

@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-02 05:53:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Come cambiano media, spin doctors e intelligence   
+** Nuovi  [ atteggiamenti ](http://media.guardian.co.uk/iraqandthemedia/story/0,12823,989098,00.html)per un mondo diverso.   
+The Guardian

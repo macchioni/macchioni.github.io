@@ -1,0 +1,16 @@
+---
+author: leibniz
+comments: true
+date: 2009-07-21 03:56:50+00:00
+layout: post
+slug: e-gia-luna
+title: È già Luna?
+wordpress_id: 4128
+categories:
+- scienza
+---
+
+> **Il record di altezza sulla Luna spetta ai Monti Leibniz**, 11.350 m, che si trovano presso il Polo Sud Lunare: essi battono di gran lunga la più alta montagna terrestre, il Monte Everest, che raggiunge 8.848m.
+
+
+E non aggiungo altro. [[Corriere della Sera](http://www.corriere.it/Rubriche/Astronomia/eclissi/scheda2.shtml)]

@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-14 07:42:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   E' lui o non e lui?   
+**Elogio di " [ Drive in](http://www.panorama.it/spettacoli/tv/articolo/ix1-A020001019517)" attraverso un'intervista ad Antonio Ricci.   
+Panorama

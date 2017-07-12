@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-04-29 05:46:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Un milione di sterline   
+**   E' il prezzo di un paio di  [   scarpe](http://www.thesun.co.uk/article/0,,2-2003191279,00.html) , naturalmente da donna, naturalmente con 642 rubini incastonati.   
+  The Sun

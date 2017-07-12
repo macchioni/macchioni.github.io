@@ -1,0 +1,22 @@
+---
+author: leibniz
+comments: true
+date: 2005-02-01 00:49:41+00:00
+layout: post
+slug: soft
+title: '*{soft'
+wordpress_id: 498
+categories:
+- old-blog
+---
+
+Dato che questo povero blog cosi com'era risultava antipatico a una
+piccola fetta di utenti Internet Explorer siamo ripartiti quasi da
+zero: css sÏ, ma design ridotto al minimo. Lo sviluppo del template
+ripartira da qui. Chi avesse ancora problemi di visualizzazione sarebbe
+gentilissimo a segnalare cosa non va. 
+
+
+
+
+### L* 

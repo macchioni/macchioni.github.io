@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-04 06:43:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Cosi non c'e gusto a spendere soldi   
+** Michelle Lee attacca il cheap-chic e la  [   McFashion](http://www.observer.co.uk/review/story/0,6903,948921,00.html): basta andare nella strada principale di qualsiasi citta per trovare gli stesssi negozi con le stesse marche.   
+The Observer

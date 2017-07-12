@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-04 08:49:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   L'Armani della Apple   
+** Jonathan Ive, il papa dell'iMac vince il premio come  [   miglior designer ](http://www.ilnuovo.it/nuovo/foglia/0,1007,180717,00.html) del 2003. Ma gia [   un anno fa ](http://news.bbc.co.uk/1/hi/in_depth/uk/2000/newsmakers/1768724.stm) si parlava di lui.   
+Il Nuovo - BBC

@@ -1,0 +1,15 @@
+---
+author: leibniz
+comments: true
+date: 2007-11-17 22:45:38+00:00
+layout: post
+slug: they-tube
+title: They Tube
+wordpress_id: 2597
+categories:
+- youtube
+---
+
+Una volta non c'era intervista che non contemplasse la domanda: "Che cosa sta leggendo adesso?". Ora la domanda è: "[Che genere di video guarda su YouTube?](http://nymag.com/daily/entertainment/2007/11/what_the_celebrities_are_watching.html)". Ecco, il New York Magazine l'ha fatta a un po' di gente famosa (che ha risposto).
+
+### NY Magazine 

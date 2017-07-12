@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-28 07:15:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Guarda un po' chi s'e attivato   
+**«Berlusconi? E' stato uno dei primi leader ad attivarsi per l'iniziativa "Cancella il debito", anche per una buona cifra. E fra pochi giorni una grossa somma (15 milioni di dollari) dovrebbe essere... mollata da Bush, per i Paesi africani in maggior difficolta». [   Parola ](http://www.corriere.it/edicola/index.jsp?path=SPETTACOLI&doc=BIOG)di Paul Hewson, al secolo Bono Vox, cantante degli U2.   
+Il Corriere della Sera

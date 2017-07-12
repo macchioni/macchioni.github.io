@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-11 05:54:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Last round nel paese della Guinnes   
+** Mentre in tutti i paesi d'Europa si beve meno di quanto non si facesse 10 anni fa, in Irlanda si beve quasi il 50 per cento in piu di prima (« _ Du vendredi a 17 heures, jusqu'au lundi a 3 heures du matin, les Dublinois boivent 19 800 pintes de biere a l'heure_»). Cosi ora si pensa ad una  [ legge ](http://www.lexpress.fr/Express/Info/Europe/Dossier/irlande/dossier.asp?nom=)per invertire il trend.
+  L'Express

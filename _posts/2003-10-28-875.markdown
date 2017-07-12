@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-28 07:22:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Forse la legge Calasso...   
+** Zadie Smith sale in cattedra e  [ analizza Kafka](http://www.tnr.com/doc.mhtml?pt=tSF4JHYwozRDLhDAkawdvu==). Leibniz non l'ha letta, ma la segnala.
+New Republic

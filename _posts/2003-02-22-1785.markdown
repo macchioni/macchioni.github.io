@@ -1,0 +1,15 @@
+---
+author: leibniz
+published: true
+date: 2003-02-22 06:04:00+00:00
+layout: post
+title: Lo scacchista virtuale ora e piu lento, ma ha piu fantasia 
+categories:
+- web
+---
+
+Lo scacchista virtuale ora e piu lento, ma ha piu fantasia  
+ Con un certo ritardo (quasi una settimana) Leibniz scopre l'intervento di  [   Garry Kasparov ][1]sul Wall Street Journal a proposito dell'ultima sfida a scacchi tra lui e la macchina. Interessante per capire cosa fa la differenza in quelle situazioni e se una macchina piu veloce e anche la piu brava.  
+OpinionJournal
+
+[1]:	http://www.opinionjournal.com/extra/?id=110003081

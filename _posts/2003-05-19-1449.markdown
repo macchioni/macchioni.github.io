@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-19 06:00:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Demografia dei genitori moderni   
+** Un  [   articolo ](http://www.observer.co.uk/cash/story/0,6903,958038,00.html)molto tecnico dell'Observer spiega che su 600.000 bambini nati in Gran Bretagna nel 2001 ben il 40 per cento proviene da madri non sposate. "Se continua cosi, nel 2011 i figli nati fuori dal matrimonio supereranno quelli nati all'interno".   
+  The Observer

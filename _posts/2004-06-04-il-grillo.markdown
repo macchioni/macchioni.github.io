@@ -1,0 +1,14 @@
+---
+author: leibniz
+comments: true
+date: 2004-06-04 08:13:42+00:00
+layout: post
+slug: il-grillo
+title: Il grillo
+wordpress_id: 3462
+categories:
+- web
+---
+
+The Yorker dedica [il giusto spazio](http://www.theyorker.net/archives/2004/06/03/slower_than_wat.html) ad un articolo uscito sul Times a proposito del cricket, attività più lenta che guardare la vernice asciugarsi. [Qui](http://www.collegemix.com/content.php?q=2&id=2046&action=next) invece un gioco online, per non sporcarsi i pantaloni bianchi.
+Yorker - Collegemix

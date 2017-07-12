@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-02 07:03:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Lavoro, l'oppio del capitalismo   
+**  [ Questo ](http://www.lexpress.fr/Express/Info/Economie/Dossier/travailplus/dossier.asp?nom=)e un articolo lungo, e un po' tecnico, su mercato del lavoro e pensioni in Francia. Si passano in rassegna riforme buone e meno buone (35 ore comprese). Puo interessare anche in Italia.   
+L'Express

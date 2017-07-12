@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-19 06:02:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Arch' of triumph   
+** Il  [   magazine ](http://www.nytimes.com/pages/magazine/)del NY Times di questa settimana e dedicato all'architettura.   
+  The NY Times

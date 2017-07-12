@@ -1,0 +1,19 @@
+---
+author: leibniz
+comments: true
+date: 2005-03-26 09:55:53+00:00
+layout: post
+slug: '383'
+title: No Content Found
+wordpress_id: 383
+categories:
+- old-blog
+---
+
+_Auguri a tutti._  
+
+_(Questo blog
+e stato trasferito da un sistema Windows a un OsX, cio dovrebbe
+spiegare i caratteri accentati male dei post precedenti)_  
+
+__

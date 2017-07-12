@@ -1,0 +1,15 @@
+---
+author: leibniz
+published: true
+date: 2006-03-15 05:07:57+00:00
+layout: post
+title: Che ci faccio qui
+categories:
+- blogging
+---
+
+Dato che il servizio statistiche di Google non va più di moda, qui [si testa altro](http://www.problogger.net/archives/2006/03/10/performancing-metrics-review/).
+[![Performancing](http://metrics.performancing.com/logo_small.png)](http://performancing.com)
+
+
+### Pro blogger

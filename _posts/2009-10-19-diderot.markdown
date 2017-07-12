@@ -1,0 +1,15 @@
+---
+author: leibniz
+comments: true
+date: 2009-10-19 15:19:23+00:00
+layout: post
+slug: diderot
+title: Diderot
+wordpress_id: 4276
+categories:
+- generatori
+---
+
+[Quest'uomo](http://diderot.tumblr.com/) è un [genio](http://altasocieta.raptxt.it/).
+
+[Diderot - Alta Società generator - via [EmmeBi](http://emmebi.blogspot.com)]

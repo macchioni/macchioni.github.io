@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2005-12-31 23:01:09+00:00
+layout: post
+title: Avanti un altro
+categories:
+- web
+---
+
+![](http://www.schniz.de/schniz.de/picpool/images/domino.gif)
+Avanti un altro.
+Buon 2006.

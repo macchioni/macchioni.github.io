@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-09 07:37:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+**   Va tutto bene? Direi di no, non va bene niente
+**   Un altro libro scritto da un'anonima di cui sembra tutti parlino molto bene è " [ Scusate se ho 15 anni](http://www.einaudi.it/einaudi/ita/catalogo/scheda.jsp?isbn=978880616670&ed=87)": un cocktail di soprannomi e sessualità piuttosto libera ambientato nei nostri giorni con i nostri miti globali. L'autrice si firma Zoe Trope, ma Leibniz di Zoetrope conosceva giusto  [ questa rivista ](http://www.all-story.com/issues.cgi?issue_id=26)di short stories.
+Einaudi - Zoetrope 

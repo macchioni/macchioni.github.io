@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-02 07:25:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   "Il film piu violento mai prodotto in America"   
+**Cosi chi l'ha visto definisce " [ Kill Bill](http://www.villagevoice.com/issues/0340/smith.php)", il film che dopo 6 anni segna il ritorno di Quentin Tarantino.
+Village Voice

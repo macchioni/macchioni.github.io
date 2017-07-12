@@ -1,0 +1,16 @@
+---
+author: leibniz
+comments: true
+date: 2006-04-13 07:00:28+00:00
+layout: post
+slug: notevole
+title: Notevole
+wordpress_id: 2143
+categories:
+- web
+---
+
+E' arrivato [Google Calendar](http://calendar.google.com). Sembra assai meglio di [30 Boxes](http://30boxes.com/). Seguono [suggerimenti per utili impieghi](http://www.gaspartorriero.it/HTML/blogarchive/2006_04_09_archive.html#114491931550670904).
+
+
+### Google Calendar - 30 Boxes - Gaspar

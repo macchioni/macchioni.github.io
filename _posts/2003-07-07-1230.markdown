@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-07 07:29:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** Lots of glitz****
+** Il semestre italiano visto da Time-Europe: altro che allarmante, sara " [ coreografico](http://www.time.com/time/europe/magazine/article/0,13005,901030707-461792,00.html)". 
+  Time

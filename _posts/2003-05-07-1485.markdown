@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-07 07:12:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** Quando in politica gettare la maschera non serve   
+** La dimostrazione l'ha data  [   Masanori Murakawa](http://story.news.yahoo.com/news?tmpl=story&cid=573&ncid=757&e=1&u=/nm/20030506/od_nm/mask_dc), wrestler giapponese conosciuto come "Il grande Sasuke" . E' riuscito a farsi eleggere senza levare la maschera da combattimento. In Giappone pero ci avevano gia abituato a  [   strane candidature](http://leibniz.splinder.it/1051594228#192585).   
+Yahoo! News

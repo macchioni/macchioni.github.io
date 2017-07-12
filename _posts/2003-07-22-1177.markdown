@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-22 07:47:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Questo e un «blog bagnino»   
+**  [ Antonio Sofi](http://webgol.splinder.it/), al convegno di Viterbo, aveva presentato uno  [ studio interessante ](http://roncaglia.homeip.net/uniblog/2003/07/13#a28)osservando una settantina di blog per una settimana. Ne erano venute fuori quattro categorie. Leibniz era andato a finire tra i "blog bagnini".
+Webgol - MerzLog

@@ -1,0 +1,16 @@
+---
+author: leibniz
+published: true
+date: 2003-03-12 08:31:00+00:00
+layout: post
+title: Questo Biagi in tv non va bene
+categories:
+- web
+---
+
+   Questo Biagi in tv non va bene  
+   Qualcuno  [   a sinistra ][1]ce l'ha con lo  [   spot ][2]della Legge Biagi (che pero non e una legge vera e propria ma una legge delega).  
+  Il Corriere della Sera
+
+[1]:	http://www.corriere.it/edicola/index.jsp?path=POLITICA&doc=VETRO
+[2]:	http://www.welfare.gov.it/News/Campagna+Legge+Biagi.htm

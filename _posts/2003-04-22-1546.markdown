@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-04-22 10:41:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Ho fermato il figlio del vento   
+** Carl Lewis guida in stato d'ubriachezza e provoca un  [   incidente](http://www.ilnuovo.it/nuovo/foglia/0,1007,177046,00.html).   
+  Il Nuovo

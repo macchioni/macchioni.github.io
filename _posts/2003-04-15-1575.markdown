@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-04-15 07:06:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Buona Siria   
+** Per un giro del mondo sul tema dell'attacco alla Siria di cui tutti i giornalisti tv italiani parlano.  [   Guardian ](http://www.guardian.co.uk/Iraq/Story/0,2763,937105,00.html)(Bush vetoes Syria war plan),  [   Figaro ](http://www.lefigaro.fr/international/20030415.FIG0053.html)(Et apres l'Irak la Syrie?),  [   Australian ](http://www.theaustralian.news.com.au/common/story_page/0,5744,6285824%255E601,00.html)(Now US puts heat on Syria),[   New York Times ](http://www.nytimes.com/2003/04/15/international/worldspecial/15SYRI.html)(Syria Fears the Unknown: What's Behind U.S. Threats).   
+  The Guardian - Le Figaro - The Australian - NY Times

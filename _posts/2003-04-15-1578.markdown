@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-04-15 06:32:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Un lounge per tutti i gusti   
+** Ecco la lista dei  [   50 migliori bar di New York](http://www.newyorkmetro.com/nymetro/nightlife/barsclubs/features/n_8317/). C'e il migliore per dimenticarsi del lavoro (ma dove si deve andare proprio appena usciti dal lavoro), quello dove incontrare un fotografo di moda, il miglior bar gay dove portare gli amici etero e il migliore bar se si dispone di un conto spese.   
+NewYorkMetro.com

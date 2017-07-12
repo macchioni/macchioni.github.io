@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-10 06:25:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Un attore e i suoi personaggi?   
+** Mentre ci  si pensa su si puo leggere il  [ ritratto ](http://www.newyorker.com/fact/content/?030714fa_fact2)dedicato a Katharine Hepburn e ai suoi personaggi.   
+The New Yorker

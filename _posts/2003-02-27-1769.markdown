@@ -1,0 +1,16 @@
+---
+author: leibniz
+published: true
+date: 2003-02-27 11:58:00+00:00
+layout: post
+title: Una al posto di due 
+categories:
+- web
+---
+
+Una al posto di due  
+ La battaglia del World Trade Center e stata vinta dall'antipatico[   Libeskind][1]. Ora sappiamo come sara la  [   nuova skyline ][2]della grande Mela.  
+  Il Nuovo - The NY Times
+
+[1]:	http://www.ilnuovo.it/nuovo/foglia/0,1007,171669,00.html
+[2]:	http://www.nytimes.com/2003/02/27/nyregion/27REBU.html

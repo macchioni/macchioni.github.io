@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-25 06:50:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   The blog review of Books   
+**[ Granieri ](http://www.bookcafe.net/blog/review/)ha spesso grandi idee.
+Blog Notes

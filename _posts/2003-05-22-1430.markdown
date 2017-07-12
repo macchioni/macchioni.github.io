@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-22 04:53:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   C'e un giudice a Rio   
+** I magistrati  [ bloccano ](http://oglobo.globo.com/oglobo/rio/107929729.htm) la costruzione del Guggenheim di Rio de Janeiro disegnato da Jean Nouvel perche il contratto stipulato andrebbe contro il dettato costituzionale. Niente museo nel 2007, pare. A decidere tutto questo   e stato "o  juiz da 8 Vara de Fazenda Publica, Joao Marcos Fantinato".   
+O Globo

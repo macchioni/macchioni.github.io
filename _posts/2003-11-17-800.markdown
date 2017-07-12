@@ -1,0 +1,11 @@
+---
+author: leibniz
+published: true
+date: 2003-11-17 05:33:00+00:00
+layout: post
+title: Quando l'allarme di casa ti scrive una mail in ufficio...
+categories:
+- web
+---
+Vuol dire che ha rilevato dei movimenti nel tuo appartamento. Ma la  [ domotica](http://www.nytimes.com/2003/11/16/magazine/16WAVE.html), secondo un servizio del New York Times Magazine, non si ferma qui: c'e il forno che legge il codice a barre della pizza surgelata e si autoprogramma la cottura, il frigo che fa l'inventario dei prodotti e un milione di telecomandi per le cose piu strane. E poi c'e l'invasione silenziosa: la nostra vita e piena di  [ schermi ](http://www.nytimes.com/2003/11/16/magazine/16SCREENS.html)(oltre che di  [ cellulari](http://www.nytimes.com/2003/11/16/magazine/16CELL.html)).
+NY TImes Magazine

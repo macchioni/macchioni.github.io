@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-04 05:37:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   My Nam   
+** Un cronista cinese (di Hong Kong) racconta il  [ Vietnam ](http://www.courrierinternational.com/voyage/Articles/ASIE/vn01-020703.htm)di oggi e scopre un paese diverso da quel che si racconta in estremo oriente.
+Courrier International

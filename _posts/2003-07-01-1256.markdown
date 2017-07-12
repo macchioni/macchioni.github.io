@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-01 06:01:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Sulle tracce dell'assassino   
+**   Una delle testate meno affidabili della rete ci informa che O.J. Simpson sarebbe ad un passo dal'indicare al mondo il vero  [ assassino ](http://www.weeklyworldnews.com/news/index.cfm?instanceid=58496)di sua moglie.   
+WeeklyWorldNews

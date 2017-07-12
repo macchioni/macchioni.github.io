@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-04 05:35:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Se ti vedesse la Thatcher   
+** Lo Spectator su  [ Blair](http://www.spectator.co.uk/article.php3?table=old&section=current&issue=2003-07-05&id=3286), il Bairism e la Blairite. E sulla scommessa europeista di questo leader.
+The Spectator

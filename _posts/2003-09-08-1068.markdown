@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-08 07:17:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Il sistema nervoso elettronico del Cile   
+** Simon Beer, che con frammenti di vecchie radio invento un  [ sistema ](http://www.guardian.co.uk/chile/story/0,13755,1037547,00.html)per misurare l'indice di gradimento del regime di Pinochet.
+The Guardian

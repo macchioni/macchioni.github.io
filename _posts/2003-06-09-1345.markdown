@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-09 10:17:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Anche i telefoni hanno un anniversario   
+**Ad esempio sono 40 anni che esiste la " [ linea diretta](http://www.corriere.it/edicola/index.jsp?path=ESTERI&doc=TELEFONO)" tra la Casa Bianca e il Cremlino   .   
+Il Corriere della Sera

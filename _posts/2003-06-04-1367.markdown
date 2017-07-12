@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-04 08:57:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Bambini, maschere antigas e neve nera   
+** Il nuovo [ video ](http://www.corriere.it/edicola/index.jsp?path=SPETTACOLI&doc=TESTA)dei Sigur Ros ha colpito il Corriere.   
+  Il Corriere della Sera

@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-30 05:57:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** Sempre meglio che lavorare   
+** Un cronista al semaforo alle prese con le opinioni della "gggente", un complotto per fare entrare Kazuo Ishiguro nella biblioteca del Msi, la finta intervista a Tatarella, il finto saggio de "er pecora" su Camille Paglia e l'intramontabile "minareto della sinagoga". Testimonianza di Stefano Di Michele sui giornalisti (alla Jayson Blair) che inventano. Colonna a sinistra (e di ieri, e un  [   pdf](http://www.ilfoglio.it/pdf/29052003_2.pdf))
+Il Foglio

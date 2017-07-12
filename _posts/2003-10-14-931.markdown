@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-14 07:27:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Friends will be friends   
+**   Giovedi riparte  [ Friends ](http://www.repubblica.it/2003/j/sezioni/spettacoli_e_cultura/friends/friends/friends.html)su RaiDue. Naturalmente in una fascia oraria solitamente piu adatta a qualche film partecipante ad un qualsivoglia festival del cinema teutonico. Ma in fondo cosa aspettarsi da chi scopre  Twin Peaks oltre 12 anni dopo la sua prima messa in onda?   
+  Repubblica

@@ -1,0 +1,16 @@
+---
+author: leibniz
+comments: true
+date: 2006-03-01 10:28:19+00:00
+layout: post
+slug: empty-box
+title: Empty Box
+wordpress_id: 2063
+categories:
+- video
+---
+
+Come cambia il packaging di un prodotto a seconda dell'azienda che lo mette sul mercato. Ipotesi fantasiosa: [Microsoft che produce e lancia iPod](http://www.youtube.com/watch?v=EUXnJraKM3k&search=ipod%20microsoft).
+
+
+### You Tube

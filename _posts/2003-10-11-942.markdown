@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-11 07:29:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Le tigri celtiche   
+**   Bel numero quello di  [ Emporion ](http://www.enel.it/magazine/emporion/)dedicato stavolta ai dinamici paesi del Nord Europa. Si puo partire da  [ questo articolo ](http://www.enel.it/magazine/emporion/sezioni_dett.asp?iddoc=624641&dataemporion=08/10/2003)che tra l'altro cita un  [ bel libro ](http://www.alice.it/cafeletterario/156/8870910873.htm)di Bjorn Larsson.   
+  Emporion - Alice

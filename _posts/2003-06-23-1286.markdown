@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-23 05:44:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Dieci piccoli italiani   
+** I migliori  [ italian ](http://www.newyorkmetro.com/nymetro/food/homeent/summer2003/n_8733/)restaurant a New York. Ovvero garganelli panna e prosciutto, agnolotti al foie gras e cappuccino Martini.
+  NY Magazine

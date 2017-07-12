@@ -1,0 +1,18 @@
+---
+author: leibniz
+published: true
+date: 2003-07-22 08:00:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** Il giornale del popolo   
+** Come nasce e come cresce  [ Usa Today](http://www.time.com/time/magazine/article/0,9171,1101030721-464402,00.html), secondo molti il vero quotidiano capace di rappresentare l'America. Semplice, autorevole, pieno di foto e grafici. Un vecchio adagio (che prima o poi Leibniz postera per intero) recita:  
+
+>  
+> 
+>  _ USA Today_ is read by people who think they ought to run the country but don't really understand the Washington Post. They do, however, like their smog statistics shown in pie charts.
+
+  Time

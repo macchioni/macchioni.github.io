@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-21 07:04:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Cambia titolo, mica sei Doris Lessing   
+** Se tra i lettori di Leibniz c'e qualche appassionato di Christa Wolf, gradira magari la  [ recensione ](http://www.liberation.fr/page.php?Article=118766)del suo ultimo libro, uscito in Francia. Si intitola " Le corps meme", ma poteva chiamarsi "Descente aux enfers".   
+  Liberation

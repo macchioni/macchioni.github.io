@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-10 08:54:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Spin City   
+** Parigi chiama Bruxelles. Lo  [ spin doctor di Raffarin ](http://www.lexpress.fr/express/info/france/dossier/raffarin/dossier.asp?ida=402763)e quello  [ di Prodi](http://www.ilfoglio.it/): ovvero Dominique Ambiel e Gad Lerner.   
+L'Express - Il Foglio

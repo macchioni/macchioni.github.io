@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-17 06:59:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Come Dracula, ma con i baffi   
+** Il Corriere  [ pubblica ](http://www.corriere.it/edicola/index.jsp?path=ESTERI&doc=WOL)un'intervista a Paul Wolfowitz che racconta preparativi della guerra in Iraq e la superstizione irachena secondo cui Saddam Hussein sarebbe come Dracula: avrebbe il potere di tornare dalla morte.
+Il Corriere della Sera

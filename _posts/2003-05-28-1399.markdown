@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-28 07:24:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   In morte di Luciano Berio   
+**Sconosciuto ai piu, il maestro - che si faceva scrivere i libretti da Italo Calvino - e appena scomparso. Era a capo dell'Accademia romana di Santa Cecilia e oggi il Corriere gli ha dedicato un bel titolo:  "Uno  [   Stravinskij italiano ](http://www.corriere.it/edicola/index.jsp?path=CULTURA&doc=T42CU1)che sfido il conformismo con il jazz e i Beatles".   
+Il Corriere della Sera

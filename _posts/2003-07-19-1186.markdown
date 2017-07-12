@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-19 07:12:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   E' cosa buona e giusta   
+** L'Economist di questa settimana  [ rilancia](http://www.economist.com/opinion/displaystory.cfm?story_id=1923421): dopo tutto quello che e saltato fuori si puo ancora dire che la guerra in Iraq e stata legittima? Per il settimanale si.   
+The Economist

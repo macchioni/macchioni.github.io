@@ -1,0 +1,18 @@
+---
+author: leibniz
+published: true
+date: 2003-08-26 07:04:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** PowerPoint e il nemico   
+**   E' un programma nato per essere complementare ad una presentazione e invece ha finito per sostituirla. Scrive  [ Wired](http://www.wired.com/wired/archive/11.09/ppt2.html).
+
+>  
+> 
+>   Imagine a widely used and expensive prescription drug that promised to make us beautiful but didn't. Instead the drug had frequent, serious side effects: It induced stupidity, turned everyone into bores, wasted time, and degraded the quality and credibility of communication.
+
+Wired

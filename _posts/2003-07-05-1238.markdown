@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-05 06:36:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Telefonini a luci rosse   
+** Secondo una societa di ricerca l'Umts volera grazie ai contenuti  [ vietati ai minori](http://www.ilte.net/mercati/tlc_e_internet/primopiano.asp?DOS=124): per il settore si prevede un  incremento dai 553 milioni a oltre 2,7 miliardi di euro.   
+Ilte.net

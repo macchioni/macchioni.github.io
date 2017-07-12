@@ -1,0 +1,14 @@
+---
+author: leibniz
+published: true
+date: 2003-09-02 08:07:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Vietato calpestare le aiuole**
+
+Allo zoo di Copenhagen e stato  [ vietato ](http://www.lemonde.fr/dh/0,5987,3226--21430111,00.html)ad elefanti e dromedari di passeggiare sull'erba: la loro urina infatti non fa piu crescere quei bei ciuffetti verdi.   
+  Le Monde

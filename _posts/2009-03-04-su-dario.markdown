@@ -1,0 +1,15 @@
+---
+author: leibniz
+comments: true
+date: 2009-03-04 18:01:28+00:00
+layout: post
+slug: su-dario
+title: Su Dario
+wordpress_id: 3977
+categories:
+- politica
+---
+
+Scopro solo ora - avendo commesso tale errore poco fa - che in rete è pieno, ma anche di più, di articoli o lanci di agenzie che si riferiscono al nuovo segretario del Pd (e al vecchio vicesegretario del Pd) chiamandolo Enrico Franceschini. Che invece [è un giornalista di Repubblica](http://franceschini.blogautore.repubblica.it/). Certo che vedere l'errore proprio sul [sito di quel giornale](http://finanza.repubblica.it/News_Dettaglio.aspx?del=20090301&fonte=RPB&codnews=207293) fa effetto, ma in quel caso la svista è comprensibile.
+
+[MyTube - Repubblica]

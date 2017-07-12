@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-16 06:09:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   La citta che si sta lasciando andare   
+**   E'  [ Winnipeg](http://www.macleans.ca/switchboard/article.jsp?content=20031020_67467_67467), metropoli che spera in un New Deal, dopo aver perso anche la sua unica gloria: la  [ squadra di hockey ](http://www.curtiswalker.com/jets/)iscritta alla Nhl e approdata in Arizona.
+  MacLean's - Jets memorial page

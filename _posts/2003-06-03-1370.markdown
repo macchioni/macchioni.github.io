@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-03 08:16:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Il miglior cappuccino? In Australia   
+** Paul Basset, 25 anni, e stato eletto miglior " [   barista](http://www.smh.com.au/articles/2003/06/03/1054406175195.html) " (in italiano anche oltreoceano) nei mondiali di categoria a Boston. Dice di lui: "  _   I prefer to call myself an artisan rather than a scientist someone who brings an art to his science_".
+  Sydney Morning Herald

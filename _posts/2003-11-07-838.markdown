@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-11-07 08:24:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Un cuoco di nome Google   
+**   La sezione Tech di Time ha preparato uno speciale dedicato alla  [ cucina ai tempi di internet](http://www.time.com/time/techtime/200310/): dalle ricette, ai fornitori agli oggetti indispensabili.   
+Time

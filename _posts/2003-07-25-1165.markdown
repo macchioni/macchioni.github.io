@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-25 06:51:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** La Coca Cola del caffe   
+** La catena Starbucks ha appena chiuso un nuovo quadrimestre di ricchi  [ successi ](http://www.nytimes.com/2003/07/25/business/25JAVA.html?ex=1059796800&en=f0fe5a5802b7c550&ei=5062&partner=GOOGLE)(+23%): ora ha 6.741 locali e anche una nuova bevanda estiva al malto. Sulla storia della catena e del self-made-man che la ideo ecco un  [ vecchio articolo ](http://www.wittgenstein.it/cr/starbucks.html)di Christian Rocca.   
+  NY Times - Capital/Camillo

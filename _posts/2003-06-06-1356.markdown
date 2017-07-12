@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-06 06:44:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** E alla vostra destra, signore, ...l'Iraq   
+** Giovedi George W. Bush e il suo aereo hanno  [ volato ](http://www.miami.com/mld/miamiherald/6021730.htm)nello spazio aereo dell'Iraq "per dimostrare che ora e un paese libero". 
+  Miami Herald

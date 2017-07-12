@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-02 07:32:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Un altro libro con un bel titolo   
+**   E' quello intitolato " [ Se nessuno parla di cose meravigliose](http://www.neripozza.it/schedelibri/2003/giugno/nessuno_parla.htm)". Ben costruito e dotato di sorpresa finale, e il romanzo che sta dando celebrita a Jon McGregor, "il nuovo Ian McEwan".   
+  Neri Pozza

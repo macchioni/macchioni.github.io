@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-16 05:35:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Oui, je suis Henry-Levy   
+**Filosofo, reporter e salottiero.  [ Intervista ](http://www.observer.co.uk/review/story/0,6903,977498,00.html)a Bernard Henry-Levy.
+  The Observer

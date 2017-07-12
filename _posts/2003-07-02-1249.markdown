@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-02 05:59:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Oltre il mito di Cuba   
+**[ Reportage ](http://www.lexpress.fr/express/info/monde/dossier/cuba/dossier.asp)dall'isola dove ormai la Rivoluzione e solo un souvenir da vendere ai turisti.
+L'Express

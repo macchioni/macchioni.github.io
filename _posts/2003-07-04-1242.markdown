@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-04 05:32:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Sei corde e una Ethernet   
+** La Gibson, storica casa di chitarre, vuole trasformare lo strumento da analogico in  [ digitale](http://www.usatoday.com/money/industries/technology/maney/2003-07-01-maney_x.htm).
+USA Today

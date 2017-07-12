@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-11-18 06:25:00+00:00
+layout: post
+title: Indovina chi, made in Usa 
+categories:
+- web
+---
+
+ **   Indovina chi, made in Usa   
+** Se vi ricordate il vecchio gioco,  [ questo ](http://slate.msn.com/id/2090855/)funziona allo stesso modo. Voi fate le vostre scelte politiche e il computer vi toglie di mezzo i candidati alla presidenza che non le appoggiano. In 20 secondi avrete il vostro uomo ( [ Marco Contini](http://www.continiforamerica.org/), pero, non c'e) . 
+  Slate - Contini for America

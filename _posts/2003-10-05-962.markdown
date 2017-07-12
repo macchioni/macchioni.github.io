@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-05 08:41:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   «I blog sono come  _ iceberg»_**   
+ ![](http://www.coolcoaching.co.uk/images/Iceberg.jpg) Sulla rivista Internet News di questo mese pagine e pagine dedicate ai blog, con Giuseppe Granieri in prima linea (ma ci sono anche le interviste a Massaia e a Personalita Confusa). Ne scrive  [ Antonio Sofi](http://webgol.splinder.it/1065207509#695952), padre del titolo di questo post.   
+Coolcoaching - Webgol 

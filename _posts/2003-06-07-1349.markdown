@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-07 07:24:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** Have you ever seen the Raines   
+** Come non aprire il giornale con le dimissioni al NY Times se vi chiamate  [ NY Observer](http://www2.observer.com/observer/pages/frontpage5.asp)? Come non picchiare duro se vi chiamate  [ NY Post](http://www.nypost.com/postopinion/editorial/58358.htm)? Peccato, pero, che entrambi abbiano usato quasi lo stesso titolo: " _ It's a hard Raines fall_" e " _ Raines' hard fall_".
+  NY Observer - NY Post

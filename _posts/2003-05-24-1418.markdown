@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-24 07:01:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Faster than light   
+** Elogio della tecnologia  [   Ethernet ](http://www.economist.com/science/displaystory.cfm?story_id=1795821)fatto dall'Economist. I blogger non possono che condividere.   
+  The Economist

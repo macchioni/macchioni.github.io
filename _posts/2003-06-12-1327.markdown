@@ -1,0 +1,21 @@
+---
+author: leibniz
+published: true
+date: 2003-06-12 13:17:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Revisionismi: 314 cm² su 1900 cm²   
+**Luigi Manconi - dato che parlare di Corriere "ottoniano" ormai e di moda -  [ ricostruisce ](http://www.unita.it/index.asp?SEZIONE_COD=EDITO&TOPIC_TIPO=E&TOPIC_ID=26478)quella che secondo lui e la verita sul famoso titolo ovattato del Corriere («I giornalisti nuovo bersaglio della violenza») in seguito all'attentato brigatista a Indro Montanelli. Era il 2 giugno del 1977 e Montanelli era gia un nome bello grosso per essere confinato in un sommario. Leibniz - che non si fida troppo dei giornali di partito - lascia da parte i centimetri quadrati e si affida ad un libro ("L'eskimo in redazione" di Michele Brambilla, Oscar Saggi Mondadori) per ricostruire titoli e titoletti del Corriere del 3 giugno:
+
+>  
+> 
+>   [Apertura di 5 colonne in prima pagina]   
+  OCCHIELLO:   _ Dopo i magistrati e le forze dell'ordine i gruppi armati colpiscono la stampa   
+_TITOLO:  _ I giornalisti nuovo bersaglio della violenza - Le Brigate Rosse rivendicano gli attentati_   
+SOMMARIO:  _ Mercoledi notte a Genova sette colpi di rivoltella al vicedirettore del Secolo XIX, Vittoro Bruno - Ieri mattina a Milano agguato ad Indro Montanelli, direttore del Giornale Nuovo, colpito alle gambe da quattro pallottole - I feriti non sono in gravi condizioni - Ordigni esplosivi sulle automobili di due cronisti della Nazione di Firenze - Intanto a Torino c'e stato un tentativo di paralizzare i trasporti pubblici: arrestati cinque giovani, uno a scuola_
+
+L'Unita - "L'Eskimo in redazione"

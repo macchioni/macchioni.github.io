@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-15 07:08:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Svedesi che non si fanno fregare   
+**   La Svezia teme per il mantenimento del suo stato sociale e vota no al referendum sull'Euro. Il Figaro teme un  [ effetto valanga ](http://www.lefigaro.fr/international/20030915.FIG0029.html)anche sulle buone intenzioni di Londra e Berna, mentre Sergio Romano e  [ un po' piu ottimista](http://www.corriere.it/edicola/index.jsp?path=PRIMA_PAGINA&doc=ROMANO). Ma poco.   
+Le Figaro - Il Corriere della Sera

@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-22 08:00:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** Qualcosa di personale   
+** Dato che Leibniz ogni tanto stenta a riconoscersi,  [ qualcuno dotato di ingegno ](http://leonardo.blogspot.com/2003_09_01_leonardo_archive.html#106418486019968721)ha pensato bene di mettere nero su bianco chi lui veramente sia.   
+Leonardo

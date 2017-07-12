@@ -1,0 +1,18 @@
+---
+author: leibniz
+published: true
+date: 2003-09-20 07:56:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Perche tutti questi candidati?   
+** Se lo chiede  [ Gregg Easterbrook ](http://www.tnr.com/easterbrook.mhtml)nel nuovo blog (chamato "Name that blog") del New Republic. Si riferisce ai 10 candidati democratici alla presidenza e degli inevitabili 9 sconfitti.
+
+>  
+> 
+> At least nine of the contenders appear to be wasting their own time and everyone else's time, plus wasting millions of dollars. So why do they do it?
+
+  The New Republic

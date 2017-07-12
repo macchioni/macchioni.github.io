@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-06 08:01:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Ci vuole un fisico bestiale, per dirigere un giornale   
+** Parla  [ David Zinczenko](http://www.observer.com/pages/frontpage4.asp), il direttore di Men's Health, quello originale: "I direttori dei giornali sono le vere rock star".
+NY Observer

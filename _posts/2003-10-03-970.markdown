@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-03 06:20:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Largo di Manica   
+**  [ Paolo Guzzanti, ](http://www.spectator.co.uk/article.php3?table=old&section=current&issue=2003-10-04&id=3572)vicedirettore del giornale del fratello del capo del governo italiano e senatore del partito fondato dal capo del governo italiano, scrive sullo Spectator che in fondo il capo del governo italiano non aveva poi cosi torto quando ha parlato di Mussolini.   
+  The Spectator

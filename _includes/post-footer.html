@@ -1,0 +1,42 @@
+<div class='share-button share-button-top'></div>
+<div class='share-button share-button-left'></div>
+<div class='share-button share-button-bottom'></div>
+<div class='share-button share-button-bottom'></div>
+<script src='build/share.js'></script>
+<script>
+var share_button_top = new Share(".share-button-top", {
+title: "Share Button Multiple Element Test",
+ui: {
+flyout: "top center"
+},
+networks: {
+facebook: {
+app_id: "602752456409826",
+}
+}
+});
+var share_button_left = new Share(".share-button-left", {
+title: "Share Button Multiple Instantiation Test",
+ui: {
+flyout: "top left",
+button_text: "Left"
+},
+networks: {
+facebook: {
+app_id: "602752456409826",
+}
+}
+});
+var share_button_right = new Share(".share-button-bottom", {
+title: "Share Button Multiple Instantiation Test",
+ui: {
+flyout: "bottom right",
+button_text: "Right"
+},
+networks: {
+facebook: {
+app_id: "602752456409826",
+}
+}
+});
+</script>

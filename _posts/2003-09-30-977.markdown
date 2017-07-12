@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-30 23:31:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Uscire dalla porta ed entrare dalla finestra   
+**   A questo blog interessa la campagna di alcuni bloggers sulla questione " [ Splinder non ha i feed RSS](http://splindernonhaifeedrss.splinder.it/)" . Cosi dato che Leibniz di questi tempi ha poco tempo e la testa altrove ha pensato di aprire una "finestra" sulle possibilita dei feed. Questa settimana, ad esempio, passando di qui (guardare sotto le pecette antipixel) si possono leggere i titoli degli editoriali del Washington Post.   
+Splindernonhaifeedrss

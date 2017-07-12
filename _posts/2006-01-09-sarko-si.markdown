@@ -1,0 +1,16 @@
+---
+author: leibniz
+comments: true
+date: 2006-01-09 16:45:22+00:00
+layout: post
+slug: sarko-si
+title: Sarko-sì
+wordpress_id: 1977
+categories:
+- politica
+---
+
+Secondo i [primissimi sondaggi](http://permanent.nouvelobs.com/politique/20060109.OBS1371.html) in Francia Nicolas Sarkozy, diciamo destra, esce meglio della rivale Ségolène Royal, diciamo sinistra.
+
+
+### Nouvel Observateur

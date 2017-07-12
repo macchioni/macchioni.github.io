@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-24 06:27:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Io sono il vero Hulk   
+**[ Lou Ferrigno](http://www.thesun.co.uk/article/0,,5-2003290181,00.html), ovvero "the meanest, the greenest tv monster".
+The Sun

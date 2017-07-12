@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-24 08:32:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Total Recall   
+** Ancora non si sa della partecipazione di Schwarzenegger, ma di sicuro in California - stato in bancarotta - si andra a votare: la mozione di  [ recall ](http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2003/07/24/RECALL.TMP&nl=top)(ritorno al voto) e stata sottoscritta da un numero di persone sufficiente.   
+  SF Gate

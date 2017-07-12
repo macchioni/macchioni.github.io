@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-04-18 05:59:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Tim e Tom   
+** Sul New York Observer si parla di Tim Russert (MsNbc) e Thomas Friedman (NY Times). Il primo esprimerebbe  _ an ideology as strong, and self-satisfied, as the anti-communist ideology that was all over the airwaves in the 50's and 60's_, il secondo sarebbe  _ benign, arrogant_. Il pezzo e  [   qui](http://www.observer.com/pages/frontpage6.asp).   
+NY Observer

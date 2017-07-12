@@ -1,0 +1,35 @@
+---
+author: leibniz
+comments: true
+date: 2012-07-04 08:25:36+00:00
+layout: post
+slug: newsnight-2-0
+title: Newsnight 2.0
+wordpress_id: 4873
+categories:
+- giornalismo
+- tv
+tags:
+- aaron sorkin
+- emily mortimer
+- giornalismo
+- newsnight 2.0
+- the newsroom
+- three Is
+- tv
+---
+
+![drawing](http://leibniz.me/images/uploads/2012/07/nreasel.jpg)
+
+In giro capita di leggere una marea di critiche e stroncature di [The Newsroom](http://en.wikipedia.org/wiki/The_Newsroom_(U.S._TV_series)) (vedi [On Bullshit](http://www.fimoculous.com/archive/post-7200.cfm), oppure [Aaron Sorkin’s Flawed New HBO Drama](http://www.thedailybeast.com/newsweek/2012/06/24/the-newsroom-aaron-sorkin-s-flawed-new-hbo-drama.html)), ma un paio di cose nel secondo episodio della serie sono abbastanza vere. Tipo, le tre, anzi quattro (la quarta soprattutto!) domande che uno dovrebbe sempre farsi:
+
+
+> 1. Is this information we need in the voting booth?
+2. Is this the best possible form of the argument?
+3. Is the story in historical context?
+4. Are there really two sides to this story?
+
+
+Tutto questo, poi, vale doppio, se a scrivertelo su una lavagna è Emily Mortimer.
+
+{Wikipedia, Fimoculous, The Daily Beast}

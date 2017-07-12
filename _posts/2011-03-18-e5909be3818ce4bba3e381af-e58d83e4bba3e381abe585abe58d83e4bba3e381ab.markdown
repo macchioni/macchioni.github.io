@@ -1,0 +1,23 @@
+---
+author: leibniz
+comments: true
+date: 2011-03-18 07:56:45+00:00
+layout: post
+slug: '%e5%90%9b%e3%81%8c%e4%bb%a3%e3%81%af-%e5%8d%83%e4%bb%a3%e3%81%ab%e5%85%ab%e5%8d%83%e4%bb%a3%e3%81%ab'
+title: 君が代は 千代に八千代に
+wordpress_id: 4626
+categories:
+- mondi
+tags:
+- croce rossa
+- donations
+- donazioni
+- earthquake
+- giappone
+- japan
+- red cross
+- relief
+- terremoto
+---
+
+The relief money [collected through Google Checkout](http://www.google.com/crisisresponse/japanquake2011.html) will be donated to a charity set up through the [Japanese Red Cross](http://www.jrc.or.jp/english/index.html) to support victims of the earthquake and rebuild the afflicted areas (ma ci sono anche International medical corps, Save The Children e Unicef).

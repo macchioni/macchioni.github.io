@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-09 06:51:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Che beta!   
+** Google News adesso esiste anche  [ in italiano](http://news.google.it/).   
+Google

@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-05-13 08:25:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** Per chi ama le cospirazioni   
+**[   Esce ](http://www.lepoint.fr/monde/document.html?did=130068)in Francia un libro,  [   BlackList](http://www.amazon.fr/exec/obidos/ASIN/2912485517/qid%3D1052747316/402-1520203-3553760), con una prefazione di Gore Vidal che tratta della liberta d'informazione eccetera eccetera. Era uscito anche in  [   Usa](http://www.amazon.com/exec/obidos/ASIN/1573929727/qid%3D1052747373/sr%3D11-1/ref%3Dsr%5F11%5F1/103-9712613-9803823).
+Le Point - Amazon.com - Amazon.fr

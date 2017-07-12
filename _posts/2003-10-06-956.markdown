@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-06 05:30:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ 
+
+ _ Oggi questo blog e logorroico e frivolo perche domani si assenta. A mercoledi._

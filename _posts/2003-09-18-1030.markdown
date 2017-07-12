@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-18 05:50:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Quotidiani: la crisi e bipartisan   
+**   Sembrerebbe contraddetta dai  [ fatti ](http://www.ilte.net/mercati/editoria_e_stampa/news_estesa.asp?ID=2291&DAT=SHORT)la teoria di Leibniz secondo cui i quotidiani d'opposizione vanno sempre meglio di quelli governativi. Cresce bene Libero, il Manifesto perde oltre il 6 per cento, l'Unita e il Giornale non ridono, e anche il Messaggero ha i suoi guai. Qui un po' di  [ grafici ](http://www.ilte.net/mercati/grafici/grafici.asp?ACT=QUOTIDIANI)"alla venerdi nero".
+Ilte.net

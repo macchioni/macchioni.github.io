@@ -1,0 +1,21 @@
+---
+author: leibniz
+published: true
+date: 2003-04-01 
+layout: post
+title: L'attacco dei cloni  
+categories:
+- web
+---
+
+	 ** L'attacco dei cloni   
+
+
+	  Forse chi conosce bene 
+
+[   questo ][1]   dovrebbe vedere  [   quest'altro][2] (segnalato ieri da  [   Brodo Primordiale][3]).  
+Wittgenstein - L'attizzatoio di Wittgenstein
+
+[1]:	http://www.wittgenstein.it/
+[2]:	http://attizzatoio.splinder.it/
+[3]:	http://brodoprimordiale.net/archives/001174.php

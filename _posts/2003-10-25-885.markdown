@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-25 06:33:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   No   
+** Sul piano morale possiamo difendere i kamikaze mediorientali? Un[ saggio ](http://chronicle.com/free/v50/i09/09b01201.htm)di Richard Wolin, professore di Storia e Letteratura comparata di New York, porta a strane conclusioni.
+Chronicle of Higher Education

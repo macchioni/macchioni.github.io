@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-04-25 07:36:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Tre anime e un'Europa, ma troppi impulsivi   
+** Giscard d'Estaing, dopo aver fatto storcere il naso alla Commissione europea, si fa intervistare e  [ dice la sua ](http://www.lastampa.it/edicola/sitoweb/Interni/art2.asp) sull'Europa del futuro e del presente. 
+  La Stampa

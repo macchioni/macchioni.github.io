@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-18 06:20:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ ** I could be bounded in a nutshell **  ** ...   
+** Ad Harold Bloom, critico letterario, non bastava parlare di Shakespeare in ogni libro (e dedicargliene anche  [ uno](http://www.internetbookshop.it/ser/serdsp.asp?shop=1&c=XAVANO59KJKVH)).  [ Ora ](http://www.theatlantic.com/unbound/interviews/int2003-07-16.htm)ne ha scritto  [ un altro ](http://www.amazon.com/exec/obidos/tg/detail/-/157322233X/ref=ase_theatlanticmonthA/103-4956026-0545433?v=glance&s=books)sull'Amleto.
+The Atlantic - Amazon - Ibs

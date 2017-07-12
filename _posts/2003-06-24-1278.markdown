@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-06-24 06:49:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   I blog vanno all'Universita/   -2   
+**![](http://www.restauronline.com/it/contenuti/restauro/concorsi/img/tuscia.jpg) Giovedi 26, presso l'Universita della Tuscia di Viterbo, si terra una giornata di studi sui weblog. Qui il  [ programma ](http://www.unitus.it/confsem/weblog2003/)del convegno con i nomi dei blogger partecipanti e qui il  [ weblog ](http://roncaglia.homeip.net/uniblog/)del convegno organizzato da  [ Gino Roncaglia](http://roncaglia.homeip.net/merzlog/). Leibniz - per quanto possa contare - ci sara. Ma ci saranno, solo per fare alcuni nomi certi, anche Brodo Primordiale (sembra solo nel  [ pomeriggio](http://brodoprimordiale.net/archives/001361.php)),  [ Klamm](http://klamm.splinder.it/),  [ 4Banalitaten](http://blogs.it/0100214/) (provvisto di slides),  [ Proserpina ](http://www.pproserpina.net/united.php3)e  [ Giuseppe Granieri](http://www.bookcafe.net/blog/).
+Unitus.it - Merzlog

@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-04-24 13:50:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Parole sante   
+** Se Leibniz non legge il Washington Post, ci pensa il  [   Foglio ](http://www.ilfoglio.it/editoriale.php?data=24/04/2003)("Guai ai vincitori") a ricordargli qualcosa che valeva la pena leggere:  [   Robert J. Samuelson ](http://www.washingtonpost.com/wp-dyn/articles/A18346-2003Apr22.html)sul giornalismo snob teorizzato da Lee Bollinger, della Columbia University.   
+  Il Foglio - Washington Post

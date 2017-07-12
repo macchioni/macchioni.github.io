@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-24 08:29:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Servizi segreti, troppo segreti   
+** Gli attacchi dell'11 settembre erano  [ prevedibili](http://www.nytimes.com/2003/07/24/national/24TERR.html?hp), se solo FBI e CIA avessero scambiato le informazioni in loro possesso. Questo il responso del Congresso Usa.   
+  NY Times

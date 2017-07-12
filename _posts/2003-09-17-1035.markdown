@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-17 08:11:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Elogio della diplomazia segreta   
+**   Scritto da  [ Ludovico Incisa di Camerana](http://www.emporion-online.it/30-2003/rubriche/incisa.htm).   
+Emporion

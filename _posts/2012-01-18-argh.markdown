@@ -1,0 +1,22 @@
+---
+author: leibniz
+comments: true
+date: 2012-01-18 08:09:36+00:00
+layout: post
+slug: argh
+title: Argh!
+wordpress_id: 4739
+categories:
+- web
+tags:
+- pipa
+- piracy
+- sopa
+- wikipedia
+---
+
+![](http://grainedit.com/wp-content/uploads/2008/10/office-pirates-3.jpg)
+
+Oggi come [Wikipedia](http://en.wikipedia.org/wiki/Main_Page), ma senza oscurare il template (ché sono arrugginito). [Qui](http://it.wikipedia.org/wiki/Wikipedia:Comunicato_del_18_gennaio_2012) la protesta italiana, [qui](http://www.ilpost.it/2012/01/18/perche-oggi-wikipedia-e-oscurata/) una spiegazione ulteriore più neutrale.
+
+{Wikipedia - Il Post - illustrazione [826 Valencia](http://www.google.it/url?sa=t&rct=j&q=826+valencia&source=web&cd=1&ved=0CEEQFjAA&url=http%3A%2F%2F826valencia.org%2F&ei=830WT-B0iYE6qqHhhgQ&usg=AFQjCNGuDYz1Q2Ao0kIUziEJZoRWFWrKTw&sig2=sNoPZo8D8Wy_1s-eKHC7-g) via [Grain Edit](http://grainedit.com/2008/10/17/office-826-valencia/)}

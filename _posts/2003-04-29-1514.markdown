@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-04-29 05:33:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Termometro a distanza   
+** In tempi di Sars serve anche[   questo](http://www.corriere.it/edicola/index.jsp?path=INTERNI&doc=TERMO).   
+Corriere della Sera

@@ -1,0 +1,15 @@
+---
+author: leibniz
+published: true
+date: 2003-10-21 08:06:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   _   Oggi blog striminzito._  
+
+ **   Ecco un altro libro che parla male del Monde   
+**   Il primo era  [ questo](http://leibniz.splinder.it/1045859124#70112), ora c'e  [ quest'altro](http://www.amazon.fr/exec/obidos/ASIN/2707137014/171-3942961-8740231). Se ne parla  [ qui](http://www.lexpress.fr/express/info/societe/dossier/lemonde/dossier.asp?nom=).
+  L* - Amazon.fr - L'Express

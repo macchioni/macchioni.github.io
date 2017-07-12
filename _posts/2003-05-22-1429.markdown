@@ -1,0 +1,14 @@
+---
+author: leibniz
+published: true
+date: 2003-05-22 04:59:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   Gli inglesi lavorano per socializzare,   
+i newyorkesi socializzano per lavorare   
+** E' un detto popolare, ma pare abbia qualche[   fondamento](http://www.nypost.com/living/75867.htm) .   
+NY Post

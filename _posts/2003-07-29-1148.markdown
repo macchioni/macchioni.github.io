@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-07-29 08:29:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   ** Dove vuoi andare oggi?   
+** Per esempio ieri un'amica di Leibniz era  [ qui ](http://www.tate.org.uk/modern/default.htm)(che visto da fuori e  [ cosi](http://www.nonsololondra.it/tappezzeria/tatelarge.jpg)) . Il sito non e male per niente.   
+Tate Modern - NonsoloLondra

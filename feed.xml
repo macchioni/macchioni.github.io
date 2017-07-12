@@ -1,0 +1,26 @@
+---
+layout: none
+---
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>{{ site.name | xml_escape }}</title>
+    <link>http://leibniz.me/</link>
+    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}    
+    </description>
+    <language>it-IT</language>
+{% for post in site.posts limit:10 %}
+    <item>
+      <title>{{ post.title | xml_escape }}</title>
+      <link>{{ site.url }}{{ post.url }}</link>
+      <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+      <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+      <author>Piero Macchioni</author>
+      <description>{{ post.content | xml_escape }}</description>
+      <content:encoded><![CDATA[
+        {{ post.content | xml_escape }}
+      ]]></content:encoded>
+    </item>
+  </channel>
+  {% endfor %}
+</rss>

@@ -1,0 +1,15 @@
+---
+author: leibniz
+published: true
+date: 2003-02-22 14:27:00+00:00
+layout: post
+title: Se un'esplosione nucleare bussa alla porta, e buona norma non aprire
+categories:
+- web
+---
+
+Se un'esplosione nucleare bussa alla porta, e buona norma non aprire  
+ GNUeconomy prende in giro la campagna messa su dal dipartimento di sicurezza pubblica statunitense. Cosi anche un opuscolo su  [   'cosa fare in caso di attacco nucleare' ][1]puo diventare una cosa divertente. Basta cambiare le didascalie.  
+  GNUeconomy
+
+[1]:	http://www.gnueconomy.net/archive/002368.html#002368

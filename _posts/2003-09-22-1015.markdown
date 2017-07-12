@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-22 07:30:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Findus Kosher?   
+**   Perche nella pubblicita dei "Quattro salti in padella" gli agnolotti al ragu di prosciutto sono stati abbinati ad un bambino spettinato e occhialuto di nome Albert che dovrebbe richiamare alla memoria un piccolo Einstein?   
+L*

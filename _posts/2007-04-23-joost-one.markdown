@@ -1,0 +1,17 @@
+---
+author: leibniz
+comments: true
+date: 2007-04-23 05:56:27+00:00
+layout: post
+slug: joost-one
+title: Joost one
+wordpress_id: 2459
+categories:
+- tv
+- web
+---
+
+Un invito per provare [Joost](https://www.joost.com/). Chi lo vuole?
+
+
+### Joost

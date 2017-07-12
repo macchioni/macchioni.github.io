@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-25 06:59:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   I morti ricordano   
+**  [ Se e tutto vero](http://www.ilnuovo.it/nuovo/foglia/0,1007,190871,00.html), qui si e molto contenti.
+Il Nuovo

@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-09-19 10:03:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   Una cartolina da...   
+**   Una volta c'era il  [ nano ](http://www.amelie.it/flash/index2.htm)da giardino di Amelie, poi  [ l'iPod](http://www.ipodblogz.it/ipodclicz_gallery/ipodclicz_gallery.php?nomeFoto=1), adesso il  [ pupazzo di neve ](http://news2000.libero.it/primopiano/pp2798.html)giramondo.   
+Amelie.it - iPod Blogz - Libero

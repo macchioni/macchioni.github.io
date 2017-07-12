@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-16 06:21:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+ **   C'era un cinese nello spazio   
+**   La Cina avanza e non e solo questione di esostrategia: il Parito Comunista ha infatti concesso agli agricoltori la possibilita di accumulare risparmio, aprendo di fatto uno spiraglio al diritto alla  [ proprieta privata](http://www.washingtonpost.com/wp-dyn/articles/A26773-2003Oct14.html). Dalle stelle al mercato,  [ la Cina avanza ](http://www.lemonde.fr/web/article/0,1-0@2-3208,36-338132,0.html)a grandi passi.
+  Washington Post - Le Monde

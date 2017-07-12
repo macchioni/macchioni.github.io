@@ -1,0 +1,16 @@
+---
+author: leibniz
+published: true
+date: 2003-03-06 07:10:00+00:00
+layout: post
+title: Chi me l'ha fatto fame
+categories:
+- web
+---
+
+Chi me l'ha fatto fame  
+   Ieri era giorno di digiuno per la pace   . Cosa hanno fatto i parlamentari? Ce lo dice il  [   Corriere][1], anche se una cosa del genere avrebbe potuto scriverla Filippo Ceccarelli (che a suo tempo ha scritto  [   questo][2]).  
+  Il Corriere della Sera
+
+[1]:	http://www.corriere.it/edicola/index.jsp?path=POLITICA&doc=BUV
+[2]:	http://www.ita-bol.com/bol/main.jsp?action=bolscheda&ean=978883041821

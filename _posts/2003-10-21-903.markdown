@@ -1,0 +1,13 @@
+---
+author: leibniz
+published: true
+date: 2003-10-21 08:03:00+00:00
+layout: post
+title: Titolo
+categories:
+- web
+---
+
+   **   L'architetto di Walt Disney   
+**  [ Frank Gehry ](http://slate.msn.com/id/2089912/)e la splendida Disney Opera House della citta di Los Angeles.
+  Slate

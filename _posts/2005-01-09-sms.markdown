@@ -1,0 +1,16 @@
+---
+author: leibniz
+comments: true
+date: 2005-01-09 22:18:11+00:00
+layout: post
+slug: sms
+title: Sms
+wordpress_id: 549
+categories:
+- old-blog
+---
+
+Ieri ha chiuso il numero unico 48580, messo a disposizione dagli
+operatori mobili italiani per donare alle popolazioni colpite dal
+maremoto un euro ogni sms. Fino a qualche giorno fa erano stati
+raccolti **26.615.271** di euro.
