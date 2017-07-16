@@ -140,8 +140,9 @@ h3 {
 
 .post-posse {
   font-family: 'Inconsolata', monospace;
-  font-size: $font-size-small;
+  font-size: 0.7em;
   color: $gray-light;
+  text-transform: capitalize;
 }
 
 
