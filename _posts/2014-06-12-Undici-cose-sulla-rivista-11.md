@@ -41,5 +41,3 @@ tags:
 
 ![drawing](http://leibniz.me/images/vault/11calcio.png)
 
-{% include twitter_plug.html %}
-

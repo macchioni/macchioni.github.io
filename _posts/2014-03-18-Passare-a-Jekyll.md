@@ -51,5 +51,3 @@ Tradotto: Markdown, all'inizio non sembra, ma alla lunga è puro genio. Metà de
 Ecco, questo è grosso modo il motivo per cui questo blog è così. Ci sono cose da migliorare e funzioni da attivare (per lo più seguendo [questo tutorial](http://joshualande.com/2014/02/03/jekyll-github-pages-poole/) di Joshua Lande). Più i soliti refusi. E ora:
 
 `git commit -a`
-
-{% include twitter_plug.html %}

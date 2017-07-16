@@ -52,4 +52,3 @@ That's what the fuck I do.
   - [Neal Patrick Harris](http://www.vulture.com/2014/04/neil-patrick-harris-interview-hedwig-angry-inch.html). Perché è Neal Patrick Harris.
   - [The Future of Trends in Digital Design](https://medium.com/i-m-h-o/a4795509f4cc) di Lewis Flude.
   
-{% include twitter_plug.html %}
