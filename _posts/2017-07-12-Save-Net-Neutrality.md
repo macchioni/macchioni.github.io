@@ -21,5 +21,5 @@ tags:
 
 [Let's Save Net Neutrality](https://www.eff.org/deeplinks/2017/07/todays-day-lets-save-net-neutrality)
 
-<span class="post-posse">_<br />
+<span rel="syndication" class="u-syndication">_<br />
 possed → <i class="fa fa-twitter"></i> [@leibniz](https://twitter.com/leibniz/status/885040901537574912)</span>
