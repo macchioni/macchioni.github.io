@@ -1,7 +1,7 @@
 ---
 layout: micro
-date: '2016-07-16'
-title: ''
+date: 2016-07-16
+title: 
 tags: note
 category: social
 ---
