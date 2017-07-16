@@ -1,5 +1,5 @@
 ---
-layout: micro
+layout: post
 date: 2016-07-16
 tags: note
 category: social
@@ -10,4 +10,4 @@ category: social
 [Blake Watson: Why I left Facebook](https://www.blakewatson.com/journal/why-i-left-facebook) via [Hacker Newsletter](http://mailchi.mp/hackernewsletter/360?e=69e4c56ba1)
 
 _
-possed → [@leibniz](http://twitter.com/leibniz/status/886591909384343552)
+possed → <i class="fa fa-twitter"></i> [@leibniz](http://twitter.com/leibniz/status/886591909384343552)
