@@ -10,9 +10,7 @@ github:
     repo: macchioni/macchioni.github.io
     branch: master
 
-markdown: rdiscount
-rdiscount:
-extensions: ['smart']    
+markdown: kramdown 
 
 gems:
   - jemoji
