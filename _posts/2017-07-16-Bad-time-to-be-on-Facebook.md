@@ -26,4 +26,4 @@ Two things I read last weekend via [Hacker Newsletter](http://mailchi.mp/hackern
 _PS: This post is also a webmention test. Feedback appreciated._
 
 _<br />
-possed → <i class="fa fa-twitter"></i> [@leibniz](http://twitter.com/leibniz/status/xxxxxxxx)
+possed → <i class="fa fa-twitter"></i> [@leibniz](http://twitter.com/leibniz/status/886704768416186368)
