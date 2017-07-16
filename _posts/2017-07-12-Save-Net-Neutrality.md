@@ -21,3 +21,6 @@ tags:
 [Battle for the web](https://www.battleforthenet.com/)
 
 [Let's Save Net Neutrality](https://www.eff.org/deeplinks/2017/07/todays-day-lets-save-net-neutrality)
+
+_
+possed → [@leibniz](https://twitter.com/leibniz/status/885040901537574912)
