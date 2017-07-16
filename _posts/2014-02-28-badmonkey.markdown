@@ -51,5 +51,3 @@ Inoltre il libro è pieno di altri elementi unici: arti umani, una scimmia con l
 Piccola digressione, se _Bad Monkey_ vi ricorda qualcosa, vi risparmio la rapida ricerca su Google: era un pedale overdrive per chitarra elettrica, Tipo questo qui sotto.
 
 ![drawing](https://webshop.cashconverters.com.au/thumbnail/850x520/1783514-digitech-bad-monkey-tube-overdrive-guitar-pedal-0.jpg)
-
-{% include twitter_plug.html %}
