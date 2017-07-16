@@ -1,7 +1,10 @@
-Se questo post ti è piaciuto,
-<a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title }}&via=leibniz" 
-   target="_blank">
-  condividilo o commentalo con i tuoi follower</a>. 
-Oppure, se vuoi, 
-<a href="https://twitter.com/leibniz">
-  seguimi su Twitter</a>.
+<script id="webmention-hosted">
+(function () {
+var sn = document.createElement("script"), s = document.getElementsByTagName("script")[0], url;
+url = document.querySelectorAll ? document.querySelectorAll("link[rel~=canonical]") : false;
+url = url && url[0] ? url[0].href : false;
+sn.type = "text/javascript"; sn.async = true;
+sn.src = "//webmention.herokuapp.com/api/embed?url=" + encodeURIComponent(url || window.location);
+s.parentNode.insertBefore(sn, s);
+}());
+</script>
