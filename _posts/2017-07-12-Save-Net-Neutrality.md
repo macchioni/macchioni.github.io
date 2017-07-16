@@ -1,4 +1,4 @@
----
+	---
 author: leibniz
 date: 2017-07-12
 layout: post
@@ -21,5 +21,5 @@ tags:
 
 [Let's Save Net Neutrality](https://www.eff.org/deeplinks/2017/07/todays-day-lets-save-net-neutrality)
 
-_
-possed → [@leibniz](https://twitter.com/leibniz/status/885040901537574912)
+_<br />
+possed → <i class="fa fa-twitter"></i>[@leibniz](https://twitter.com/leibniz/status/885040901537574912)
