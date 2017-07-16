@@ -9,6 +9,9 @@ layout: default
 <div class="post-content e-content">
   {{ content }}
 </div>
+<div class="webmention" rel="webmention">
+  {% include webmention.html %}
+</div>
 <div class="post-footer">
   {% include post-footer.html %} <p class="meta"><time class="dt-published" datetime="{{ site.time | date_to_xmlschema }}"></time></p>
 </div>
