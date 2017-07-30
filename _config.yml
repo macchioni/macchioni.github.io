@@ -12,11 +12,6 @@ github:
 
 markdown: kramdown 
 
-gems:
-  - jemoji
-  - jekyll-last-modified-at
-  - jekyll-seo-tag
-  - jekyll-sitemap
 exclude:
   - "README.md"
   - "CHANGELOG.md"
@@ -48,45 +43,3 @@ social:
     - https://it.linkedin.com/in/macchioni
     - https://github.com/macchioni
     - https://instagram.com/le1bniz
-
-prose:
-  rooturl: '_posts'
-  siteurl: "http://macchioni.github.io"
-  media: "images/vault/"
-  metadata:
-    _posts:
-      - name: "published"
-        field:
-          label: "Published"
-          element: "checkbox"
-          value: "true"
-      - name: "author"
-        field:
-          label: "author"
-          element: "text"
-          value: "leibniz"      
-      - name: "layout"
-        field:
-          label: "Layout"
-          element: "text"
-          value: "post"
-      - name: "title"
-        field:
-          label: "Title"
-          element: "text"
-          value: "Titolo, 70 chr, descrittivo, 3 wds"
-      - name: "description"
-        field:
-          label: "description"
-          element: "text"
-          placeholder: "Descrizione, 172 chr, keyword"    
-      - name: "categories"
-        field:
-          label: "categories"
-          element: "text"
-          placeholder: "Enter categories"
-      - name: "meta"
-        field:
-          label: "meta"
-          element: "text"
-          placeholder: "Enter tags & metadata"
