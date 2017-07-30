@@ -39,8 +39,7 @@
     <![endif]-->
     {% include head.html %}
 <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
-    {% seo %}
-  </head>
+</head>
   <body>
   {% if site.data.theme.color == "default" %}
     <div class="navbar navbar-default navbar-static-top">
