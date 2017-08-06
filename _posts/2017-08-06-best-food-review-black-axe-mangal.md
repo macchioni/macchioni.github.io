@@ -26,4 +26,4 @@ I believe this is the best food review I’ve read this year.
 
 [NobleRot Magazine- Sex & Drugs & Pinot Noir - issue 14](http://noblerot.co.uk/magazine)
 
-_*btw, that’s a [Lamb Offal Flatbread](http://www.londoncheapeats.com/entries/lamb-offal-flat-bread-black-axe-mangal-550): it looks harmless, daoesn’t it? It’s not._
+_*btw, that’s a [Lamb Offal Flatbread](http://www.londoncheapeats.com/entries/lamb-offal-flat-bread-black-axe-mangal-550): it looks harmless, doesn't it? It’s not._
