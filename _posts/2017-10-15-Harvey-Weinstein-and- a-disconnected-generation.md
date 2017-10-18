@@ -18,4 +18,4 @@ tags:
 
 -[Platon](https://www.instagram.com/p/BaPkP9lBTFp/?taken-by=platon), Oct 15th 2017, via Instagram.
 
-_(I'm reposting it here because I think it's an interesting angle from an artist who's been making portraits of powerful people for years)_
+_(I'm reposting it here because I think it's an interesting angle from an artist who's been taking portraits of powerful people for years)_
