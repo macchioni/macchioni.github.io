@@ -8,7 +8,7 @@ categories:
 - Hollywood
 tags:
 - Harvey Weinstein
-- powerr
+- power
 - social media
 ---
 
